@@ -1,0 +1,122 @@
+[
+  {
+    "title": "Ed Gein, o Açougueiro de Plainfield",
+    "type": "TRUE",
+    "subject": "Um assassino e ladrão de sepulturas em Wisconsin cujos crimes inspiraram personagens de terror icônicos.",
+    "timeline": [
+      {"year": 1945, "event": "A morte de sua mãe, Augusta, deixa Gein sozinho na fazenda da família, catalisando sua psicopatia."},
+      {"year": 1954, "event": "Gein começa a roubar túmulos de mulheres de meia-idade que se assemelhavam à sua mãe."},
+      {"year": 1957, "event": "O desaparecimento da dona da loja de ferragens Bernice Worden leva a polícia à fazenda de Gein, descobrindo uma casa de horrores com restos humanos."}
+    ],
+    "anchors": [
+      "Plainfield, Wisconsin",
+      "Bernice Worden",
+      "Máscaras de pele humana e um cinto de mamilos",
+      "Fazenda da família Gein"
+    ],
+    "rule_break_consequence": "A regra social de respeito aos mortos foi quebrada → Gein exumou corpos para criar troféus e móveis → consequência: a descoberta de seus atos chocou a nação e redefiniu a percepção do mal.",
+    "authority_cut": "\"Devido aos custos proibitivos, Gein foi julgado por apenas um assassinato - o da Sra. Worden. Ele também admitiu ter matado Mary Hogan.\" - Juiz Robert H. Gollmar",
+    "open_questions": [
+      "Gein realmente matou seu irmão, Henry, em 1944?",
+      "Quantas vítimas não descobertas podem ter existido?",
+      "Qual foi a extensão total de suas atividades de roubo de sepulturas?"
+    ],
+    "status": "O caso está fechado. Gein morreu em uma instituição psiquiátrica em 1984. Sua história inspirou os vilões de 'Psicose', 'O Massacre da Serra Elétrica' e 'O Silêncio dos Inocentes'."
+  },
+  {
+    "title": "O Incidente da Passagem Dyatlov",
+    "type": "LEGEND",
+    "subject": "A morte misteriosa e inexplicável de nove experientes caminhantes de esqui nos Montes Urais.",
+    "timeline": [
+      {"year": 1959, "event": "Um grupo de dez caminhantes, liderado por Igor Dyatlov, inicia uma expedição nos Montes Urais."},
+      {"date": "1-2 de fevereiro de 1959", "event": "O grupo monta acampamento na encosta da Kholat Syakhl. Durante a noite, um evento desconhecido os força a rasgar sua barraca por dentro e fugir para a floresta congelante, mal vestidos."},
+      {"date": "26 de fevereiro de 1959", "event": "A equipe de busca encontra a barraca abandonada. Os corpos são descobertos ao longo dos meses seguintes, alguns com ferimentos internos graves e inexplicáveis."}
+    ],
+    "anchors": [
+      "Kholat Syakhl ('Montanha da Morte')",
+      "Igor Dyatlov",
+      "Barraca rasgada por dentro",
+      "Ferimentos de força contundente, língua ausente de uma vítima"
+    ],
+    "rule_break_consequence": "A regra fundamental da sobrevivência em clima extremo foi quebrada → os caminhantes abandonaram a segurança de sua barraca → consequência: todos os nove morreram de hipotermia e ferimentos traumáticos.",
+    "authority_cut": "\"O legista concluiu que seis vítimas morreram de hipotermia e três de ferimentos fatais... a força necessária para causar tal dano seria extremamente alta, comparável à força de um acidente de carro.\" - Relatório da investigação soviética",
+    "open_questions": [
+      "O que causou o pânico repentino que os fez fugir da barraca?",
+      "Como as vítimas sofreram ferimentos internos tão graves sem sinais externos de luta?",
+      "Qual é a origem dos traços de radiação encontrados em algumas de suas roupas?"
+    ],
+    "status": "O caso permanece oficialmente sem solução. As teorias variam de avalanche e ataque militar secreto a encontros com OVNIs ou infrassom, alimentando décadas de especulação e investigação amadora."
+  },
+  {
+    "title": "Projeto MKUltra",
+    "type": "TRUE",
+    "subject": "Um programa secreto e ilegal da CIA que conduziu experimentos de controle mental em cidadãos americanos e canadenses desavisados.",
+    "timeline": [
+      {"year": 1953, "event": "A CIA, sob a direção de Allen Dulles, inicia oficialmente o Projeto MKUltra, buscando desenvolver técnicas de controle mental para uso na Guerra Fria."},
+      {"year": "1953-1964", "event": "A CIA financia pesquisas em mais de 80 instituições, incluindo universidades e hospitais, usando LSD, hipnose, abuso psicológico e outras técnicas em cobaias humanas, muitas vezes sem consentimento."},
+      {"year": 1973, "event": "O diretor da CIA, Richard Helms, ordena a destruição da maioria dos registros do MKUltra, mas alguns documentos sobrevivem, levando a investigações do Congresso em 1975."}
+    ],
+    "anchors": [
+      "CIA (Agência Central de Inteligência)",
+      "Sidney Gottlieb (químico da CIA)",
+      "LSD (dietilamida do ácido lisérgico)",
+      "Comitê Church do Senado dos EUA"
+    ],
+    "rule_break_consequence": "A regra ética e legal contra a experimentação humana não consensual foi quebrada → a CIA administrou drogas e tortura psicológica a cidadãos → consequência: vidas foram destruídas, e a revelação do programa expôs um abuso chocante de poder governamental.",
+    "authority_cut": "\"O Diretor Adjunto da CIA revelou que mais de trinta universidades e instituições estavam envolvidas em um programa de testes e experimentação 'extenso' que incluía testes de drogas ocultos em cidadãos desavisados em todos os níveis sociais.\" - Relatório do Comitê Church, 1975",
+    "open_questions": [
+      "Qual o número total de vítimas do MKUltra?",
+      "Qual foi a extensão total das experiências e onde todas ocorreram?",
+      "Quais segredos ainda permanecem nos documentos que foram destruídos com sucesso?"
+    ],
+    "status": "O programa foi oficialmente encerrado. As revelações levaram a reformas na supervisão da inteligência, mas o legado do MKUltra alimenta teorias da conspiração e desconfiança no governo até hoje."
+  },
+  {
+    "title": "A Bolha Assassina (The Blob)",
+    "type": "FICTION",
+    "subject": "Uma criatura alienígena gelatinosa e amorfa emerge de um meteorito e consome tudo em seu caminho em uma pequena cidade da Pensilvânia.",
+    "timeline": [
+      {"year": 1958, "event": "Um meteorito cai perto de uma pequena cidade. Um velho o cutuca com um graveto, e uma substância gelatinosa gruda em sua mão."},
+      {"year": 1958, "event": "Adolescentes, liderados por Steve Andrews, levam o velho ao médico, mas a bolha o consome e cresce de tamanho, escapando do consultório médico."},
+      {"year": 1958, "event": "A bolha, agora enorme e vermelha, ataca a cidade, encurralando os frequentadores do cinema até que os adolescentes descobrem sua fraqueza: o frio extremo."}
+    ],
+    "anchors": [
+      "Phoenixville, Pensilvânia (local da filmagem)",
+      "Steve McQueen (no papel de Steve Andrews)",
+      "O Colonial Theatre",
+      "Extintores de CO2"
+    ],
+    "rule_break_consequence": "A regra de que os adultos sabem mais foi quebrada → a polícia inicialmente descarta os avisos dos adolescentes como uma brincadeira → consequência: a bolha fica descontrolada, consumindo vários cidadãos antes que os jovens provem que estão certos.",
+    "authority_cut": "\"Como você faz as pessoas acreditarem que estão em perigo quando elas não podem ver o perigo?\" - Personagem Steve Andrews",
+    "open_questions": [
+      "De que planeta a Bolha se originou?",
+      "Existem outras criaturas como ela no universo?",
+      "O Ártico realmente a conteria para sempre?"
+    ],
+    "status": "Um filme B de ficção científica clássico. A história foi contada no filme de 1958 e inspirou um remake em 1988. O Colonial Theatre em Phoenixville celebra o filme anualmente com um 'Blobfest'."
+  },
+  {
+    "title": "A Maldição da Residência Hill (The Haunting of Hill House)",
+    "type": "FICTION",
+    "subject": "Quatro indivíduos participam de uma investigação paranormal em uma mansão notoriamente assombrada, onde a casa em si parece ser uma entidade viva e maligna.",
+    "timeline": [
+      {"year": 1959, "event": "O Dr. John Montague convida três pessoas para a Residência Hill para investigar seus fenômenos sobrenaturais: Eleanor Vance, Theodora e Luke Sanderson."},
+      {"year": 1959, "event": "O grupo experimenta eventos aterrorizantes: batidas violentas nas portas, mensagens escritas nas paredes e uma sensação avassaladora de pavor."},
+      {"year": 1959, "event": "A psique frágil de Eleanor começa a se fundir com a casa, levando-a a acreditar que pertence à mansão, resultando em um clímax trágico."}
+    ],
+    "anchors": [
+      "Residência Hill",
+      "Eleanor Vance",
+      "\"AJUDEM ELEANOR A VOLTAR PARA CASA\" (escrito nas paredes)",
+      "A torre da biblioteca"
+    ],
+    "rule_break_consequence": "A regra de manter uma distância psicológica e científica foi quebrada → Eleanor Vance se permite ser emocionalmente consumida pela casa → consequência: a casa a reivindica como sua, levando à sua morte.",
+    "authority_cut": "\"A Residência Hill, não sã, erguia-se contra suas colinas, contendo a escuridão em seu interior; estava de pé há oitenta anos e poderia ficar por mais oitenta. Dentro, as paredes continuavam eretas, os tijolos se encontravam com precisão, os assoalhos eram firmes e as portas estavam sensatamente fechadas; o silêncio pairava firme contra a madeira e a pedra da Residência Hill, e o que quer que andasse por lá, andava sozinho.\" - Parágrafo de abertura do romance de Shirley Jackson.",
+    "open_questions": [
+      "A casa é genuinamente assombrada por fantasmas ou é uma entidade senciente por si só?",
+      "Os fenômenos são puramente sobrenaturais, ou são manifestações da deterioração psicológica de Eleanor?",
+      "Qual é a verdadeira natureza da força que reside na Residência Hill?"
+    ],
+    "status": "Um romance de terror gótico seminal de Shirley Jackson, publicado em 1959. Considerado uma das melhores histórias de casas assombradas já escritas, foi adaptado para o cinema em 1963 e 1999, e para uma aclamada série da Netflix em 2018."
+  }
+]
