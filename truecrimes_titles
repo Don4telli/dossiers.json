@@ -5,7 +5,7 @@
 "filters": {
 "location": "California, USA",
 "crime_type": "serial killing",
-time_period: "1960s-1970s",
+"time_period": "1960s-1970s",
 "celebrity_involvement": "no"
 }
 },
@@ -16,7 +16,7 @@ time_period: "1960s-1970s",
 "location": "USA/Canada",
 "crime_type": "conspiracy",
 "time_period": "1950s-1970s",
-celebrity_involvement: "no"
+"celebrity_involvement": "no"
 }
 },
 {
