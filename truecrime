@@ -1,122 +1,842 @@
 [
   {
-    "title": "Ed Gein, o Açougueiro de Plainfield",
+    "dossier_id": "dossie#01",
+    "title": "The Zodiac Killer, The Cipher Slayer",
     "type": "TRUE",
-    "subject": "Um assassino e ladrão de sepulturas em Wisconsin cujos crimes inspiraram personagens de terror icônicos.",
+    "story_type": "true crime",
+    "language": "en-US",
+    "filters": {
+      "location": "California, USA",
+      "crime_type": "serial killing",
+      "time_period": "1960s-1970s",
+      "celebrity_involvement": "no"
+    },
+    "subject": "An unidentified serial killer terrorizes Northern California with cryptic ciphers and taunting letters, evading capture for decades.",
     "timeline": [
-      {"year": 1945, "event": "A morte de sua mãe, Augusta, deixa Gein sozinho na fazenda da família, catalisando sua psicopatia."},
-      {"year": 1954, "event": "Gein começa a roubar túmulos de mulheres de meia-idade que se assemelhavam à sua mãe."},
-      {"year": 1957, "event": "O desaparecimento da dona da loja de ferragens Bernice Worden leva a polícia à fazenda de Gein, descobrindo uma casa de horrores com restos humanos."}
+      {
+        "year": 1968,
+        "event": "The Zodiac claims his first confirmed victims, David Faraday and Betty Lou Jensen, shot dead on a lover’s lane in Vallejo."
+      },
+      {
+        "year": 1969,
+        "event": "The killer sends ciphers and letters to newspapers, claiming responsibility for murders and demanding publication."
+      },
+      {
+        "year": 1974,
+        "event": "The Zodiac’s last confirmed letter is received, though his identity remains unknown, fueling speculation."
+      }
     ],
     "anchors": [
-      "Plainfield, Wisconsin",
-      "Bernice Worden",
-      "Máscaras de pele humana e um cinto de mamilos",
-      "Fazenda da família Gein"
+      "San Francisco Bay Area",
+      "Zodiac ciphers",
+      "Taunting letters to police",
+      "Lake Berryessa attack"
     ],
-    "rule_break_consequence": "A regra social de respeito aos mortos foi quebrada → Gein exumou corpos para criar troféus e móveis → consequência: a descoberta de seus atos chocou a nação e redefiniu a percepção do mal.",
-    "authority_cut": "\"Devido aos custos proibitivos, Gein foi julgado por apenas um assassinato - o da Sra. Worden. Ele também admitiu ter matado Mary Hogan.\" - Juiz Robert H. Gollmar",
+    "rule_break_consequence": "The societal expectation of safety in public spaces was violated → The Zodiac’s random killings and media manipulation spread widespread fear → consequence: the case redefined public perceptions of serial killers and unsolved mysteries.",
+    "authority_cut": "\"The Zodiac’s ciphers were a psychological game, designed to mock law enforcement and captivate the public.\" - Detective David Toschi, San Francisco Police Department",
     "open_questions": [
-      "Gein realmente matou seu irmão, Henry, em 1944?",
-      "Quantas vítimas não descobertas podem ter existido?",
-      "Qual foi a extensão total de suas atividades de roubo de sepulturas?"
+      "What was the true identity of the Zodiac Killer?",
+      "How many additional victims did the Zodiac kill beyond the confirmed cases?",
+      "Were any of the ciphers’ unsolved portions meant to reveal his motives?"
     ],
-    "status": "O caso está fechado. Gein morreu em uma instituição psiquiátrica em 1984. Sua história inspirou os vilões de 'Psicose', 'O Massacre da Serra Elétrica' e 'O Silêncio dos Inocentes'."
+    "status": "The case remains open. The Zodiac Killer was never identified or apprehended, inspiring films, books, and ongoing investigations."
   },
   {
-    "title": "O Incidente da Passagem Dyatlov",
-    "type": "LEGEND",
-    "subject": "A morte misteriosa e inexplicável de nove experientes caminhantes de esqui nos Montes Urais.",
-    "timeline": [
-      {"year": 1959, "event": "Um grupo de dez caminhantes, liderado por Igor Dyatlov, inicia uma expedição nos Montes Urais."},
-      {"date": "1-2 de fevereiro de 1959", "event": "O grupo monta acampamento na encosta da Kholat Syakhl. Durante a noite, um evento desconhecido os força a rasgar sua barraca por dentro e fugir para a floresta congelante, mal vestidos."},
-      {"date": "26 de fevereiro de 1959", "event": "A equipe de busca encontra a barraca abandonada. Os corpos são descobertos ao longo dos meses seguintes, alguns com ferimentos internos graves e inexplicáveis."}
-    ],
-    "anchors": [
-      "Kholat Syakhl ('Montanha da Morte')",
-      "Igor Dyatlov",
-      "Barraca rasgada por dentro",
-      "Ferimentos de força contundente, língua ausente de uma vítima"
-    ],
-    "rule_break_consequence": "A regra fundamental da sobrevivência em clima extremo foi quebrada → os caminhantes abandonaram a segurança de sua barraca → consequência: todos os nove morreram de hipotermia e ferimentos traumáticos.",
-    "authority_cut": "\"O legista concluiu que seis vítimas morreram de hipotermia e três de ferimentos fatais... a força necessária para causar tal dano seria extremamente alta, comparável à força de um acidente de carro.\" - Relatório da investigação soviética",
-    "open_questions": [
-      "O que causou o pânico repentino que os fez fugir da barraca?",
-      "Como as vítimas sofreram ferimentos internos tão graves sem sinais externos de luta?",
-      "Qual é a origem dos traços de radiação encontrados em algumas de suas roupas?"
-    ],
-    "status": "O caso permanece oficialmente sem solução. As teorias variam de avalanche e ataque militar secreto a encontros com OVNIs ou infrassom, alimentando décadas de especulação e investigação amadora."
-  },
-  {
-    "title": "Projeto MKUltra",
+    "dossier_id": "dossie#02",
+    "title": "MKUltra Project, The Mind Control Conspiracy",
     "type": "TRUE",
-    "subject": "Um programa secreto e ilegal da CIA que conduziu experimentos de controle mental em cidadãos americanos e canadenses desavisados.",
+    "story_type": "true crime",
+    "language": "en-US",
+    "filters": {
+      "location": "USA/Canada",
+      "crime_type": "conspiracy",
+      "time_period": "1950s-1970s",
+      "celebrity_involvement": "no"
+    },
+    "subject": "A secret CIA program experiments with mind control, using drugs and psychological techniques on unsuspecting citizens.",
     "timeline": [
-      {"year": 1953, "event": "A CIA, sob a direção de Allen Dulles, inicia oficialmente o Projeto MKUltra, buscando desenvolver técnicas de controle mental para uso na Guerra Fria."},
-      {"year": "1953-1964", "event": "A CIA financia pesquisas em mais de 80 instituições, incluindo universidades e hospitais, usando LSD, hipnose, abuso psicológico e outras técnicas em cobaias humanas, muitas vezes sem consentimento."},
-      {"year": 1973, "event": "O diretor da CIA, Richard Helms, ordena a destruição da maioria dos registros do MKUltra, mas alguns documentos sobrevivem, levando a investigações do Congresso em 1975."}
+      {
+        "year": 1953,
+        "event": "The CIA launches Project MKUltra to explore mind control for interrogation, using LSD and other drugs."
+      },
+      {
+        "year": 1963,
+        "event": "MKUltra experiments expand to Canada, with unethical tests at McGill University on psychiatric patients."
+      },
+      {
+        "year": 1975,
+        "event": "The Church Committee exposes MKUltra, revealing widespread human rights violations; most records are destroyed."
+      }
     ],
     "anchors": [
-      "CIA (Agência Central de Inteligência)",
-      "Sidney Gottlieb (químico da CIA)",
-      "LSD (dietilamida do ácido lisérgico)",
-      "Comitê Church do Senado dos EUA"
+      "CIA headquarters, Langley",
+      "LSD experiments",
+      "McGill University",
+      "Church Committee hearings"
     ],
-    "rule_break_consequence": "A regra ética e legal contra a experimentação humana não consensual foi quebrada → a CIA administrou drogas e tortura psicológica a cidadãos → consequência: vidas foram destruídas, e a revelação do programa expôs um abuso chocante de poder governamental.",
-    "authority_cut": "\"O Diretor Adjunto da CIA revelou que mais de trinta universidades e instituições estavam envolvidas em um programa de testes e experimentação 'extenso' que incluía testes de drogas ocultos em cidadãos desavisados em todos os níveis sociais.\" - Relatório do Comitê Church, 1975",
+    "rule_break_consequence": "The ethical boundary of informed consent was violated → MKUltra’s secret experiments harmed unwitting subjects → consequence: public trust in government institutions eroded, sparking conspiracy theories.",
+    "authority_cut": "\"MKUltra was a dark chapter in CIA history, with experiments that defied ethical standards.\" - Senator Frank Church, 1975",
     "open_questions": [
-      "Qual o número total de vítimas do MKUltra?",
-      "Qual foi a extensão total das experiências e onde todas ocorreram?",
-      "Quais segredos ainda permanecem nos documentos que foram destruídos com sucesso?"
+      "How many victims suffered long-term effects from MKUltra experiments?",
+      "What was the full scope of the destroyed records?",
+      "Did MKUltra influence later psychological operations?"
     ],
-    "status": "O programa foi oficialmente encerrado. As revelações levaram a reformas na supervisão da inteligência, mas o legado do MKUltra alimenta teorias da conspiração e desconfiança no governo até hoje."
+    "status": "The case is closed. MKUltra was officially halted in 1973, but its legacy fuels distrust in government secrecy."
   },
   {
-    "title": "A Bolha Assassina (The Blob)",
-    "type": "FICTION",
-    "subject": "Uma criatura alienígena gelatinosa e amorfa emerge de um meteorito e consome tudo em seu caminho em uma pequena cidade da Pensilvânia.",
+    "dossier_id": "dossie#03",
+    "title": "Jack the Ripper, The Whitechapel Terror",
+    "type": "TRUE",
+    "story_type": "true crime",
+    "language": "en-US",
+    "filters": {
+      "location": "London, UK",
+      "crime_type": "serial killing",
+      "time_period": "1880s",
+      "celebrity_involvement": "no"
+    },
+    "subject": "An unidentified killer murders and mutilates women in London’s Whitechapel district, becoming a global legend.",
     "timeline": [
-      {"year": 1958, "event": "Um meteorito cai perto de uma pequena cidade. Um velho o cutuca com um graveto, e uma substância gelatinosa gruda em sua mão."},
-      {"year": 1958, "event": "Adolescentes, liderados por Steve Andrews, levam o velho ao médico, mas a bolha o consome e cresce de tamanho, escapando do consultório médico."},
-      {"year": 1958, "event": "A bolha, agora enorme e vermelha, ataca a cidade, encurralando os frequentadores do cinema até que os adolescentes descobrem sua fraqueza: o frio extremo."}
+      {
+        "year": 1888,
+        "event": "The first canonical victim, Mary Ann Nichols, is found brutally murdered in Whitechapel."
+      },
+      {
+        "year": 1888,
+        "event": "The Ripper sends a taunting letter, ‘From Hell,’ to police, escalating public panic."
+      },
+      {
+        "year": 1888,
+        "event": "The murder of Mary Kelly, the final canonical victim, marks the peak of the Ripper’s violence."
+      }
     ],
     "anchors": [
-      "Phoenixville, Pensilvânia (local da filmagem)",
-      "Steve McQueen (no papel de Steve Andrews)",
-      "O Colonial Theatre",
-      "Extintores de CO2"
+      "Whitechapel, London",
+      "From Hell letter",
+      "Canonical five victims",
+      "Scotland Yard"
     ],
-    "rule_break_consequence": "A regra de que os adultos sabem mais foi quebrada → a polícia inicialmente descarta os avisos dos adolescentes como uma brincadeira → consequência: a bolha fica descontrolada, consumindo vários cidadãos antes que os jovens provem que estão certos.",
-    "authority_cut": "\"Como você faz as pessoas acreditarem que estão em perigo quando elas não podem ver o perigo?\" - Personagem Steve Andrews",
+    "rule_break_consequence": "The societal norm of urban safety was shattered → The Ripper’s gruesome murders exposed vulnerabilities in policing → consequence: the case sparked reforms in law enforcement and forensic science.",
+    "authority_cut": "\"The Ripper’s crimes revealed the limits of Victorian policing in a rapidly growing city.\" - Historian Philip Sugden",
     "open_questions": [
-      "De que planeta a Bolha se originou?",
-      "Existem outras criaturas como ela no universo?",
-      "O Ártico realmente a conteria para sempre?"
+      "Who was Jack the Ripper’s true identity?",
+      "Were there additional victims beyond the canonical five?",
+      "Why did the murders stop after 1888?"
     ],
-    "status": "Um filme B de ficção científica clássico. A história foi contada no filme de 1958 e inspirou um remake em 1988. O Colonial Theatre em Phoenixville celebra o filme anualmente com um 'Blobfest'."
+    "status": "The case remains open. Jack the Ripper was never identified, leaving a lasting cultural impact."
   },
   {
-    "title": "A Maldição da Residência Hill (The Haunting of Hill House)",
-    "type": "FICTION",
-    "subject": "Quatro indivíduos participam de uma investigação paranormal em uma mansão notoriamente assombrada, onde a casa em si parece ser uma entidade viva e maligna.",
+    "dossier_id": "dossie#04",
+    "title": "The Black Dahlia Murder, Hollywood’s Unsolved Mystery",
+    "type": "TRUE",
+    "story_type": "true crime",
+    "language": "en-US",
+    "filters": {
+      "location": "California, USA",
+      "crime_type": "murder",
+      "time_period": "1940s",
+      "celebrity_involvement": "yes"
+    },
+    "subject": "Aspiring actress Elizabeth Short is found brutally murdered and mutilated, sparking a media frenzy and enduring mystery.",
     "timeline": [
-      {"year": 1959, "event": "O Dr. John Montague convida três pessoas para a Residência Hill para investigar seus fenômenos sobrenaturais: Eleanor Vance, Theodora e Luke Sanderson."},
-      {"year": 1959, "event": "O grupo experimenta eventos aterrorizantes: batidas violentas nas portas, mensagens escritas nas paredes e uma sensação avassaladora de pavor."},
-      {"year": 1959, "event": "A psique frágil de Eleanor começa a se fundir com a casa, levando-a a acreditar que pertence à mansão, resultando em um clímax trágico."}
+      {
+        "year": 1947,
+        "event": "Elizabeth Short’s body is discovered in a Los Angeles lot, bisected and posed."
+      },
+      {
+        "year": 1947,
+        "event": "Police receive taunting letters claiming responsibility, but no suspect is confirmed."
+      },
+      {
+        "year": 1949,
+        "event": "The investigation stalls, with over 60 suspects but no convictions."
+      }
     ],
     "anchors": [
-      "Residência Hill",
-      "Eleanor Vance",
-      "\"AJUDEM ELEANOR A VOLTAR PARA CASA\" (escrito nas paredes)",
-      "A torre da biblioteca"
+      "Leimert Park, Los Angeles",
+      "Elizabeth Short",
+      "Black Dahlia nickname",
+      "Taunting letters"
     ],
-    "rule_break_consequence": "A regra de manter uma distância psicológica e científica foi quebrada → Eleanor Vance se permite ser emocionalmente consumida pela casa → consequência: a casa a reivindica como sua, levando à sua morte.",
-    "authority_cut": "\"A Residência Hill, não sã, erguia-se contra suas colinas, contendo a escuridão em seu interior; estava de pé há oitenta anos e poderia ficar por mais oitenta. Dentro, as paredes continuavam eretas, os tijolos se encontravam com precisão, os assoalhos eram firmes e as portas estavam sensatamente fechadas; o silêncio pairava firme contra a madeira e a pedra da Residência Hill, e o que quer que andasse por lá, andava sozinho.\" - Parágrafo de abertura do romance de Shirley Jackson.",
+    "rule_break_consequence": "The societal expectation of safety for young women was violated → Short’s gruesome murder shocked Hollywood → consequence: the case highlighted media sensationalism and investigative failures.",
+    "authority_cut": "\"The Black Dahlia case was a media circus that obscured the truth.\" - LAPD Detective Harry Hansen",
     "open_questions": [
-      "A casa é genuinamente assombrada por fantasmas ou é uma entidade senciente por si só?",
-      "Os fenômenos são puramente sobrenaturais, ou são manifestações da deterioração psicológica de Eleanor?",
-      "Qual é a verdadeira natureza da força que reside na Residência Hill?"
+      "Who killed Elizabeth Short?",
+      "Was the murderer connected to Hollywood’s elite?",
+      "What motivated the extreme mutilation of the body?"
     ],
-    "status": "Um romance de terror gótico seminal de Shirley Jackson, publicado em 1959. Considerado uma das melhores histórias de casas assombradas já escritas, foi adaptado para o cinema em 1963 e 1999, e para uma aclamada série da Netflix em 2018."
+    "status": "The case remains open. No one was ever convicted, and the Black Dahlia remains a cultural touchstone."
+  },
+  {
+    "dossier_id": "dossie#05",
+    "title": "The Manson Family Murders, Cult of Chaos",
+    "type": "TRUE",
+    "story_type": "true crime",
+    "language": "en-US",
+    "filters": {
+      "location": "California, USA",
+      "crime_type": "cult-related murder",
+      "time_period": "1960s",
+      "celebrity_involvement": "yes"
+    },
+    "subject": "A cult led by Charles Manson orchestrates brutal murders to incite a race war, targeting high-profile victims.",
+    "timeline": [
+      {
+        "year": 1969,
+        "event": "Manson Family members murder actress Sharon Tate and four others in a Los Angeles home."
+      },
+      {
+        "year": 1969,
+        "event": "The LaBianca murders occur the next night, with similar brutality."
+      },
+      {
+        "year": 1971,
+        "event": "Charles Manson and followers are convicted of murder and conspiracy."
+      }
+    ],
+    "anchors": [
+      "Cielo Drive, Los Angeles",
+      "Charles Manson",
+      "Sharon Tate",
+      "Helter Skelter motive"
+    ],
+    "rule_break_consequence": "The societal trust in counterculture movements was broken → Manson’s cult exploited followers to commit atrocities → consequence: the case ended the 1960s’ idealism and fueled fear of cults.",
+    "authority_cut": "\"Manson’s ability to manipulate vulnerable minds was terrifying.\" - Prosecutor Vincent Bugliosi",
+    "open_questions": [
+      "How many other murders were committed by the Manson Family?",
+      "Was Manson’s Helter Skelter motive genuine or a fabrication?",
+      "Could earlier intervention have stopped the cult?"
+    ],
+    "status": "The case is closed. Manson died in prison in 2017; key members remain incarcerated."
+  },
+  {
+    "dossier_id": "dossie#06",
+    "title": "O.J. Simpson Trial, The Chase That Gripped America",
+    "type": "TRUE",
+    "story_type": "true crime",
+    "language": "en-US",
+    "filters": {
+      "location": "California, USA",
+      "crime_type": "murder",
+      "time_period": "1990s",
+      "celebrity_involvement": "yes"
+    },
+    "subject": "NFL star O.J. Simpson is accused of murdering his ex-wife and her friend, leading to a sensational trial.",
+    "timeline": [
+      {
+        "year": 1994,
+        "event": "Nicole Brown Simpson and Ron Goldman are found stabbed to death outside her home."
+      },
+      {
+        "year": 1994,
+        "event": "Simpson leads police on a low-speed chase in a white Bronco, broadcast live."
+      },
+      {
+        "year": 1995,
+        "event": "Simpson is acquitted in a controversial verdict, dividing public opinion."
+      }
+    ],
+    "anchors": [
+      "Brentwood, Los Angeles",
+      "O.J. Simpson",
+      "White Bronco chase",
+      "Glove evidence"
+    ],
+    "rule_break_consequence": "The societal expectation of justice was challenged → The trial’s media frenzy and racial tensions exposed systemic issues → consequence: it reshaped views on celebrity, race, and the legal system.",
+    "authority_cut": "\"The glove didn’t fit, so you must acquit.\" - Defense attorney Johnnie Cochran",
+    "open_questions": [
+      "Did the jury’s verdict reflect evidence or public sentiment?",
+      "What role did media coverage play in the trial’s outcome?",
+      "Were there other accomplices in the murders?"
+    ],
+    "status": "The criminal case is closed. Simpson was acquitted but later found liable in a civil suit. He died in 2024."
+  },
+  {
+    "dossier_id": "dossie#07",
+    "title": "The Backpacker Murders, Australia’s Outback Horror",
+    "type": "TRUE",
+    "story_type": "true crime",
+    "language": "en-US",
+    "filters": {
+      "location": "New South Wales, Australia",
+      "crime_type": "serial killing",
+      "time_period": "1990s",
+      "celebrity_involvement": "no"
+    },
+    "subject": "A serial killer targets backpackers in the Australian outback, leaving bodies in Belanglo State Forest.",
+    "timeline": [
+      {
+        "year": 1992,
+        "event": "The first bodies, British backpackers, are found in Belanglo State Forest."
+      },
+      {
+        "year": 1993,
+        "event": "More bodies are discovered, linking the murders to a single killer."
+      },
+      {
+        "year": 1996,
+        "event": "Ivan Milat is convicted of seven murders and sentenced to life."
+      }
+    ],
+    "anchors": [
+      "Belanglo State Forest",
+      "Ivan Milat",
+      "Backpacker victims",
+      "Wolf Creek inspiration"
+    ],
+    "rule_break_consequence": "The societal trust in travel safety was violated → Milat preyed on vulnerable tourists → consequence: the case led to heightened travel warnings and forest patrols.",
+    "authority_cut": "\"Milat’s crimes exposed the dangers lurking in remote areas.\" - NSW Police Detective Clive Small",
+    "open_questions": [
+      "Did Milat act alone or with accomplices?",
+      "Are there additional undiscovered victims?",
+      "How did Milat evade detection for so long?"
+    ],
+    "status": "The case is closed. Milat died in prison in 2019."
+  },
+  {
+    "dossier_id": "dossie#08",
+    "title": "The Monster of Florence, Italy’s Unsolved Nightmare",
+    "type": "TRUE",
+    "story_type": "true crime",
+    "language": "en-US",
+    "filters": {
+      "location": "Florence, Italy",
+      "crime_type": "serial killing",
+      "time_period": "1960s-1980s",
+      "celebrity_involvement": "no"
+    },
+    "subject": "A mysterious killer targets couples in the Tuscan countryside, leaving a trail of unsolved murders.",
+    "timeline": [
+      {
+        "year": 1968,
+        "event": "The first double murder of a couple is linked to the Monster of Florence."
+      },
+      {
+        "year": 1985,
+        "event": "The final known attack occurs, with no suspect definitively identified."
+      },
+      {
+        "year": 1994,
+        "event": "Pietro Pacciani is convicted but later acquitted on appeal, leaving the case unresolved."
+      }
+    ],
+    "anchors": [
+      "Tuscan countryside",
+      "Double murders",
+      "Beretta pistol",
+      "Pacciani trial"
+    ],
+    "rule_break_consequence": "The societal norm of romantic privacy was violated → The Monster’s attacks terrorized rural communities → consequence: the case exposed flaws in Italian investigations.",
+    "authority_cut": "\"The Monster of Florence remains Italy’s greatest unsolved mystery.\" - Journalist Mario Spezi",
+    "open_questions": [
+      "Was Pacciani truly innocent or the Monster?",
+      "Could a secret society have been involved?",
+      "Why did the killings stop after 1985?"
+    ],
+    "status": "The case remains open. No one was conclusively convicted."
+  },
+  {
+    "dossier_id": "dossie#09",
+    "title": "Issei Sagawa, The Cannibal Celebrity",
+    "type": "TRUE",
+    "story_type": "true crime",
+    "language": "en-US",
+    "filters": {
+      "location": "Paris, France",
+      "crime_type": "murder/cannibalism",
+      "time_period": "1980s",
+      "celebrity_involvement": "yes"
+    },
+    "subject": "A Japanese student murders and cannibalizes a classmate in Paris, later gaining fame after his release.",
+    "timeline": [
+      {
+        "year": 1981,
+        "event": "Issei Sagawa lures Renée Hartevelt to his apartment, kills her, and consumes parts of her body."
+      },
+      {
+        "year": 1983,
+        "event": "Sagawa is declared insane and extradited to Japan, where he is released from a psychiatric hospital."
+      },
+      {
+        "year": 1986,
+        "event": "Sagawa becomes a media figure, writing books and appearing on TV, sparking outrage."
+      }
+    ],
+    "anchors": [
+      "Paris, France",
+      "Issei Sagawa",
+      "Renée Hartevelt",
+      "Cannibal memoirs"
+    ],
+    "rule_break_consequence": "The societal taboo against cannibalism was violated → Sagawa’s crime and subsequent fame shocked the public → consequence: the case raised questions about justice and media ethics.",
+    "authority_cut": "\"Sagawa’s release was a failure of the system to deliver justice.\" - French prosecutor",
+    "open_questions": [
+      "Why was Sagawa released so quickly?",
+      "Did media attention enable his celebrity status?",
+      "Were there other victims before Hartevelt?"
+    ],
+    "status": "The case is closed. Sagawa lived freely in Japan until his death in 2022."
+  },
+  {
+    "dossier_id": "dossie#10",
+    "title": "The Green River Killer, Washington’s Silent Predator",
+    "type": "TRUE",
+    "story_type": "true crime",
+    "language": "en-US",
+    "filters": {
+      "location": "Washington, USA",
+      "crime_type": "serial killing",
+      "time_period": "1980s-1990s",
+      "celebrity_involvement": "no"
+    },
+    "subject": "A serial killer targets vulnerable women, dumping their bodies near Seattle’s Green River, evading capture for decades.",
+    "timeline": [
+      {
+        "year": 1982,
+        "event": "The first victims are found near the Green River, sparking a major investigation."
+      },
+      {
+        "year": 1987,
+        "event": "Gary Ridgway is questioned but released due to lack of evidence."
+      },
+      {
+        "year": 2001,
+        "event": "DNA evidence links Ridgway to the murders, leading to his arrest and conviction."
+      }
+    ],
+    "anchors": [
+      "Green River, Seattle",
+      "Gary Ridgway",
+      "DNA evidence",
+      "Victim profiles"
+    ],
+    "rule_break_consequence": "The societal expectation of protecting vulnerable populations was violated → Ridgway preyed on marginalized women → consequence: the case prompted reforms in missing persons investigations.",
+    "authority_cut": "\"Ridgway’s ability to blend in made him nearly invisible.\" - Sheriff Dave Reichert",
+    "open_questions": [
+      "How many victims were never linked to Ridgway?",
+      "Why did early investigations fail to catch him?",
+      "What drove Ridgway’s choice of victims?"
+    ],
+    "status": "The case is closed. Ridgway was convicted of 49 murders and sentenced to life in 2003."
+  },
+  {
+    "dossier_id": "dossie#11",
+    "title": "The Night Stalker, Richard Ramirez’s Reign of Terror",
+    "type": "TRUE",
+    "story_type": "true crime",
+    "language": "en-US",
+    "filters": {
+      "location": "California, USA",
+      "crime_type": "serial killing",
+      "time_period": "1980s",
+      "celebrity_involvement": "no"
+    },
+    "subject": "A satanic serial killer terrorizes Los Angeles with random murders, rapes, and burglaries.",
+    "timeline": [
+      {
+        "year": 1984,
+        "event": "Richard Ramirez begins his killing spree, targeting homes at random."
+      },
+      {
+        "year": 1985,
+        "event": "A survivor’s description leads to Ramirez’s identification and capture."
+      },
+      {
+        "year": 1989,
+        "event": "Ramirez is convicted of 13 murders and sentenced to death."
+      }
+    ],
+    "anchors": [
+      "Los Angeles suburbs",
+      "Richard Ramirez",
+      "Pentagram symbols",
+      "Nighttime attacks"
+    ],
+    "rule_break_consequence": "The societal norm of home safety was violated → Ramirez’s random attacks caused widespread panic → consequence: the case led to increased home security awareness.",
+    "authority_cut": "\"Ramirez’s crimes were pure evil, driven by a twisted ideology.\" - Detective Gil Carrillo",
+    "open_questions": [
+      "What role did Ramirez’s occult beliefs play in his crimes?",
+      "Were there additional unreported victims?",
+      "How did Ramirez select his targets?"
+    ],
+    "status": "The case is closed. Ramirez died in prison in 2013."
+  },
+  {
+    "dossier_id": "dossie#12",
+    "title": "The Yorkshire Ripper, England’s Brutal Predator",
+    "type": "TRUE",
+    "story_type": "true crime",
+    "language": "en-US",
+    "filters": {
+      "location": "Yorkshire, UK",
+      "crime_type": "serial killing",
+      "time_period": "1970s-1980s",
+      "celebrity_involvement": "no"
+    },
+    "subject": "A truck driver murders women across Northern England, targeting sex workers and others, eluding police for years.",
+    "timeline": [
+      {
+        "year": 1975,
+        "event": "Peter Sutcliffe kills his first victim, Wilma McCann, in Leeds."
+      },
+      {
+        "year": 1977,
+        "event": "A hoax tape misleads police, delaying Sutcliffe’s capture."
+      },
+      {
+        "year": 1981,
+        "event": "Sutcliffe is arrested and convicted of 13 murders."
+      }
+    ],
+    "anchors": [
+      "Leeds, Yorkshire",
+      "Peter Sutcliffe",
+      "Hoax tape",
+      "Sex worker victims"
+    ],
+    "rule_break_consequence": "The societal expectation of protecting marginalized groups was violated → Sutcliffe’s attacks exposed police biases → consequence: the case led to reforms in victim advocacy.",
+    "authority_cut": "\"The hoax tape was a catastrophic distraction.\" - Detective George Oldfield",
+    "open_questions": [
+      "How did the hoax tape mislead the investigation?",
+      "Were police biases responsible for the delayed arrest?",
+      "Did Sutcliffe have additional victims?"
+    ],
+    "status": "The case is closed. Sutcliffe died in prison in 2020."
+  },
+  {
+    "dossier_id": "dossie#13",
+    "title": "The D.B. Cooper Hijacking, The Skyborne Mystery",
+    "type": "TRUE",
+    "story_type": "true crime",
+    "language": "en-US",
+    "filters": {
+      "location": "Washington, USA",
+      "crime_type": "hijacking",
+      "time_period": "1970s",
+      "celebrity_involvement": "no"
+    },
+    "subject": "A mysterious man hijacks a plane, demands ransom, and parachutes into legend, never to be caught.",
+    "timeline": [
+      {
+        "year": 1971,
+        "event": "A man identifying as Dan Cooper hijacks Northwest Orient Flight 305, demanding $200,000."
+      },
+      {
+        "year": 1971,
+        "event": "Cooper parachutes from the plane with the ransom, disappearing into the wilderness."
+      },
+      {
+        "year": 1980,
+        "event": "A portion of the ransom money is found near the Columbia River, but Cooper remains missing."
+      }
+    ],
+    "anchors": [
+      "Northwest Orient Flight 305",
+      "D.B. Cooper",
+      "Parachute escape",
+      "Ransom money"
+    ],
+    "rule_break_consequence": "The societal trust in aviation security was violated → Cooper’s audacious heist exposed vulnerabilities → consequence: the case prompted major airport security reforms.",
+    "authority_cut": "\"D.B. Cooper pulled off the perfect crime.\" - FBI Agent Ralph Himmelsbach",
+    "open_questions": [
+      "Who was D.B. Cooper’s true identity?",
+      "Did Cooper survive the parachute jump?",
+      "What happened to the remaining ransom money?"
+    ],
+    "status": "The case remains open. The FBI closed active investigation in 2016, but Cooper was never identified."
+  },
+  {
+    "dossier_id": "dossie#14",
+    "title": "The Chikatilo Murders, Russia’s Red Ripper",
+    "type": "TRUE",
+    "story_type": "true crime",
+    "language": "en-US",
+    "filters": {
+      "location": "Rostov, Russia",
+      "crime_type": "serial killing",
+      "time_period": "1970s-1990s",
+      "celebrity_involvement": "no"
+    },
+    "subject": "A Soviet schoolteacher kills dozens of victims, mostly children, in a decades-long spree.",
+    "timeline": [
+      {
+        "year": 1978,
+        "event": "Andrei Chikatilo commits his first murder, a young girl in Rostov."
+      },
+      {
+        "year": 1984,
+        "event": "Police arrest a suspect, but release him, allowing Chikatilo to continue killing."
+      },
+      {
+        "year": 1992,
+        "event": "Chikatilo is convicted of 52 murders and executed."
+      }
+    ],
+    "anchors": [
+      "Rostov-on-Don",
+      "Andrei Chikatilo",
+      "Child victims",
+      "Soviet police failures"
+    ],
+    "rule_break_consequence": "The societal expectation of child safety was violated → Chikatilo’s unchecked spree exposed Soviet inefficiencies → consequence: the case led to reforms in criminal profiling.",
+    "authority_cut": "\"Chikatilo’s crimes were a wake-up call for Soviet law enforcement.\" - Detective Viktor Burakov",
+    "open_questions": [
+      "How many victims were never discovered?",
+      "Why did Soviet police miss early clues?",
+      "What psychological factors drove Chikatilo?"
+    ],
+    "status": "The case is closed. Chikatilo was executed in 1994."
+  },
+  {
+    "dossier_id": "dossie#15",
+    "title": "The Jonestown Massacre, Cult Tragedy in Guyana",
+    "type": "TRUE",
+    "story_type": "true crime",
+    "language": "en-US",
+    "filters": {
+      "location": "Jonestown, Guyana",
+      "crime_type": "cult-related murder",
+      "time_period": "1970s",
+      "celebrity_involvement": "yes"
+    },
+    "subject": "A cult leader orchestrates a mass murder-suicide, killing over 900 followers in a remote jungle commune.",
+    "timeline": [
+      {
+        "year": 1977,
+        "event": "Jim Jones moves his Peoples Temple to Jonestown, Guyana, to escape scrutiny."
+      },
+      {
+        "year": 1978,
+        "event": "Congressman Leo Ryan visits Jonestown, is killed along with others by cult members."
+      },
+      {
+        "year": 1978,
+        "event": "Jones orders followers to drink cyanide-laced punch, resulting in 918 deaths."
+      }
+    ],
+    "anchors": [
+      "Jonestown, Guyana",
+      "Jim Jones",
+      "Cyanide punch",
+      "Leo Ryan"
+    ],
+    "rule_break_consequence": "The societal trust in religious communities was violated → Jones’s cult manipulated followers to their deaths → consequence: the case raised alarms about cult dangers.",
+    "authority_cut": "\"Jonestown was a tragedy of blind devotion.\" - FBI Agent John Douglas",
+    "open_questions": [
+      "How many deaths were coerced versus voluntary?",
+      "Could authorities have intervened earlier?",
+      "What drove Jones’s descent into paranoia?"
+    ],
+    "status": "The case is closed. Jim Jones died in Jonestown in 1978."
+  },
+  {
+    "dossier_id": "dossie#16",
+    "title": "The West Memphis Three, A Controversial Conviction",
+    "type": "TRUE",
+    "story_type": "true crime",
+    "language": "en-US",
+    "filters": {
+      "location": "Arkansas, USA",
+      "crime_type": "murder",
+      "time_period": "1990s",
+      "celebrity_involvement": "yes"
+    },
+    "subject": "Three teenagers are convicted of murdering three boys, amid claims of a flawed investigation and satanic panic.",
+    "timeline": [
+      {
+        "year": 1993,
+        "event": "Three young boys are found murdered in West Memphis, sparking a community outcry."
+      },
+      {
+        "year": 1994,
+        "event": "Damien Echols, Jessie Misskelley, and Jason Baldwin are convicted based on a coerced confession."
+      },
+      {
+        "year": 2011,
+        "event": "The West Memphis Three are released via an Alford plea after new evidence emerges."
+      }
+    ],
+    "anchors": [
+      "West Memphis, Arkansas",
+      "West Memphis Three",
+      "Satanic panic",
+      "Alford plea"
+    ],
+    "rule_break_consequence": "The societal expectation of fair justice was violated → Biased policing led to wrongful convictions → consequence: the case exposed flaws in the justice system.",
+    "authority_cut": "\"The convictions were driven by fear, not evidence.\" - Attorney Dan Stidham",
+    "open_questions": [
+      "Who was the true killer of the three boys?",
+      "How did satanic panic influence the trial?",
+      "What evidence was overlooked in the original investigation?"
+    ],
+    "status": "The case remains open. The true killer has not been identified."
+  },
+  {
+    "dossier_id": "dossie#17",
+    "title": "The Tylenol Murders, Poison in the Pills",
+    "type": "TRUE",
+    "story_type": "true crime",
+    "language": "en-US",
+    "filters": {
+      "location": "Illinois, USA",
+      "crime_type": "serial killing",
+      "time_period": "1980s",
+      "celebrity_involvement": "no"
+    },
+    "subject": "An unknown killer laces Tylenol capsules with cyanide, killing seven people and prompting a nationwide scare.",
+    "timeline": [
+      {
+        "year": 1982,
+        "event": "Seven Chicago-area residents die after taking cyanide-laced Tylenol."
+      },
+      {
+        "year": 1982,
+        "event": "Johnson & Johnson recalls 31 million bottles, but no suspect is identified."
+      },
+      {
+        "year": 1986,
+        "event": "Copycat tamperings occur, but the original perpetrator remains at large."
+      }
+    ],
+    "anchors": [
+      "Chicago, Illinois",
+      "Tylenol capsules",
+      "Cyanide poisoning",
+      "Tamper-proof packaging"
+    ],
+    "rule_break_consequence": "The societal trust in consumer safety was violated → The poisonings led to widespread fear → consequence: the case revolutionized product safety regulations.",
+    "authority_cut": "\"The Tylenol case changed how we protect consumers.\" - FDA Commissioner Frank Young",
+    "open_questions": [
+      "Who was the Tylenol killer?",
+      "Was the perpetrator motivated by personal gain or chaos?",
+      "Could similar tamperings happen today?"
+    ],
+    "status": "The case remains open. No one was ever convicted."
+  },
+  {
+    "dossier_id": "dossie#18",
+    "title": "The Disappearance of Madeleine McCann",
+    "type": "TRUE",
+    "story_type": "true crime",
+    "language": "en-US",
+    "filters": {
+      "location": "Portugal",
+      "crime_type": "missing person",
+      "time_period": "2000s",
+      "celebrity_involvement": "yes"
+    },
+    "subject": "A young girl vanishes from a resort apartment, sparking a global search and media frenzy.",
+    "timeline": [
+      {
+        "year": 2007,
+        "event": "Madeleine McCann, age 3, disappears from her family’s apartment in Praia da Luz."
+      },
+      {
+        "year": 2007,
+        "event": "Portuguese police name Madeleine’s parents as suspects, later cleared."
+      },
+      {
+        "year": 2020,
+        "event": "German authorities identify Christian Brückner as a prime suspect."
+      }
+    ],
+    "anchors": [
+      "Praia da Luz, Portugal",
+      "Madeleine McCann",
+      "Media frenzy",
+      "Christian Brückner"
+    ],
+    "rule_break_consequence": "The societal expectation of child safety on vacation was violated → Madeleine’s disappearance exposed investigative flaws → consequence: the case reshaped missing child protocols.",
+    "authority_cut": "\"This case haunts us because it could happen to anyone.\" - Detective Mark Williams-Thomas",
+    "open_questions": [
+      "What happened to Madeleine McCann?",
+      "Was Brückner definitively involved?",
+      "How did media coverage impact the investigation?"
+    ],
+    "status": "The case remains open. Brückner faces charges, but Madeleine’s fate is unknown as of 2025."
+  },
+  {
+    "dossier_id": "dossie#19",
+    "title": "The Enron Scandal, Corporate Greed Exposed",
+    "type": "TRUE",
+    "story_type": "true crime",
+    "language": "en-US",
+    "filters": {
+      "location": "Texas, USA",
+      "crime_type": "financial fraud",
+      "time_period": "2000s",
+      "celebrity_involvement": "yes"
+    },
+    "subject": "A major energy company collapses due to fraudulent accounting, ruining thousands of lives.",
+    "timeline": [
+      {
+        "year": 2001,
+        "event": "Enron files for bankruptcy, revealing massive accounting fraud."
+      },
+      {
+        "year": 2002,
+        "event": "Executives Kenneth Lay and Jeffrey Skilling are indicted for fraud and conspiracy."
+      },
+      {
+        "year": 2006,
+        "event": "Skilling and Lay are convicted; Lay dies before sentencing."
+      }
+    ],
+    "anchors": [
+      "Houston, Texas",
+      "Kenneth Lay",
+      "Jeffrey Skilling",
+      "Accounting fraud"
+    ],
+    "rule_break_consequence": "The societal trust in corporate integrity was violated → Enron’s fraud devastated employees and investors → consequence: the case led to stricter financial regulations.",
+    "authority_cut": "\"Enron was a house of cards built on lies.\" - Prosecutor John Hueston",
+    "open_questions": [
+      "How many other companies engaged in similar fraud?",
+      "Could regulators have detected Enron’s schemes earlier?",
+      "What was the full extent of Lay’s involvement?"
+    ],
+    "status": "The case is closed. Key executives were convicted; Enron dissolved."
+  },
+  {
+    "dossier_id": "dossie#20",
+    "title": "The Hillside Stranglers, Los Angeles’ Deadly Duo",
+    "type": "TRUE",
+    "story_type": "true crime",
+    "language": "en-US",
+    "filters": {
+      "location": "California, USA",
+      "crime_type": "serial killing",
+      "time_period": "1970s",
+      "celebrity_involvement": "no"
+    },
+    "subject": "Two cousins murder women in Los Angeles, posing their bodies on hillsides, terrorizing the city.",
+    "timeline": [
+      {
+        "year": 1977,
+        "event": "Angelo Buono and Kenneth Bianchi begin killing, targeting young women."
+      },
+      {
+        "year": 1979,
+        "event": "Bianchi is arrested in Washington state, linking him to the LA murders."
+      },
+      {
+        "year": 1983,
+        "event": "Both cousins are convicted of multiple murders and sentenced to life."
+      }
+    ],
+    "anchors": [
+      "Los Angeles hillsides",
+      "Angelo Buono",
+      "Kenneth Bianchi",
+      "Strangulation method"
+    ],
+    "rule_break_consequence": "The societal expectation of urban safety was violated → The cousins’ brutal killings spread fear → consequence: the case improved coordination in multi-state investigations.",
+    "authority_cut": "\"The Hillside Stranglers worked as a deadly team.\" - Detective Frank Salerno",
+    "open_questions": [
+      "Did Buono and Bianchi have additional victims?",
+      "What drove their partnership in crime?",
+      "How did they evade capture for so long?"
+    ],
+    "status": "The case is closed. Buono died in 2002; Bianchi remains in prison."
   }
 ]
