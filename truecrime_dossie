@@ -838,5 +838,1268 @@
       "How did they evade capture for so long?"
     ],
     "status": "The case is closed. Buono died in 2002; Bianchi remains in prison."
-  }
-]
+},
+{
+  "dossiers": [
+    {
+      "dossier_id": "dossie#21",
+      "title": "The Lockerbie Bombing, Terror in the Skies",
+      "type": "TRUE",
+      "story_type": "true crime",
+      "language": "en-US",
+      "filters": {
+        "location": "Scotland, UK",
+        "crime_type": "terrorism",
+        "time_period": "1980s",
+        "celebrity_involvement": "no"
+      },
+      "subject": "A transatlantic flight was destroyed by a bomb, killing 270 people and exposing international terrorism.",
+      "timeline": [
+        {
+          "year": 1988,
+          "event": "Pan Am Flight 103 explodes over Lockerbie, Scotland, on December 21, killing all 243 passengers, 16 crew, and 11 people on the ground."
+        },
+        {
+          "year": 1991,
+          "event": "Libyan nationals Abdelbaset al-Megrahi and Lamin Khalifah Fhimah are indicted for the bombing."
+        },
+        {
+          "year": 2001,
+          "event": "Al-Megrahi is convicted and sentenced to life, while Fhimah is acquitted. The case remains controversial."
+        }
+      ],
+      "anchors": [
+        "Pan Am Flight 103",
+        "Lockerbie, Scotland",
+        "Libyan terrorism",
+        "Aviation security"
+      ],
+      "rule_break_consequence": "The expectation of safe international travel was shattered → The bombing caused global mourning and heightened aviation security → consequence: it led to stricter airport protocols and international counter-terrorism efforts.",
+      "authority_cut": "\"The Lockerbie bombing was a wake-up call for global aviation security.\" - Former FBI Director Robert Mueller",
+      "open_questions": [
+        "Was al-Megrahi the sole perpetrator, or were others involved?",
+        "What was the full extent of Libyan government involvement?",
+        "Could better security measures have prevented the tragedy?"
+      ],
+      "status": "The case is partially resolved. Al-Megrahi was released in 2009 on compassionate grounds and died in 2012. Investigations into other suspects continue as of 2025."
+    },
+    {
+      "dossier_id": "dossie#22",
+      "title": "The Candy Man, Dean Corll’s House of Horrors",
+      "type": "TRUE",
+      "story_type": "true crime",
+      "language": "en-US",
+      "filters": {
+        "location": "Texas, USA",
+        "crime_type": "serial killing",
+        "time_period": "1970s",
+        "celebrity_involvement": "no"
+      },
+      "subject": "Dean Corll, a seemingly ordinary man, lured and murdered at least 28 young boys in Houston with the help of accomplices.",
+      "timeline": [
+        {
+          "year": 1970,
+          "event": "Corll begins abducting and killing teenage boys, often luring them with candy and the help of Elmer Wayne Henley and David Brooks."
+        },
+        {
+          "year": 1973,
+          "event": "Henley fatally shoots Corll during an altercation, leading to the discovery of the murders."
+        },
+        {
+          "year": 1974,
+          "event": "Henley and Brooks are convicted for their roles in the killings, receiving life sentences."
+        }
+      ],
+      "anchors": [
+        "Houston Heights",
+        "Dean Corll",
+        "Candy Man",
+        "Teenage victims"
+      ],
+      "rule_break_consequence": "The expectation of neighborhood safety was violated → Corll’s crimes devastated families and exposed hidden dangers → consequence: the case prompted increased awareness of child predation.",
+      "authority_cut": "\"The scale of these murders shocked Houston and changed how we protect our children.\" - Houston Police Chief Herman Short",
+      "open_questions": [
+        "How many additional victims did Corll kill beyond the confirmed 28?",
+        "Why did authorities initially overlook missing persons reports?",
+        "What drove Henley and Brooks to assist Corll?"
+      ],
+      "status": "The case is closed. Corll is deceased, and his accomplices remain imprisoned."
+    },
+    {
+      "dossier_id": "dossie#23",
+      "title": "The Disappearance of Emanuela Orlandi, Vatican Mystery",
+      "type": "TRUE",
+      "story_type": "true crime",
+      "language": "en-US",
+      "filters": {
+        "location": "Vatican City",
+        "crime_type": "missing person",
+        "time_period": "1980s",
+        "celebrity_involvement": "no"
+      },
+      "subject": "A 15-year-old Vatican citizen vanished after a music lesson, sparking theories of organized crime and Vatican cover-ups.",
+      "timeline": [
+        {
+          "year": 1983,
+          "event": "Emanuela Orlandi disappears on June 22 after leaving a music school in Rome."
+        },
+        {
+          "year": 1983,
+          "event": "Anonymous calls claim Orlandi was kidnapped to pressure the Vatican, possibly linked to the Mehmet Ali Ağca case."
+        },
+        {
+          "year": 2013,
+          "event": "Investigations into organized crime connections, including the Banda della Magliana, yield no definitive answers."
+        }
+      ],
+      "anchors": [
+        "Vatican City",
+        "Emanuela Orlandi",
+        "Organized crime",
+        "Vatican secrecy"
+      ],
+      "rule_break_consequence": "The expectation of safety in a sacred city was broken → Orlandi’s disappearance raised suspicions of institutional cover-ups → consequence: it damaged trust in Vatican authorities.",
+      "authority_cut": "\"This case is a wound that never heals for the Vatican.\" - Pietro Orlandi, Emanuela’s brother",
+      "open_questions": [
+        "Was Orlandi’s disappearance linked to Vatican financial scandals?",
+        "Did organized crime groups play a role in her abduction?",
+        "Is Emanuela still alive, or was she killed shortly after her disappearance?"
+      ],
+      "status": "The case remains open. No body or conclusive evidence has been found as of 2025."
+    },
+    {
+      "dossier_id": "dossie#24",
+      "title": "The Cleveland Kidnappings, Ariel Castro’s Captives",
+      "type": "TRUE",
+      "story_type": "true crime",
+      "language": "en-US",
+      "filters": {
+        "location": "Ohio, USA",
+        "crime_type": "kidnapping",
+        "time_period": "2000s-2010s",
+        "celebrity_involvement": "no"
+      },
+      "subject": "Ariel Castro kidnapped and held three women captive for over a decade in his Cleveland home, undetected by neighbors.",
+      "timeline": [
+        {
+          "year": 2002,
+          "event": "Castro kidnaps Michelle Knight, imprisoning her in his home."
+        },
+        {
+          "year": 2003,
+          "event": "Amanda Berry is abducted and held alongside Knight."
+        },
+        {
+          "year": 2013,
+          "event": "Berry escapes on May 6, leading to Castro’s arrest and the rescue of Knight and Gina DeJesus."
+        }
+      ],
+      "anchors": [
+        "Cleveland, Ohio",
+        "Ariel Castro",
+        "Captive escape",
+        "Hidden imprisonment"
+      ],
+      "rule_break_consequence": "The expectation of neighborhood vigilance was violated → Castro’s hidden crimes shocked the community → consequence: it sparked discussions on urban safety and missing persons protocols.",
+      "authority_cut": "\"This was a house of horrors hidden in plain sight.\" - Cleveland Police Chief Michael McGrath",
+      "open_questions": [
+        "How did Castro evade detection for so long?",
+        "Were there missed opportunities by authorities to investigate earlier?",
+        "What support systems failed the victims during their captivity?"
+      ],
+      "status": "The case is closed. Castro pleaded guilty, was sentenced to life, and died by suicide in 2013."
+    },
+    {
+      "dossier_id": "dossie#25",
+      "title": "The BTK Killer, Dennis Rader’s Hidden Life",
+      "type": "TRUE",
+      "story_type": "true crime",
+      "language": "en-US",
+      "filters": {
+        "location": "Kansas, USA",
+        "crime_type": "serial killing",
+        "time_period": "1970s-1990s",
+        "celebrity_involvement": "no"
+      },
+      "subject": "Dennis Rader, a churchgoing family man, secretly murdered 10 people, taunting police as the BTK Killer.",
+      "timeline": [
+        {
+          "year": 1974,
+          "event": "Rader kills the Otero family, marking the start of his murder spree."
+        },
+        {
+          "year": 1985,
+          "event": "Rader sends letters to police and media, signing them 'BTK' (Bind, Torture, Kill)."
+        },
+        {
+          "year": 2005,
+          "event": "A floppy disk sent to police leads to Rader’s arrest through digital forensics."
+        }
+      ],
+      "anchors": [
+        "Wichita, Kansas",
+        "Dennis Rader",
+        "BTK letters",
+        "Digital forensics"
+      ],
+      "rule_break_consequence": "The expectation of trust in community figures was broken → Rader’s double life shattered Wichita’s sense of safety → consequence: it highlighted the hidden nature of serial predators.",
+      "authority_cut": "\"Rader’s arrogance in taunting us led to his downfall.\" - Wichita Police Lieutenant Ken Landwehr",
+      "open_questions": [
+        "Did Rader have additional victims beyond the confirmed 10?",
+        "How did his family remain unaware of his crimes?",
+        "What psychological factors drove his need for attention?"
+      ],
+      "status": "The case is closed. Rader was convicted in 2005 and sentenced to 10 consecutive life terms."
+    },
+    {
+      "dossier_id": "dossie#26",
+      "title": "The Great Train Robbery, Britain’s Daring Heist",
+      "type": "TRUE",
+      "story_type": "true crime",
+      "language": "en-US",
+      "filters": {
+        "location": "Buckinghamshire, UK",
+        "crime_type": "heist",
+        "time_period": "1960s",
+        "celebrity_involvement": "no"
+      },
+      "subject": "A gang of robbers executed a meticulously planned heist, stealing £2.6 million from a Royal Mail train.",
+      "timeline": [
+        {
+          "year": 1963,
+          "event": "On August 8, the gang stops a Glasgow-London train and steals £2.6 million in cash."
+        },
+        {
+          "year": 1963,
+          "event": "Police recover fingerprints at the gang’s hideout, leading to arrests of key members like Ronnie Biggs."
+        },
+        {
+          "year": 1965,
+          "event": "Most gang members are convicted, though Biggs escapes prison and flees to Brazil."
+        }
+      ],
+      "anchors": [
+        "Royal Mail train",
+        "Ronnie Biggs",
+        "Buckinghamshire",
+        "£2.6 million"
+      ],
+      "rule_break_consequence": "The expectation of secure transport was violated → The audacious heist captivated the public → consequence: it led to improved security for cash transports.",
+      "authority_cut": "\"This was the crime of the century, perfectly planned and executed.\" - Detective Jack Slipper, Scotland Yard",
+      "open_questions": [
+        "Who else was involved in planning the heist?",
+        "Where did the unrecovered money end up?",
+        "How did the gang coordinate such a complex operation?"
+      ],
+      "status": "The case is closed. Most robbers were convicted, though some, like Biggs, evaded full justice."
+    },
+    {
+      "dossier_id": "dossie#27",
+      "title": "The Assassination of Gianni Versace",
+      "type": "TRUE",
+      "story_type": "true crime",
+      "language": "en-US",
+      "filters": {
+        "location": "Florida, USA",
+        "crime_type": "murder",
+        "time_period": "1990s",
+        "celebrity_involvement": "yes"
+      },
+      "subject": "Fashion icon Gianni Versace was gunned down outside his Miami mansion by serial killer Andrew Cunanan.",
+      "timeline": [
+        {
+          "year": 1997,
+          "event": "Versace is shot dead on July 15 outside his Ocean Drive mansion."
+        },
+        {
+          "year": 1997,
+          "event": "Cunanan, already wanted for four other murders, becomes the focus of a nationwide manhunt."
+        },
+        {
+          "year": 1997,
+          "event": "Cunanan is found dead by suicide on a houseboat eight days after Versace’s murder."
+        }
+      ],
+      "anchors": [
+        "Gianni Versace",
+        "Andrew Cunanan",
+        "Miami Beach",
+        "Fashion industry"
+      ],
+      "rule_break_consequence": "The expectation of safety for celebrities was violated → Versace’s murder shocked the global fashion world → consequence: it raised awareness of targeted violence against public figures.",
+      "authority_cut": "\"Cunanan’s spree was a tragic collision of fame and obsession.\" - FBI Agent Robert Walsh",
+      "open_questions": [
+        "What motivated Cunanan to target Versace specifically?",
+        "Could law enforcement have apprehended Cunanan before Versace’s murder?",
+        "What drove Cunanan’s cross-country killing spree?"
+      ],
+      "status": "The case is closed. Cunanan’s death ended the investigation, with no further suspects."
+    },
+    {
+      "dossier_id": "dossie#28",
+      "title": "The Brabant Killers, Belgium’s Unsolved Terror",
+      "type": "TRUE",
+      "story_type": "true crime",
+      "language": "en-US",
+      "filters": {
+        "location": "Brabant, Belgium",
+        "crime_type": "serial killing",
+        "time_period": "1980s",
+        "celebrity_involvement": "no"
+      },
+      "subject": "A gang of killers terrorized Belgium with brutal supermarket robberies, leaving 28 dead and no clear motive.",
+      "timeline": [
+        {
+          "year": 1982,
+          "event": "The Brabant Killers begin their spree, targeting small businesses with extreme violence."
+        },
+        {
+          "year": 1985,
+          "event": "The gang’s deadliest attack occurs at a supermarket in Aalst, killing eight people."
+        },
+        {
+          "year": 2018,
+          "event": "A deathbed confession by a former policeman implicates a paramilitary group, but no arrests are made."
+        }
+      ],
+      "anchors": [
+        "Brabant, Belgium",
+        "Supermarket robberies",
+        "Nijvel Gang",
+        "Unsolved murders"
+      ],
+      "rule_break_consequence": "The expectation of safety in public spaces was shattered → The brutal attacks spread fear across Belgium → consequence: it led to debates on law enforcement and societal unrest.",
+      "authority_cut": "\"These were not just robberies; they were acts of terror.\" - Belgian Prosecutor Jean Deprêtre",
+      "open_questions": [
+        "What was the true motive behind the Brabant Killers’ violence?",
+        "Were the killers linked to political or paramilitary groups?",
+        "Why have authorities failed to identify the perpetrators?"
+      ],
+      "status": "The case remains open. No definitive suspects have been prosecuted as of 2025."
+    },
+    {
+      "dossier_id": "dossie#29",
+      "title": "The Tokyo Sarin Attack, Aum Shinrikyo’s Deadly Cult",
+      "type": "TRUE",
+      "story_type": "true crime",
+      "language": "en-US",
+      "filters": {
+        "location": "Tokyo, Japan",
+        "crime_type": "terrorism",
+        "time_period": "1990s",
+        "celebrity_involvement": "no"
+      },
+      "subject": "The Aum Shinrikyo cult unleashed a deadly sarin gas attack on Tokyo’s subway, killing 13 and injuring thousands.",
+      "timeline": [
+        {
+          "year": 1995,
+          "event": "On March 20, cult members release sarin gas on five subway trains, causing chaos."
+        },
+        {
+          "year": 1995,
+          "event": "Police raid Aum Shinrikyo’s compounds, arresting leader Shoko Asahara and key members."
+        },
+        {
+          "year": 2018,
+          "event": "Asahara and several cult members are executed for the attack."
+        }
+      ],
+      "anchors": [
+        "Tokyo subway",
+        "Sarin gas",
+        "Aum Shinrikyo",
+        "Shoko Asahara"
+      ],
+      "rule_break_consequence": "The expectation of public transport safety was violated → The attack caused mass panic and global alarm → consequence: it prompted stricter anti-terrorism measures worldwide.",
+      "authority_cut": "\"This was an unprecedented act of domestic terrorism in Japan.\" - Tokyo Police Chief Katsuyoshi Okui",
+      "open_questions": [
+        "How did the cult acquire the resources to produce sarin?",
+        "Were there undetected accomplices outside the cult?",
+        "Could authorities have prevented the attack with earlier intervention?"
+      ],
+      "status": "The case is closed. Key perpetrators were executed, though minor investigations continue."
+    },
+    {
+      "dossier_id": "dossie#30",
+      "title": "The Moors Murders, Britain’s Child Killers",
+      "type": "TRUE",
+      "story_type": "true crime",
+      "language": "en-US",
+      "filters": {
+        "location": "Manchester, UK",
+        "crime_type": "serial killing",
+        "time_period": "1960s",
+        "celebrity_involvement": "no"
+      },
+      "subject": "Ian Brady and Myra Hindley abducted and murdered five children, burying their bodies on Saddleworth Moor.",
+      "timeline": [
+        {
+          "year": 1963,
+          "event": "Brady and Hindley begin their killing spree, targeting children aged 10 to 17."
+        },
+        {
+          "year": 1965,
+          "event": "Police arrest the couple after a witness reports a murder, uncovering tapes of victims."
+        },
+        {
+          "year": 1966,
+          "event": "Brady and Hindley are convicted of three murders, later confessing to two more."
+        }
+      ],
+      "anchors": [
+        "Saddleworth Moor",
+        "Ian Brady",
+        "Myra Hindley",
+        "Child victims"
+      ],
+      "rule_break_consequence": "The expectation of child safety was shattered → The murders horrified Britain → consequence: it led to increased public vigilance and child protection laws.",
+      "authority_cut": "\"The Moors Murders were a descent into unimaginable evil.\" - Detective Bob Spiers, Greater Manchester Police",
+      "open_questions": [
+        "Are there additional undiscovered victims on the moors?",
+        "What psychological dynamics drove Brady and Hindley’s partnership?",
+        "Why did authorities initially miss the couple’s activities?"
+      ],
+      "status": "The case is closed. Brady died in 2017, Hindley in 2002, both in prison."
+    },
+    {
+      "dossier_id": "dossie#31",
+      "title": "The Unabomber, Ted Kaczynski’s Anti-Tech Crusade",
+      "type": "TRUE",
+      "story_type": "true crime",
+      "language": "en-US",
+      "filters": {
+        "location": "USA",
+        "crime_type": "terrorism",
+        "time_period": "1970s-1990s",
+        "celebrity_involvement": "no"
+      },
+      "subject": "Ted Kaczynski mailed homemade bombs to protest modern technology, killing three and injuring dozens.",
+      "timeline": [
+        {
+          "year": 1978,
+          "event": "Kaczynski sends his first mail bomb, targeting a university professor."
+        },
+        {
+          "year": 1995,
+          "event": "The Unabomber’s manifesto is published in newspapers, leading to a tip from his brother."
+        },
+        {
+          "year": 1996,
+          "event": "Kaczynski is arrested in a Montana cabin, ending his 17-year bombing campaign."
+        }
+      ],
+      "anchors": [
+        "Mail bombs",
+        "Ted Kaczynski",
+        "Anti-technology",
+        "FबीI manhunt"
+      ],
+      "rule_break_consequence": "The expectation of safety in academia and industry was violated → Kaczynski’s attacks sparked fear nationwide → consequence: it led to tightened mail security and profiling of lone-wolf terrorists.",
+      "authority_cut": "\"His manifesto was the key to catching him.\" - FBI Agent Terry Turchie",
+      "open_questions": [
+        "Did Kaczynski act alone in all bombings?",
+        "What radicalized him to reject technology so violently?",
+        "Could earlier publication of the manifesto have stopped him sooner?"
+      ],
+      "status": "The case is closed. Kaczynski was convicted in 1998 and sentenced to life. He died in 2023."
+    },
+    {
+      "dossier_id": "dossie#32",
+      "title": "The Disappearance of Azaria Chamberlain, Dingo or Murder?",
+      "type": "TRUE",
+      "story_type": "true crime",
+      "language": "en-US",
+      "filters": {
+        "location": "Northern Territory, Australia",
+        "crime_type": "missing person",
+        "time_period": "1980s",
+        "celebrity_involvement": "yes"
+      },
+      "subject": "A nine-week-old baby vanished from a campsite, with her mother claiming a dingo took her, sparking a controversial trial.",
+      "timeline": [
+        {
+          "year": 1980,
+          "event": "Azaria Chamberlain disappears from a campsite near Uluru on August 17."
+        },
+        {
+          "year": 1982,
+          "event": "Lindy Chamberlain is convicted of murder, despite her dingo attack claim."
+        },
+        {
+          "year": 1988,
+          "event": "Lindy is released after new evidence supports the dingo theory, and her conviction is quashed."
+        }
+      ],
+      "anchors": [
+        "Uluru",
+        "Lindy Chamberlain",
+        "Dingo attack",
+        "Media frenzy"
+      ],
+      "rule_break_consequence": "The expectation of justice was challenged → The public’s rush to judge Lindy caused a miscarriage of justice → consequence: it reshaped Australia’s legal and media landscape.",
+      "authority_cut": "\"The dingo story was dismissed too quickly.\" - Coroner Elizabeth Morris",
+      "open_questions": [
+        "Was the dingo theory fully proven, or are there lingering doubts?",
+        "How did media bias influence the initial conviction?",
+        "What evidence was mishandled during the investigation?"
+      ],
+      "status": "The case is closed. A 2012 coronial inquest ruled Azaria died by dingo attack."
+    },
+    {
+      "dossier_id": "dossie#33",
+      "title": "The Silk Road, Ross Ulbricht’s Dark Web Empire",
+      "type": "TRUE",
+      "story_type": "true crime",
+      "language": "en-US",
+      "filters": {
+        "location": "USA",
+        "crime_type": "cybercrime",
+        "time_period": "2010s",
+        "celebrity_involvement": "no"
+      },
+      "subject": "Ross Ulbricht created an anonymous online marketplace for illegal goods, leading to a landmark cybercrime case.",
+      "timeline": [
+        {
+          "year": 2011,
+          "event": "Ulbricht launches Silk Road, a dark web marketplace for drugs and other illegal items."
+        },
+        {
+          "year": 2013,
+          "event": "FBI shuts down Silk Road and arrests Ulbricht in San Francisco."
+        },
+        {
+          "year": 2015,
+          "event": "Ulbricht is convicted on multiple charges, including money laundering and conspiracy."
+        }
+      ],
+      "anchors": [
+        "Dark web",
+        "Ross Ulbricht",
+        "Silk Road",
+        "Bitcoin"
+      ],
+      "rule_break_consequence": "The expectation of regulated online commerce was violated → Silk Road enabled widespread illegal trade → consequence: it prompted global crackdowns on dark web markets.",
+      "authority_cut": "\"Silk Road was a new frontier in crime.\" - FBI Agent Christopher Tarbell",
+      "open_questions": [
+        "Did Ulbricht act alone in running Silk Road?",
+        "How much illegal activity was directly facilitated by the site?",
+        "Was Ulbricht’s life sentence proportionate to his crimes?"
+      ],
+      "status": "The case is closed. Ulbricht was sentenced to life without parole in 2015."
+    },
+    {
+      "dossier_id": "dossie#34",
+      "title": "The Golden State Killer, The Original Night Stalker",
+      "type": "TRUE",
+      "story_type": "true crime",
+      "language": "en-US",
+      "filters": {
+        "location": "California, USA",
+        "crime_type": "serial killing",
+        "time_period": "1970s-1980s",
+        "celebrity_involvement": "no"
+      },
+      "subject": "A serial predator committed over 50 rapes and 13 murders, eluding capture until DNA technology unmasked him.",
+      "timeline": [
+        {
+          "year": 1976,
+          "event": "The East Area Rapist begins terrorizing Sacramento with home invasions and assaults."
+        },
+        {
+          "year": 1979,
+          "event": "The killer escalates to murder, targeting couples in Southern California."
+        },
+        {
+          "year": 2018,
+          "event": "Joseph James DeAngelo is arrested using genetic genealogy, identified as the Golden State Killer."
+        }
+      ],
+      "anchors": [
+        "California",
+        "Joseph DeAngelo",
+        "Genetic genealogy",
+        "Night Stalker"
+      ],
+      "rule_break_consequence": "The expectation of home safety was violated → The killer’s spree caused decades of fear → consequence: it revolutionized the use of DNA in criminal investigations.",
+      "authority_cut": "\"DNA technology turned a cold case into a conviction.\" - Sacramento District Attorney Anne Marie Schubert",
+      "open_questions": [
+        "Did DeAngelo commit additional unlinked crimes?",
+        "How did he evade detection for so long?",
+        "What role did his police background play in his methods?"
+      ],
+      "status": "The case is closed. DeAngelo pleaded guilty in 2020 and was sentenced to life without parole."
+    },
+    {
+      "dossier_id": "dossie#35",
+      "title": "The Kidnapping of Aldo Moro, Italy’s Political Tragedy",
+      "type": "TRUE",
+      "story_type": "true crime",
+      "language": "en-US",
+      "filters": {
+        "location": "Rome, Italy",
+        "crime_type": "kidnapping/murder",
+        "time_period": "1970s",
+        "celebrity_involvement": "yes"
+      },
+      "subject": "Italian statesman Aldo Moro was kidnapped and murdered by the Red Brigades, shaking Italy’s political landscape.",
+      "timeline": [
+        {
+          "year": 1978,
+          "event": "Moro is kidnapped on March 16, with his five bodyguards killed by the Red Brigades."
+        },
+        {
+          "year": 1978,
+          "event": "The Red Brigades demand prisoner releases; Moro writes letters pleading for negotiation."
+        },
+        {
+          "year": 1978,
+          "event": "Moro’s body is found in a car in Rome on May 9 after 55 days in captivity."
+        }
+      ],
+      "anchors": [
+        "Aldo Moro",
+        "Red Brigades",
+        "Rome",
+        "Political terrorism"
+      ],
+      "rule_break_consequence": "The expectation of political safety was violated → Moro’s murder destabilized Italy → consequence: it intensified anti-terrorism efforts and political reforms.",
+      "authority_cut": "\"Moro’s death was a blow to Italy’s democracy.\" - Prime Minister Giulio Andreotti",
+      "open_questions": [
+        "Was there state complicity in failing to rescue Moro?",
+        "What was the full motive of the Red Brigades?",
+        "Could negotiations have saved Moro’s life?"
+      ],
+      "status": "The case is closed. Key Red Brigades members were convicted, though some questions persist."
+    },
+    {
+      "dossier_id": "dossie#36",
+      "title": "The Boston Strangler, Albert DeSalvo’s Reign of Fear",
+      "type": "TRUE",
+      "story_type": "true crime",
+      "language": "en-US",
+      "filters": {
+        "location": "Massachusetts, USA",
+        "crime_type": "serial killing",
+        "time_period": "1960s",
+        "celebrity_involvement": "no"
+      },
+      "subject": "Albert DeSalvo confessed to murdering 13 women in Boston, though doubts linger about his guilt in all cases.",
+      "timeline": [
+        {
+          "year": 1962,
+          "event": "The first of 13 women is found strangled in Boston, sparking a citywide manhunt."
+        },
+        {
+          "year": 1964,
+          "event": "DeSalvo is arrested for unrelated crimes and later confesses to the Strangler murders."
+        },
+        {
+          "year": 1967,
+          "event": "DeSalvo is convicted of lesser charges, as no direct evidence links him to the murders."
+        }
+      ],
+      "anchors": [
+        "Boston",
+        "Albert DeSalvo",
+        "Strangler murders",
+        "Confession controversy"
+      ],
+      "rule_break_consequence": "The expectation of urban safety was shattered → The murders created widespread panic → consequence: it led to improved police coordination and victim profiling.",
+      "authority_cut": "\"DeSalvo’s confession raised as many questions as it answered.\" - Detective Phil DiNatale",
+      "open_questions": [
+        "Was DeSalvo the sole Boston Strangler, or were there multiple killers?",
+        "Why was there no physical evidence linking him to the murders?",
+        "What drove his alleged killing spree?"
+      ],
+      "status": "The case is partially resolved. DeSalvo was killed in prison in 1973; some murders remain disputed."
+    },
+    {
+      "dossier_id": "dossie#37",
+      "title": "The Disappearance of the Beaumont Children",
+      "type": "TRUE",
+      "story_type": "true crime",
+      "language": "en-US",
+      "filters": {
+        "location": "Adelaide, Australia",
+        "crime_type": "missing person",
+        "time_period": "1960s",
+        "celebrity_involvement": "no"
+      },
+      "subject": "Three siblings vanished from a beach, becoming one of Australia’s most enduring mysteries.",
+      "timeline": [
+        {
+          "year": 1966,
+          "event": "Jane, Arnna, and Grant Beaumont disappear from Glenelg Beach on January 26."
+        },
+        {
+          "year": 1966,
+          "event": "Witnesses report seeing the children with a man, but no trace is found."
+        },
+        {
+          "year": 2018,
+          "event": "Excavations at a factory site linked to a suspect yield no evidence."
+        }
+      ],
+      "anchors": [
+        "Glenelg Beach",
+        "Beaumont siblings",
+        "Abduction theory",
+        "Australian mystery"
+      ],
+      "rule_break_consequence": "The expectation of child safety at public beaches was violated → The disappearance traumatized Australia → consequence: it led to stricter child supervision norms.",
+      "authority_cut": "\"This case haunts every Australian parent.\" - South Australia Police Commissioner Mal Hyde",
+      "open_questions": [
+        "Who was the man seen with the children?",
+        "Were the Beaumonts victims of a serial offender?",
+        "Is there undiscovered evidence at the beach or elsewhere?"
+      ],
+      "status": "The case remains open. No bodies or suspects have been confirmed as of 2025."
+    },
+    {
+      "dossier_id": "dossie#38",
+      "title": "The Craigslist Killer, Philip Markoff’s Double Life",
+      "type": "TRUE",
+      "story_type": "true crime",
+      "language": "en-US",
+      "filters": {
+        "location": "Massachusetts, USA",
+        "crime_type": "murder",
+        "time_period": "2000s",
+        "celebrity_involvement": "no"
+      },
+      "subject": "Medical student Philip Markoff used Craigslist to target women, committing robbery and murder.",
+      "timeline": [
+        {
+          "year": 2009,
+          "event": "Markoff robs and murders Julissa Brisman, a masseuse met via Craigslist, in Boston."
+        },
+        {
+          "year": 2009,
+          "event": "Police trace Markoff through digital evidence, arresting him within days."
+        },
+        {
+          "year": 2010,
+          "event": "Markoff dies by suicide in jail before his trial."
+        }
+      ],
+      "anchors": [
+        "Craigslist",
+        "Philip Markoff",
+        "Boston hotels",
+        "Digital evidence"
+      ],
+      "rule_break_consequence": "The expectation of safe online transactions was violated → Markoff’s crimes exposed online platform risks → consequence: it led to stricter safety measures on sites like Craigslist.",
+      "authority_cut": "\"Markoff’s double life shocked us all.\" - Boston Police Commissioner Edward Davis",
+      "open_questions": [
+        "Did Markoff have additional victims?",
+        "What drove a medical student to commit such crimes?",
+        "Could Craigslist have implemented better safety protocols earlier?"
+      ],
+      "status": "The case is closed. Markoff’s death ended the investigation."
+    },
+    {
+      "dossier_id": "dossie#39",
+      "title": "The Assassination of John Lennon",
+      "type": "TRUE",
+      "story_type": "true crime",
+      "language": "en-US",
+      "filters": {
+        "location": "New York, USA",
+        "crime_type": "murder",
+        "time_period": "1980s",
+        "celebrity_involvement": "yes"
+      },
+      "subject": "Music legend John Lennon was shot dead outside his apartment by an obsessed fan, Mark David Chapman.",
+      "timeline": [
+        {
+          "year": 1980,
+          "event": "Chapman shoots Lennon outside the Dakota building on December 8."
+        },
+        {
+          "year": 1981,
+          "event": "Chapman pleads guilty to second-degree murder, claiming inspiration from a novel."
+        },
+        {
+          "year": 2020,
+          "event": "Chapman is denied parole for the 11th time, remaining in prison."
+        }
+      ],
+      "anchors": [
+        "John Lennon",
+        "Mark David Chapman",
+        "The Dakota",
+        "Celebrity obsession"
+      ],
+      "rule_break_consequence": "The expectation of safety for public figures was violated → Lennon’s death stunned the world → consequence: it heightened security for celebrities.",
+      "authority_cut": "\"Lennon’s murder was a loss felt globally.\" - NYPD Chief of Detectives Robert Colangelo",
+      "open_questions": [
+        "What fully motivated Chapman’s obsession with Lennon?",
+        "Could security at the Dakota have prevented the attack?",
+        "Did Chapman act alone or with external influence?"
+      ],
+      "status": "The case is closed. Chapman remains incarcerated as of 2025."
+    },
+    {
+      "dossier_id": "dossie#40",
+      "title": "The Monster of the Andes, Pedro López’s Unpunished Crimes",
+      "type": "TRUE",
+      "story_type": "true crime",
+      "language": "en-US",
+      "filters": {
+        "location": "Colombia/Peru/Ecuador",
+        "crime_type": "serial killing",
+        "time_period": "1970s",
+        "celebrity_involvement": "no"
+      },
+      "subject": "Pedro López confessed to killing over 300 young girls across South America, yet was released after a short sentence.",
+      "timeline": [
+        {
+          "year": 1978,
+          "event": "López is arrested in Ecuador after attempting to abduct a girl."
+        },
+        {
+          "year": 1980,
+          "event": "López confesses to over 300 murders, leading police to mass graves."
+        },
+        {
+          "year": 1998,
+          "event": "López is released from prison in Colombia; his whereabouts become unknown."
+        }
+      ],
+      "anchors": [
+        "Pedro López",
+        "South America",
+        "Mass graves",
+        "Serial killer release"
+      ],
+      "rule_break_consequence": "The expectation of justice for victims was violated → López’s release shocked the world → consequence: it exposed flaws in South American legal systems.",
+      "authority_cut": "\"López’s crimes are unimaginable in scale.\" - Ecuadorian Police Chief Juan Morales",
+      "open_questions": [
+        "Where is Pedro López now?",
+        "How many victims did he actually kill?",
+        "Why was his sentence so lenient?"
+      ],
+      "status": "The case remains open. López’s whereabouts are unknown as of 2025."
+    },
+    {
+      "dossier_id": "dossie#41",
+      "title": "The Watergate Scandal, Nixon’s Downfall",
+      "type": "TRUE",
+      "story_type": "true crime",
+      "language": "en-US",
+      "filters": {
+        "location": "Washington, D.C., USA",
+        "crime_type": "political conspiracy",
+        "time_period": "1970s",
+        "celebrity_involvement": "yes"
+      },
+      "subject": "A break-in at the Democratic National Committee headquarters led to a scandal that forced President Nixon’s resignation.",
+      "timeline": [
+        {
+          "year": 1972,
+          "event": "Five men are arrested for breaking into the DNC offices at the Watergate complex on June 17."
+        },
+        {
+          "year": 1973,
+          "event": "Investigations reveal Nixon’s campaign ties to the break-in and wiretapping."
+        },
+        {
+          "year": 1974,
+          "event": "Nixon resigns on August 9, the first U.S. president to do so."
+        }
+      ],
+      "anchors": [
+        "Watergate",
+        "Richard Nixon",
+        "Wiretapping",
+        "Political scandal"
+      ],
+      "rule_break_consequence": "The expectation of political integrity was violated → The scandal eroded public trust → consequence: it led to reforms in campaign finance and government transparency.",
+      "authority_cut": "\"Watergate showed the power of investigative journalism.\" - Washington Post Editor Ben Bradlee",
+      "open_questions": [
+        "What was the full extent of Nixon’s knowledge of the break-in?",
+        "Who was the informant known as Deep Throat initially?",
+        "Could the scandal have been contained earlier?"
+      ],
+      "status": "The case is closed. Nixon was pardoned by President Ford; several aides were convicted."
+    },
+    {
+      "dossier_id": "dossie#42",
+      "title": "The Disappearance of Jimmy Hoffa",
+      "type": "TRUE",
+      "story_type": "true crime",
+      "language": "en-US",
+      "filters": {
+        "location": "Michigan, USA",
+        "crime_type": "missing person",
+        "time_period": "1970s",
+        "celebrity_involvement": "yes"
+      },
+      "subject": "Union leader Jimmy Hoffa vanished after a meeting, with theories pointing to organized crime involvement.",
+      "timeline": [
+        {
+          "year": 1975,
+          "event": "Hoffa disappears on July 30 after a meeting in Bloomfield Township, Michigan."
+        },
+        {
+          "year": 1982,
+          "event": "Hoffa is declared legally dead, though no body is found."
+        },
+        {
+          "year": 2004,
+          "event": "DNA evidence links Hoffa to a car owned by a mob associate, but no body is recovered."
+        }
+      ],
+      "anchors": [
+        "Jimmy Hoffa",
+        "Teamsters Union",
+        "Organized crime",
+        "Michigan"
+      ],
+      "rule_break_consequence": "The expectation of safety for public figures was violated → Hoffa’s disappearance fueled mob-related fears → consequence: it deepened scrutiny of union corruption.",
+      "authority_cut": "\"Hoffa’s vanishing is the ultimate mob mystery.\" - FBI Agent Robert Garrity",
+      "open_questions": [
+        "Who ordered Hoffa’s disappearance?",
+        "Where is Hoffa’s body?",
+        "What was the exact motive for his presumed murder?"
+      ],
+      "status": "The case remains open. No body or definitive evidence has been found as of 2025."
+    },
+    {
+      "dossier_id": "dossie#43",
+      "title": "The Vampire of Düsseldorf, Peter Kürten’s Bloodlust",
+      "type": "TRUE",
+      "story_type": "true crime",
+      "language": "en-US",
+      "filters": {
+        "location": "Düsseldorf, Germany",
+        "crime_type": "serial killing",
+        "time_period": "1920s",
+        "celebrity_involvement": "no"
+      },
+      "subject": "Peter Kürten, a sadistic serial killer, terrorized Düsseldorf with murders and assaults, earning his chilling nickname.",
+      "timeline": [
+        {
+          "year": 1929,
+          "event": "Kürten’s killing spree peaks, with multiple murders and attacks in Düsseldorf."
+        },
+        {
+          "year": 1930,
+          "event": "Kürten is arrested after his wife reports him to police."
+        },
+        {
+          "year": 1931,
+          "event": "Kürten is convicted of nine murders and executed by guillotine."
+        }
+      ],
+      "anchors": [
+        "Peter Kürten",
+        "Düsseldorf",
+        "Vampire nickname",
+        "Serial murders"
+      ],
+      "rule_break_consequence": "The expectation of urban safety was violated → Kürten’s crimes caused mass panic → consequence: it influenced early criminal psychology studies.",
+      "authority_cut": "\"Kürten was a monster driven by compulsion.\" - Dr. Karl Berg, Criminal Psychologist",
+      "open_questions": [
+        "Did Kürten have additional unlinked victims?",
+        "What psychological factors shaped his sadistic behavior?",
+        "How did police miss earlier opportunities to catch him?"
+      ],
+      "status": "The case is closed. Kürten was executed in 1931."
+    },
+    {
+      "dossier_id": "dossie#44",
+      "title": "The Enigma of the Somerton Man, Australia’s Unknown Corpse",
+      "type": "TRUE",
+      "story_type": "true crime",
+      "language": "en-US",
+      "filters": {
+        "location": "Adelaide, Australia",
+        "crime_type": "unsolved death",
+        "time_period": "1940s",
+        "celebrity_involvement": "no"
+      },
+      "subject": "An unidentified man found dead on a beach with a cryptic note sparked decades of speculation about espionage and identity.",
+      "timeline": [
+        {
+          "year": 1948,
+          "event": "An unidentified man is found dead on Somerton Beach on December 1, with a mysterious code in his pocket."
+        },
+        {
+          "year": 1949,
+          "event": "A suitcase linked to the man is found, but his identity remains unknown."
+        },
+        {
+          "year": 2022,
+          "event": "DNA analysis suggests the man may be Carl Webb, though questions persist."
+        }
+      ],
+      "anchors": [
+        "Somerton Beach",
+        "Tamam Shud",
+        "Unknown identity",
+        "Espionage theory"
+      ],
+      "rule_break_consequence": "The expectation of identifiable deaths was violated → The mystery gripped Australia → consequence: it fueled interest in cold case investigations.",
+      "authority_cut": "\"The Somerton Man is our greatest unsolved mystery.\" - South Australia Coroner Thomas Cleland",
+      "open_questions": [
+        "Was the Somerton Man involved in espionage?",
+        "What does the Tamam Shud code mean?",
+        "Is Carl Webb definitively the Somerton Man?"
+      ],
+      "status": "The case remains open. Recent DNA findings are under review as of 2025."
+    },
+    {
+      "dossier_id": "dossie#45",
+      "title": "The Rajneesh Bioterror Attack, Cult Poisoning in Oregon",
+      "type": "TRUE",
+      "story_type": "true crime",
+      "language": "en-US",
+      "filters": {
+        "location": "Oregon, USA",
+        "crime_type": "bioterrorism",
+        "time_period": "1980s",
+        "celebrity_involvement": "no"
+      },
+      "subject": "The Rajneesh cult contaminated salad bars with salmonella to influence a local election, sickening over 700 people.",
+      "timeline": [
+        {
+          "year": 1984,
+          "event": "Rajneesh followers spread salmonella in The Dalles, Oregon, targeting restaurants."
+        },
+        {
+          "year": 1985,
+          "event": "Investigations trace the outbreak to the Rajneesh commune, leading to arrests."
+        },
+        {
+          "year": 1986,
+          "event": "Cult leaders Ma Anand Sheela and others are convicted of bioterrorism."
+        }
+      ],
+      "anchors": [
+        "Rajneesh cult",
+        "Salmonella",
+        "The Dalles",
+        "Bioterrorism"
+      ],
+      "rule_break_consequence": "The expectation of food safety was violated → The attack alarmed the nation → consequence: it led to heightened bioterrorism awareness.",
+      "authority_cut": "\"This was the first large-scale bioterror attack in the U.S.\" - CDC Official Dr. Michael Osterholm",
+      "open_questions": [
+        "Were there other unreported Rajneesh attacks?",
+        "How did the cult acquire the biological agents?",
+        "What was the full extent of their election manipulation plan?"
+      ],
+      "status": "The case is closed. Key perpetrators were convicted, and the cult disbanded."
+    },
+    {
+      "dossier_id": "dossie#46",
+      "title": "The Murder of Tupac Shakur",
+      "type": "TRUE",
+      "story_type": "true crime",
+      "language": "en-US",
+      "filters": {
+        "location": "Nevada, USA",
+        "crime_type": "murder",
+        "time_period": "1990s",
+        "celebrity_involvement": "yes"
+      },
+      "subject": "Rap icon Tupac Shakur was fatally shot in a drive-by, fueling theories of gang rivalries and conspiracies.",
+      "timeline": [
+        {
+          "year": 1996,
+          "event": "Tupac is shot in Las Vegas on September 7 after a boxing match."
+        },
+        {
+          "year": 1996,
+          "event": "Tupac dies from his injuries on September 13."
+        },
+        {
+          "year": 2023,
+          "event": "Duane 'Keefe D' Davis is arrested based on his own admissions, charged with murder."
+        }
+      ],
+      "anchors": [
+        "Tupac Shakur",
+        "Las Vegas",
+        "Drive-by shooting",
+        "Gang rivalry"
+      ],
+      "rule_break_consequence": "The expectation of safety for celebrities was violated → Tupac’s death rocked the music world → consequence: it intensified focus on hip-hop violence.",
+      "authority_cut": "\"Tupac’s murder was a tragedy tied to a larger cultural conflict.\" - Las Vegas Detective Phil Ramos",
+      "open_questions": [
+        "Was Davis the sole orchestrator of the murder?",
+        "What role did East-West rap feuds play in the killing?",
+        "Are there additional suspects still at large?"
+      ],
+      "status": "The case remains open. Davis’ trial is ongoing as of 2025."
+    },
+    {
+      "dossier_id": "dossie#47",
+      "title": "The Disappearance of Flight MH370",
+      "type": "TRUE",
+      "story_type": "true crime",
+      "language": "en-US",
+      "filters": {
+        "location": "Indian Ocean",
+        "crime_type": "missing person",
+        "time_period": "2010s",
+        "celebrity_involvement": "no"
+      },
+      "subject": "Malaysia Airlines Flight MH370 vanished with 239 people onboard, becoming one of aviation’s greatest mysteries.",
+      "timeline": [
+        {
+          "year": 2014,
+          "event": "Flight MH370 disappears on March 8 en route from Kuala Lumpur to Beijing."
+        },
+        {
+          "year": 2015,
+          "event": "Debris confirmed from MH370 washes up on Réunion Island."
+        },
+        {
+          "year": 2018,
+          "event": "Official search efforts are suspended, with no conclusive findings."
+        }
+      ],
+      "anchors": [
+        "Flight MH370",
+        "Indian Ocean",
+        "Aviation mystery",
+        "Debris findings"
+      ],
+      "rule_break_consequence": "The expectation of traceable air travel was violated → The disappearance baffled the world → consequence: it led to improved flight tracking systems.",
+      "authority_cut": "\"MH370 is the most perplexing aviation mystery of our time.\" - Australian Transport Safety Bureau Chief Greg Hood",
+      "open_questions": [
+        "What caused the plane to deviate from its flight path?",
+        "Was the disappearance due to foul play or mechanical failure?",
+        "Where is the main wreckage of MH370?"
+      ],
+      "status": "The case remains open. No wreckage or definitive cause has been confirmed as of 2025."
+    },
+    {
+      "dossier_id": "dossie#48",
+      "title": "The Lufthansa Heist, Goodfellas’ Real-Life Robbery",
+      "type": "TRUE",
+      "story_type": "true crime",
+      "language": "en-US",
+      "filters": {
+        "location": "New York, USA",
+        "crime_type": "heist",
+        "time_period": "1970s",
+        "celebrity_involvement": "no"
+      },
+      "subject": "A mob-led crew stole $5.8 million from JFK Airport, one of the largest cash heists in history.",
+      "timeline": [
+        {
+          "year": 1978,
+          "event": "On December 11, the Lucchese crime family robs the Lufthansa cargo terminal."
+        },
+        {
+          "year": 1979,
+          "event": "Key informant Henry Hill provides details to the FBI, implicating James Burke."
+        },
+        {
+          "year": 1980,
+          "event": "Several crew members are killed to prevent them from talking."
+        }
+      ],
+      "anchors": [
+        "Lufthansa heist",
+        "JFK Airport",
+        "Lucchese crime family",
+        "Henry Hill"
+      ],
+      "rule_break_consequence": "The expectation of secure airport operations was violated → The heist exposed mob influence → consequence: it led to tighter airport security.",
+      "authority_cut": "\"The Lufthansa heist was a masterclass in organized crime.\" - FBI Agent Edward McDonald",
+      "open_questions": [
+        "Where did the unrecovered money go?",
+        "Who else was involved in planning the heist?",
+        "Why were so few perpetrators prosecuted?"
+      ],
+      "status": "The case is partially resolved. Some convictions were made, but much of the money remains missing."
+    },
+    {
+      "dossier_id": "dossie#49",
+      "title": "The Death of Elisa Lam, The Cecil Hotel Mystery",
+      "type": "TRUE",
+      "story_type": "true crime",
+      "language": "en-US",
+      "filters": {
+        "location": "California, USA",
+        "crime_type": "unsolved death",
+        "time_period": "2010s",
+        "celebrity_involvement": "no"
+      },
+      "subject": "Elisa Lam’s body was found in a hotel water tank after strange elevator footage sparked global intrigue.",
+      "timeline": [
+        {
+          "year": 2013,
+          "event": "Lam disappears at the Cecil Hotel in Los Angeles on January 31."
+        },
+        {
+          "year": 2013,
+          "event": "Surveillance footage of Lam behaving erratically in an elevator is released."
+        },
+        {
+          "year": 2013,
+          "event": "Lam’s body is found in a rooftop water tank on February 19."
+        }
+      ],
+      "anchors": [
+        "Cecil Hotel",
+        "Elisa Lam",
+        "Elevator footage",
+        "Water tank"
+      ],
+      "rule_break_consequence": "The expectation of hotel safety was violated → Lam’s death fueled conspiracy theories → consequence: it highlighted mental health and hotel security issues.",
+      "authority_cut": "\"The elevator video created more questions than answers.\" - LAPD Detective Greg Kading",
+      "open_questions": [
+        "Was Lam’s death accidental, or was foul play involved?",
+        "What explains her behavior in the elevator footage?",
+        "Did the hotel’s history contribute to the incident?"
+      ],
+      "status": "The case is officially closed, ruled an accidental drowning, but public speculation persists."
+    },
+    {
+      "dossier_id": "dossie#50",
+      "title": "The Narcosatánicos, Mexico’s Cult Killings",
+      "type": "TRUE",
+      "story_type": "true crime",
+      "language": "en-US",
+      "filters": {
+        "location": "Matamoros, Mexico",
+        "crime_type": "cult-related murder",
+        "time_period": "1980s",
+        "celebrity_involvement": "no"
+      },
+      "subject": "A drug-smuggling cult led by Adolfo Constanzo committed ritualistic murders, including the killing of a U.S. student.",
+      "timeline": [
+        {
+          "year": 1989,
+          "event": "Mark Kilroy is abducted and killed by the cult during a ritual in Matamoros."
+        },
+        {
+          "year": 1989,
+          "event": "Police raid the cult’s ranch, uncovering multiple bodies and arresting members."
+        },
+        {
+          "year": 1989,
+          "event": "Constanzo is killed by his own followers during a police standoff."
+        }
+      ],
+      "anchors": [
+        "Adolfo Constanzo",
+        "Matamoros",
+        "Ritual killings",
+        "Drug cult"
+      ],
+      "rule_break_consequence": "The expectation of safety in border towns was violated → The cult’s atrocities shocked the U.S. and Mexico → consequence: it exposed the dangers of narco-cults.",
+      "authority_cut": "\"This was a chilling mix of drugs and occult rituals.\" - DEA Agent Robert Castillo",
+      "open_questions": [
+        "How many victims did the cult actually kill?",
+        "Were there other narco-cults operating in the region?",
+        "What drove Constanzo’s followers to such loyalty?"
+      ],
+      "status": "The case is closed. Key cult members were convicted or killed."
+    }
+  ]
+}
