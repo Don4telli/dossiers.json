@@ -1,2002 +1,2002 @@
 [
-{
-"dossier": 1,
-"title": "The Zodiac Killer, The Cipher Slayer",
-"filters": {
-"location": "California, USA",
-"crime_type": "serial killing",
-"time_period": "1960s-1970s",
-"celebrity_involvement": "no"
-}
-},
-{
-"dossier": 2,
-"title": "MKUltra Project, The Mind Control Conspiracy",
-"filters": {
-"location": "USA/Canada",
-"crime_type": "conspiracy",
-"time_period": "1950s-1970s",
-"celebrity_involvement": "no"
-}
-},
-{
-"dossier": 3,
-"title": "Jack the Ripper, The Whitechapel Terror",
-"filters": {
-"location": "London, UK",
-"crime_type": "serial killing",
-"time_period": "1880s",
-"celebrity_involvement": "no"
-}
-},
-{
-"dossier": 4,
-"title": "The Black Dahlia Murder, Hollywood’s Unsolved Mystery",
-"filters": {
-"location": "California, USA",
-"crime_type": "murder",
-"time_period": "1940s",
-"celebrity_involvement": "yes"
-}
-},
-{
-"dossier": 5,
-"title": "The Manson Family Murders, Cult of Chaos",
-"filters": {
-"location": "California, USA",
-"crime_type": "cult-related murder",
-"time_period": "1960s",
-"celebrity_involvement": "yes"
-}
-},
-{
-"dossier": 6,
-"title": "O.J. Simpson Trial, The Chase That Gripped America",
-"filters": {
-"location": "California, USA",
-"crime_type": "murder",
-"time_period": "1990s",
-"celebrity_involvement": "yes"
-}
-},
-{
-"dossier": 7,
-"title": "The Backpacker Murders, Australia’s Outback Horror",
-"filters": {
-"location": "New South Wales, Australia",
-"crime_type": "serial killing",
-"time_period": "1990s",
-"celebrity_involvement": "no"
-}
-},
-{
-"dossier": 8,
-"title": "The Monster of Florence, Italy’s Unsolved Nightmare",
-"filters": {
-"location": "Florence, Italy",
-"crime_type": "serial killing",
-"time_period": "1960s-1980s",
-"celebrity_involvement": "no"
-}
-},
-{
-"dossier": 9,
-"title": "Issei Sagawa, The Cannibal Celebrity",
-"filters": {
-"location": "Paris, France",
-"crime_type": "murder/cannibalism",
-"time_period": "1980s",
-"celebrity_involvement": "yes"
-}
-},
-{
-"dossier": 10,
-"title": "The Green River Killer, Washington’s Silent Predator",
-"filters": {
-"location": "Washington, USA",
-"crime_type": "serial killing",
-"time_period": "1980s-1990s",
-"celebrity_involvement": "no"
-}
-},
-{
-"dossier": 11,
-"title": "The Night Stalker, Richard Ramirez’s Reign of Terror",
-"filters": {
-"location": "California, USA",
-"crime_type": "serial killing",
-"time_period": "1980s",
-"celebrity_involvement": "no"
-}
-},
-{
-"dossier": 12,
-"title": "The Yorkshire Ripper, England’s Brutal Predator",
-"filters": {
-"location": "Yorkshire, UK",
-"crime_type": "serial killing",
-"time_period": "1970s-1980s",
-"celebrity_involvement": "no"
-}
-},
-{
-"dossier": 13,
-"title": "The D.B. Cooper Hijacking, The Skyborne Mystery",
-"filters": {
-"location": "Washington, USA",
-"crime_type": "hijacking",
-"time_period": "1970s",
-"celebrity_involvement": "no"
-}
-},
-{
-"dossier": 14,
-"title": "The Chikatilo Murders, Russia’s Red Ripper",
-"filters": {
-"location": "Rostov, Russia",
-"crime_type": "serial killing",
-"time_period": "1970s-1990s",
-"celebrity_involvement": "no"
-}
-},
-{
-"dossier": 15,
-"title": "The Jonestown Massacre, Cult Tragedy in Guyana",
-"filters": {
-"location": "Jonestown, Guyana",
-"crime_type": "cult-related murder",
-"time_period": "1970s",
-"celebrity_involvement": "yes"
-}
-},
-{
-"dossier": 16,
-"title": "The West Memphis Three, A Controversial Conviction",
-"filters": {
-"location": "Arkansas, USA",
-"crime_type": "murder",
-"time_period": "1990s",
-"celebrity_involvement": "yes"
-}
-},
-{
-"dossier": 17,
-"title": "The Tylenol Murders, Poison in the Pills",
-"filters": {
-"location": "Illinois, USA",
-"crime_type": "serial killing",
-"time_period": "1980s",
-"celebrity_involvement": "no"
-}
-},
-{
-"dossier": 18,
-"title": "The Disappearance of Madeleine McCann",
-"filters": {
-"location": "Portugal",
-"crime_type": "missing person",
-"time_period": "2000s",
-"celebrity_involvement": "yes"
-}
-},
-{
-"dossier": 19,
-"title": "The Enron Scandal, Corporate Greed Exposed",
-"filters": {
-"location": "Texas, USA",
-"crime_type": "financial fraud",
-"time_period": "2000s",
-"celebrity_involvement": "yes"
-}
-},
-{
-"dossier": 20,
-"title": "The Hillside Stranglers, Los Angeles’ Deadly Duo",
-"filters": {
-"location": "California, USA",
-"crime_type": "serial killing",
-"time_period": "1970s",
-"celebrity_involvement": "no"
-}
-},
-{
-"dossier": 21,
-"title": "The Lockerbie Bombing, Terror in the Skies",
-"filters": {
-"location": "Scotland, UK",
-"crime_type": "terrorism",
-"time_period": "1980s",
-"celebrity_involvement": "no"
-}
-},
-{
-"dossier": 22,
-"title": "The Candy Man, Dean Corll’s House of Horrors",
-"filters": {
-"location": "Texas, USA",
-"crime_type": "serial killing",
-"time_period": "1970s",
-"celebrity_involvement": "no"
-}
-},
-{
-"dossier": 23,
-"title": "The Disappearance of Emanuela Orlandi, Vatican Mystery",
-"filters": {
-"location": "Vatican City",
-"crime_type": "missing person",
-"time_period": "1980s",
-"celebrity_involvement": "no"
-}
-},
-{
-"dossier": 24,
-"title": "The Cleveland Kidnappings, Ariel Castro’s Captives",
-"filters": {
-"location": "Ohio, USA",
-"crime_type": "kidnapping",
-"time_period": "2000s-2010s",
-"celebrity_involvement": "no"
-}
-},
-{
-"dossier": 25,
-"title": "The BTK Killer, Dennis Rader’s Hidden Life",
-"filters": {
-"location": "Kansas, USA",
-"crime_type": "serial killing",
-"time_period": "1970s-1990s",
-"celebrity_involvement": "no"
-}
-},
-{
-"dossier": 26,
-"title": "The Great Train Robbery, Britain’s Daring Heist",
-"filters": {
-"location": "Buckinghamshire, UK",
-"crime_type": "heist",
-"time_period": "1960s",
-"celebrity_involvement": "no"
-}
-},
-{
-"dossier": 27,
-"title": "The Assassination of Gianni Versace",
-"filters": {
-"location": "Florida, USA",
-"crime_type": "murder",
-"time_period": "1990s",
-"celebrity_involvement": "yes"
-}
-},
-{
-"dossier": 28,
-"title": "The Brabant Killers, Belgium’s Unsolved Terror",
-"filters": {
-"location": "Brabant, Belgium",
-"crime_type": "serial killing",
-"time_period": "1980s",
-"celebrity_involvement": "no"
-}
-},
-{
-"dossier": 29,
-"title": "The Tokyo Sarin Attack, Aum Shinrikyo’s Deadly Cult",
-"filters": {
-"location": "Tokyo, Japan",
-"crime_type": "terrorism",
-"time_period": "1990s",
-"celebrity_involvement": "no"
-}
-},
-{
-"dossier": 30,
-"title": "The Moors Murders, Britain’s Child Killers",
-"filters": {
-"location": "Manchester, UK",
-"crime_type": "serial killing",
-"time_period": "1960s",
-"celebrity_involvement": "no"
-}
-},
-{
-"dossier": 31,
-"title": "The Unabomber, Ted Kaczynski’s Anti-Tech Crusade",
-"filters": {
-"location": "USA",
-"crime_type": "terrorism",
-"time_period": "1970s-1990s",
-"celebrity_involvement": "no"
-}
-},
-{
-"dossier": 32,
-"title": "The Disappearance of Azaria Chamberlain, Dingo or Murder?",
-"filters": {
-"location": "Northern Territory, Australia",
-"crime_type": "missing person",
-"time_period": "1980s",
-"celebrity_involvement": "yes"
-}
-},
-{
-"dossier": 33,
-"title": "The Silk Road, Ross Ulbricht’s Dark Web Empire",
-"filters": {
-"location": "USA",
-"crime_type": "cybercrime",
-"time_period": "2010s",
-"celebrity_involvement": "no"
-}
-},
-{
-"dossier": 34,
-"title": "The Golden State Killer, The Original Night Stalker",
-"filters": {
-"location": "California, USA",
-"crime_type": "serial killing",
-"time_period": "1970s-1980s",
-"celebrity_involvement": "no"
-}
-},
-{
-"dossier": 35,
-"title": "The Kidnapping of Aldo Moro, Italy’s Political Tragedy",
-"filters": {
-"location": "Rome, Italy",
-"crime_type": "kidnapping/murder",
-"time_period": "1970s",
-"celebrity_involvement": "yes"
-}
-},
-{
-"dossier": 36,
-"title": "The Boston Strangler, Albert DeSalvo’s Reign of Fear",
-"filters": {
-"location": "Massachusetts, USA",
-"crime_type": "serial killing",
-"time_period": "1960s",
-"celebrity_involvement": "no"
-}
-},
-{
-"dossier": 37,
-"title": "The Disappearance of the Beaumont Children",
-"filters": {
-"location": "Adelaide, Australia",
-"crime_type": "missing person",
-"time_period": "1960s",
-"celebrity_involvement": "no"
-}
-},
-{
-"dossier": 38,
-"title": "The Craigslist Killer, Philip Markoff’s Double Life",
-"filters": {
-"location": "Massachusetts, USA",
-"crime_type": "murder",
-"time_period": "2000s",
-"celebrity_involvement": "no"
-}
-},
-{
-"dossier": 39,
-"title": "The Assassination of John Lennon",
-"filters": {
-"location": "New York, USA",
-"crime_type": "murder",
-"time_period": "1980s",
-"celebrity_involvement": "yes"
-}
-},
-{
-"dossier": 40,
-"title": "The Monster of the Andes, Pedro López’s Unpunished Crimes",
-"filters": {
-"location": "Colombia/Peru/Ecuador",
-"crime_type": "serial killing",
-"time_period": "1970s",
-"celebrity_involvement": "no"
-}
-},
-{
-"dossier": 41,
-"title": "The Watergate Scandal, Nixon’s Downfall",
-"filters": {
-"location": "Washington, D.C., USA",
-"crime_type": "political conspiracy",
-"time_period": "1970s",
-"celebrity_involvement": "yes"
-}
-},
-{
-"dossier": 42,
-"title": "The Disappearance of Jimmy Hoffa",
-"filters": {
-"location": "Michigan, USA",
-"crime_type": "missing person",
-"time_period": "1970s",
-"celebrity_involvement": "yes"
-}
-},
-{
-"dossier": 43,
-"title": "The Vampire of Düsseldorf, Peter Kürten’s Bloodlust",
-"filters": {
-"location": "Düsseldorf, Germany",
-"crime_type": "serial killing",
-"time_period": "1920s",
-"celebrity_involvement": "no"
-}
-},
-{
-"dossier": 44,
-"title": "The Enigma of the Somerton Man, Australia’s Unknown Corpse",
-"filters": {
-"location": "Adelaide, Australia",
-"crime_type": "unsolved death",
-"time_period": "1940s",
-"celebrity_involvement": "no"
-}
-},
-{
-"dossier": 45,
-"title": "The Rajneesh Bioterror Attack, Cult Poisoning in Oregon",
-"filters": {
-"location": "Oregon, USA",
-"crime_type": "bioterrorism",
-"time_period": "1980s",
-"celebrity_involvement": "no"
-}
-},
-{
-"dossier": 46,
-"title": "The Murder of Tupac Shakur",
-"filters": {
-"location": "Nevada, USA",
-"crime_type": "murder",
-"time_period": "1990s",
-"celebrity_involvement": "yes"
-}
-},
-{
-"dossier": 47,
-"title": "The Disappearance of Flight MH370",
-"filters": {
-"location": "Indian Ocean",
-"crime_type": "missing person",
-"time_period": "2010s",
-"celebrity_involvement": "no"
-}
-},
-{
-"dossier": 48,
-"title": "The Lufthansa Heist, Goodfellas’ Real-Life Robbery",
-"filters": {
-"location": "New York, USA",
-"crime_type": "heist",
-"time_period": "1970s",
-"celebrity_involvement": "no"
-}
-},
-{
-"dossier": 49,
-"title": "The Death of Elisa Lam, The Cecil Hotel Mystery",
-"filters": {
-"location": "California, USA",
-"crime_type": "unsolved death",
-"time_period": "2010s",
-"celebrity_involvement": "no"
-}
-},
-{
-"dossier": 50,
-"title": "The Narcosatánicos, Mexico’s Cult Killings",
-"filters": {
-"location": "Matamoros, Mexico",
-"crime_type": "cult-related murder",
-"time_period": "1980s",
-"celebrity_involvement": "no"
-}
-},
-{
-"dossier": 51,
-"title": "The Assassination of Martin Luther King Jr.",
-"filters": {
-"location": "Tennessee, USA",
-"crime_type": "assassination",
-"time_period": "1960s",
-"celebrity_involvement": "yes"
-}
-},
-{
-"dossier": 52,
-"title": "The Disappearance of Natalee Holloway",
-"filters": {
-"location": "Aruba",
-"crime_type": "missing person",
-"time_period": "2000s",
-"celebrity_involvement": "no"
-}
-},
-{
-"dossier": 53,
-"title": "The Acid Bath Murderer, John Haigh’s Grisly Crimes",
-"filters": {
-"location": "London, UK",
-"crime_type": "serial killing",
-"time_period": "1940s",
-"celebrity_involvement": "no"
-}
-},
-{
-"dossier": 54,
-"title": "The Oklahoma City Bombing, Timothy McVeigh’s Terror",
-"filters": {
-"location": "Oklahoma, USA",
-"crime_type": "terrorism",
-"time_period": "1990s",
-"celebrity_involvement": "no"
-}
-},
-{
-"dossier": 55,
-"title": "The Murder of JonBenét Ramsey",
-"filters": {
-"location": "Colorado, USA",
-"crime_type": "murder",
-"time_period": "1990s",
-"celebrity_involvement": "yes"
-}
-},
-{
-"dossier": 56,
-"title": "The Port Arthur Massacre, Australia’s Gun Tragedy",
-"filters": {
-"location": "Tasmania, Australia",
-"crime_type": "mass shooting",
-"time_period": "1990s",
-"celebrity_involvement": "no"
-}
-},
-{
-"dossier": 57,
-"title": "The Enfield Haunting, The Poltergeist Case",
-"filters": {
-"location": "London, UK",
-"crime_type": "fraud/investigation",
-"time_period": "1970s",
-"celebrity_involvement": "no"
-}
-},
-{
-"dossier": 58,
-"title": "The Kidnapping of Patty Hearst",
-"filters": {
-"location": "California, USA",
-"crime_type": "kidnapping",
-"time_period": "1970s",
-"celebrity_involvement": "yes"
-}
-},
-{
-"dossier": 59,
-"title": "The Cannibal of Rotenburg, Armin Meiwes",
-"filters": {
-"location": "Rotenburg, Germany",
-"crime_type": "murder/cannibalism",
-"time_period": "2000s",
-"celebrity_involvement": "no"
-}
-},
-{
-"dossier": 60,
-"title": "The Murder of Meredith Kercher, Amanda Knox’s Trial",
-"filters": {
-"location": "Perugia, Italy",
-"crime_type": "murder",
-"time_period": "2000s",
-"celebrity_involvement": "yes"
-}
-},
-{
-"dossier": 61,
-"title": "The Columbine High School Shooting",
-"filters": {
-"location": "Colorado, USA",
-"crime_type": "mass shooting",
-"time_period": "1990s",
-"celebrity_involvement": "no"
-}
-},
-{
-"dossier": 62,
-"title": "The Disappearance of the Springfield Three",
-"filters": {
-"location": "Missouri, USA",
-"crime_type": "missing person",
-"time_period": "1990s",
-"celebrity_involvement": "no"
-}
-},
-{
-"dossier": 63,
-"title": "The Assassination of Robert F. Kennedy",
-"filters": {
-"location": "California, USA",
-"crime_type": "assassination",
-"time_period": "1960s",
-"celebrity_involvement": "yes"
-}
-},
-{
-"dossier": 64,
-"title": "The Monster of Belgium, Marc Dutroux’s Horrors",
-"filters": {
-"location": "Belgium",
-"crime_type": "serial killing/kidnapping",
-"time_period": "1990s",
-"celebrity_involvement": "no"
-}
-},
-{
-"dossier": 65,
-"title": "The Isabella Stewart Gardner Museum Heist",
-"filters": {
-"location": "Massachusetts, USA",
-"crime_type": "art theft",
-"time_period": "1990s",
-"celebrity_involvement": "no"
-}
-},
-{
-"dossier": 66,
-"title": "The Murder of Notorious B.I.G.",
-"filters": {
-"location": "California, USA",
-"crime_type": "murder",
-"time_period": "1990s",
-"celebrity_involvement": "yes"
-}
-},
-{
-"dossier": 67,
-"title": "The Disappearance of Cleo Smith",
-"filters": {
-"location": "Western Australia, Australia",
-"crime_type": "kidnapping",
-"time_period": "2020s",
-"celebrity_involvement": "no"
-}
-},
-{
-"dossier": 68,
-"title": "The Heaven’s Gate Cult, Mass Suicide in California",
-"filters": {
-"location": "California, USA",
-"crime_type": "cult-related suicide",
-"time_period": "1990s",
-"celebrity_involvement": "no"
-}
-},
-{
-"dossier": 69,
-"title": "The Murder of Polly Klaas",
-"filters": {
-"location": "California, USA",
-"crime_type": "murder",
-"time_period": "1990s",
-"celebrity_involvement": "no"
-}
-},
-{
-"dossier": 70,
-"title": "The Atlanta Child Murders, Wayne Williams’ Conviction",
-"filters": {
-"location": "Georgia, USA",
-"crime_type": "serial killing",
-"time_period": "1970s-1980s",
-"celebrity_involvement": "no"
-}
-},
-{
-"dossier": 71,
-"title": "The Disappearance of Amy Lynn Bradley",
-"filters": {
-"location": "Caribbean",
-"crime_type": "missing person",
-"time_period": "1990s",
-"celebrity_involvement": "no"
-}
-},
-{
-"dossier": 72,
-"title": "The Murder of Reeva Steenkamp, Oscar Pistorius’ Fall",
-"filters": {
-"location": "South Africa",
-"crime_type": "murder",
-"time_period": "2010s",
-"celebrity_involvement": "yes"
-}
-},
-{
-"dossier": 73,
-"title": "The Disappearance of the Flannan Isles Lighthouse Keepers",
-"filters": {
-"location": "Scotland, UK",
-"crime_type": "missing person",
-"time_period": "1900s",
-"celebrity_involvement": "no"
-}
-},
-{
-"dossier": 74,
-"title": "The Chappaquiddick Incident, Ted Kennedy’s Scandal",
-"filters": {
-"location": "Massachusetts, USA",
-"crime_type": "manslaughter",
-"time_period": "1960s",
-"celebrity_involvement": "yes"
-}
-},
-{
-"dossier": 75,
-"title": "The Smiley Face Killings, A Serial Killer Theory",
-"filters": {
-"location": "USA",
-"crime_type": "serial killing",
-"time_period": "1990s-2000s",
-"celebrity_involvement": "no"
-}
-},
-{
-"dossier": 76,
-"title": "The Murder of Laci Peterson",
-"filters": {
-"location": "California, USA",
-"crime_type": "murder",
-"time_period": "2000s",
-"celebrity_involvement": "no"
-}
-},
-{
-"dossier": 77,
-"title": "The Kidnapping of Elizabeth Smart",
-"filters": {
-"location": "Utah, USA",
-"crime_type": "kidnapping",
-"time_period": "2000s",
-"celebrity_involvement": "no"
-}
-},
-{
-"dossier": 78,
-"title": "The Murder of Adam Walsh",
-"filters": {
-"location": "Florida, USA",
-"crime_type": "murder",
-"time_period": "1980s",
-"celebrity_involvement": "no"
-}
-},
-{
-"dossier": 79,
-"title": "The Disappearance of Maura Murray",
-"filters": {
-"location": "New Hampshire, USA",
-"crime_type": "missing person",
-"time_period": "2000s",
-"celebrity_involvement": "no"
-}
-},
-{
-"dossier": 80,
-"title": "The Murder of Sharon Tate",
-"filters": {
-"location": "California, USA",
-"crime_type": "murder",
-"time_period": "1960s",
-"celebrity_involvement": "yes"
-}
-},
-{
-"dossier": 81,
-"title": "The Dnepropetrovsk Maniacs, Ukraine’s Video Killers",
-"filters": {
-"location": "Ukraine",
-"crime_type": "serial killing",
-"time_period": "2000s",
-"celebrity_involvement": "no"
-}
-},
-{
-"dossier": 82,
-"title": "The Murder of Kitty Genovese",
-"filters": {
-"location": "New York, USA",
-"crime_type": "murder",
-"time_period": "1960s",
-"celebrity_involvement": "no"
-}
-},
-{
-"dossier": 83,
-"title": "The Great Diamond Heist, Antwerp’s Perfect Crime",
-"filters": {
-"location": "Antwerp, Belgium",
-"crime_type": "heist",
-"time_period": "2000s",
-"celebrity_involvement": "no"
-}
-},
-{
-"dossier": 84,
-"title": "The Murder of Sophie Toscan du Plantier",
-"filters": {
-"location": "Ireland",
-"crime_type": "murder",
-"time_period": "1990s",
-"celebrity_involvement": "yes"
-}
-},
-{
-"dossier": 85,
-"title": "The Chessboard Killer, Alexander Pichushkin’s Deadly Game",
-"filters": {
-"location": "Moscow, Russia",
-"crime_type": "serial killing",
-"time_period": "1990s-2000s",
-"celebrity_involvement": "no"
-}
-},
-{
-"dossier": 86,
-"title": "The Murder of Daniel Morcombe",
-"filters": {
-"location": "Queensland, Australia",
-"crime_type": "murder",
-"time_period": "2000s",
-"celebrity_involvement": "no"
-}
-},
-{
-"dossier": 87,
-"title": "The Disappearance of Tammy Kingery",
-"filters": {
-"location": "South Carolina, USA",
-"crime_type": "missing person",
-"time_period": "2010s",
-"celebrity_involvement": "no"
-}
-},
-{
-"dossier": 88,
-"title": "The Murder of Lee Harvey Oswald",
-"filters": {
-"location": "Texas, USA",
-"crime_type": "murder",
-"time_period": "1960s",
-"celebrity_involvement": "yes"
-}
-},
-{
-"dossier": 89,
-"title": "The Snowtown Murders, Australia’s Bodies in Barrels",
-"filters": {
-"location": "South Australia, Australia",
-"crime_type": "serial killing",
-"time_period": "1990s",
-"celebrity_involvement": "no"
-}
-},
-{
-"dossier": 90,
-"title": "The Murder of Hae Min Lee, The Serial Podcast Case",
-"filters": {
-"location": "Maryland, USA",
-"crime_type": "murder",
-"time_period": "1990s",
-"celebrity_involvement": "no"
-}
-},
-{
-"dossier": 91,
-"title": "The Disappearance of Lars Mittank",
-"filters": {
-"location": "Bulgaria",
-"crime_type": "missing person",
-"time_period": "2010s",
-"celebrity_involvement": "no"
-}
-},
-{
-"dossier": 92,
-"title": "The Murder of Phil Hartman",
-"filters": {
-"location": "California, USA",
-"crime_type": "murder",
-"time_period": "1990s",
-"celebrity_involvement": "yes"
-}
-},
-{
-"dossier": 93,
-"title": "The Disappearance of Andrew Gosden",
-"filters": {
-"location": "London, UK",
-"crime_type": "missing person",
-"time_period": "2000s",
-"celebrity_involvement": "no"
-}
-},
-{
-"dossier": 94,
-"title": "The Murder of Selena Quintanilla",
-"filters": {
-"location": "Texas, USA",
-"crime_type": "murder",
-"time_period": "1990s",
-"celebrity_involvement": "yes"
-}
-},
-{
-"dossier": 95,
-"title": "The Disappearance of Sneha Philip",
-"filters": {
-"location": "New York, USA",
-"crime_type": "missing person",
-"time_period": "2000s",
-"celebrity_involvement": "no"
-}
-},
-{
-"dossier": 96,
-"title": "The Murder of Gabriel Kuhn",
-"filters": {
-"location": "Brazil",
-"crime_type": "murder",
-"time_period": "2000s",
-"celebrity_involvement": "no"
-}
-},
-{
-"dossier": 97,
-"title": "The Disappearance of Kyron Horman",
-"filters": {
-"location": "Oregon, USA",
-"crime_type": "missing person",
-"time_period": "2010s",
-"celebrity_involvement": "no"
-}
-},
-{
-"dossier": 98,
-"title": "The Murder of Jam Master Jay",
-"filters": {
-"location": "New York, USA",
-"crime_type": "murder",
-"time_period": "2000s",
-"celebrity_involvement": "yes"
-}
-},
-{
-"dossier": 99,
-"title": "The Disappearance of Yingying Zhang",
-"filters": {
-"location": "Illinois, USA",
-"crime_type": "missing person/murder",
-"time_period": "2010s",
-"celebrity_involvement": "no"
-}
-},
-{
-"dossier": 100,
-"title": "The Murder of Anna Politkovskaya",
-"filters": {
-"location": "Moscow, Russia",
-"crime_type": "assassination",
-"time_period": "2000s",
-"celebrity_involvement": "yes"
-}
-},
-{
-"dossier": 101,
-"title": "The Disappearance of Lisa Irwin",
-"filters": {
-"location": "Missouri, USA",
-"crime_type": "missing person",
-"time_period": "2010s",
-"celebrity_involvement": "no"
-}
-},
-{
-"dossier": 102,
-"title": "The Murder of Rebecca Schaeffer",
-"filters": {
-"location": "California, USA",
-"crime_type": "murder",
-"time_period": "1980s",
-"celebrity_involvement": "yes"
-}
-},
-{
-"dossier": 103,
-"title": "The Disappearance of Brian Shaffer",
-"filters": {
-"location": "Ohio, USA",
-"crime_type": "missing person",
-"time_period": "2000s",
-"celebrity_involvement": "no"
-}
-},
-{
-"dossier": 104,
-"title": "The Murder of Matthew Shepard",
-"filters": {
-"location": "Wyoming, USA",
-"crime_type": "murder",
-"time_period": "1990s",
-"celebrity_involvement": "no"
-}
-},
-{
-"dossier": 105,
-"title": "The Disappearance of Jennifer Kesse",
-"filters": {
-"location": "Florida, USA",
-"crime_type": "missing person",
-"time_period": "2000s",
-"celebrity_involvement": "no"
-}
-},
-{
-"dossier": 106,
-"title": "The Murder of XXXTentacion",
-"filters": {
-"location": "Florida, USA",
-"crime_type": "murder",
-"time_period": "2010s",
-"celebrity_involvement": "yes"
-}
-},
-{
-"dossier": 107,
-"title": "The Disappearance of Lauren Spierer",
-"filters": {
-"location": "Indiana, USA",
-"crime_type": "missing person",
-"time_period": "2010s",
-"celebrity_involvement": "no"
-}
-},
-{
-"dossier": 108,
-"title": "The Murder of Nicole Brown Simpson",
-"filters": {
-"location": "California, USA",
-"crime_type": "murder",
-"time_period": "1990s",
-"celebrity_involvement": "yes"
-}
-},
-{
-"dossier": 109,
-"title": "The Disappearance of Ray Gricar",
-"filters": {
-"location": "Pennsylvania, USA",
-"crime_type": "missing person",
-"time_period": "2000s",
-"celebrity_involvement": "no"
-}
-},
-{
-"dossier": 110,
-"title": "The Murder of Marvin Gaye",
-"filters": {
-"location": "California, USA",
-"crime_type": "murder",
-"time_period": "1980s",
-"celebrity_involvement": "yes"
-}
-},
-{
-"dossier": 111,
-"title": "The Disappearance of Etan Patz",
-"filters": {
-"location": "New York, USA",
-"crime_type": "missing person",
-"time_period": "1970s",
-"celebrity_involvement": "no"
-}
-},
-{
-"dossier": 112,
-"title": "The Murder of Sam Cooke",
-"filters": {
-"location": "California, USA",
-"crime_type": "murder",
-"time_period": "1960s",
-"celebrity_involvement": "yes"
-}
-},
-{
-"dossier": 113,
-"title": "The Disappearance of Brandon Lawson",
-"filters": {
-"location": "Texas, USA",
-"crime_type": "missing person",
-"time_period": "2010s",
-"celebrity_involvement": "no"
-}
-},
-{
-"dossier": 114,
-"title": "The Murder of Dorothy Stratten",
-"filters": {
-"location": "California, USA",
-"crime_type": "murder",
-"time_period": "1980s",
-"celebrity_involvement": "yes"
-}
-},
-{
-"dossier": 115,
-"title": "The Disappearance of Asha Degree",
-"filters": {
-"location": "North Carolina, USA",
-"crime_type": "missing person",
-"time_period": "2000s",
-"celebrity_involvement": "no"
-}
-},
-{
-"dossier": 116,
-"title": "The Murder of Lisa Marie Kimmell",
-"filters": {
-"location": "Wyoming, USA",
-"crime_type": "murder",
-"time_period": "1980s",
-"celebrity_involvement": "no"
-}
-},
-{
-"dossier": 117,
-"title": "The Disappearance of Tara Calico",
-"filters": {
-"location": "New Mexico, USA",
-"crime_type": "missing person",
-"time_period": "1980s",
-"celebrity_involvement": "no"
-}
-},
-{
-"dossier": 118,
-"title": "The Murder of Griselda Blanco",
-"filters": {
-"location": "Colombia",
-"crime_type": "murder",
-"time_period": "2010s",
-"celebrity_involvement": "yes"
-}
-},
-{
-"dossier": 119,
-"title": "The Disappearance of Morgan Nick",
-"filters": {
-"location": "Arkansas, USA",
-"crime_type": "missing person",
-"time_period": "1990s",
-"celebrity_involvement": "no"
-}
-},
-{
-"dossier": 120,
-"title": "The Murder of Chandra Levy",
-"filters": {
-"location": "Washington, D.C., USA",
-"crime_type": "murder",
-"time_period": "2000s",
-"celebrity_involvement": "yes"
-}
-},
-{
-"dossier": 121,
-"title": "The Disappearance of Kristin Smart",
-"filters": {
-"location": "California, USA",
-"crime_type": "missing person/murder",
-"time_period": "1990s",
-"celebrity_involvement": "no"
-}
-},
-{
-"dossier": 122,
-"title": "The Murder of James Bulger",
-"filters": {
-"location": "Liverpool, UK",
-"crime_type": "murder",
-"time_period": "1990s",
-"celebrity_involvement": "no"
-}
-},
-{
-"dossier": 123,
-"title": "The Disappearance of Sarah MacDiarmid",
-"filters": {
-"location": "Melbourne, Australia",
-"crime_type": "missing person",
-"time_period": "1990s",
-"celebrity_involvement": "no"
-}
-},
-{
-"dossier": 124,
-"title": "The Murder of Rachel Nickell",
-"filters": {
-"location": "London, UK",
-"crime_type": "murder",
-"time_period": "1990s",
-"celebrity_involvement": "no"
-}
-},
-{
-"dossier": 125,
-"title": "The Disappearance of Julie Ward",
-"filters": {
-"location": "Kenya",
-"crime_type": "missing person/murder",
-"time_period": "1980s",
-"celebrity_involvement": "no"
-}
-},
-{
-"dossier": 126,
-"title": "The Murder of Jill Dando",
-"filters": {
-"location": "London, UK",
-"crime_type": "murder",
-"time_period": "1990s",
-"celebrity_involvement": "yes"
-}
-},
-{
-"dossier": 127,
-"title": "The Disappearance of Ben Needham",
-"filters": {
-"location": "Kos, Greece",
-"crime_type": "missing person",
-"time_period": "1990s",
-"celebrity_involvement": "no"
-}
-},
-{
-"dossier": 128,
-"title": "The Murder of Stephen Lawrence",
-"filters": {
-"location": "London, UK",
-"crime_type": "murder",
-"time_period": "1990s",
-"celebrity_involvement": "no"
-}
-},
-{
-"dossier": 129,
-"title": "The Disappearance of Michael Dunahee",
-"filters": {
-"location": "British Columbia, Canada",
-"crime_type": "missing person",
-"time_period": "1990s",
-"celebrity_involvement": "no"
-}
-},
-{
-"dossier": 130,
-"title": "The Murder of Versace’s Killer, Andrew Cunanan’s Spree",
-"filters": {
-"location": "USA",
-"crime_type": "serial killing",
-"time_period": "1990s",
-"celebrity_involvement": "yes"
-}
-},
-{
-"dossier": 131,
-"title": "The Disappearance of Richey Edwards",
-"filters": {
-"location": "London, UK",
-"crime_type": "missing person",
-"time_period": "1990s",
-"celebrity_involvement": "yes"
-}
-},
-{
-"dossier": 132,
-"title": "The Murder of Mia Zapata",
-"filters": {
-"location": "Washington, USA",
-"crime_type": "murder",
-"time_period": "1990s",
-"celebrity_involvement": "yes"
-}
-},
-{
-"dossier": 133,
-"title": "The Disappearance of Brandon Swanson",
-"filters": {
-"location": "Minnesota, USA",
-"crime_type": "missing person",
-"time_period": "2000s",
-"celebrity_involvement": "no"
-}
-},
-{
-"dossier": 134,
-"title": "The Murder of Holly Maddux",
-"filters": {
-"location": "Pennsylvania, USA",
-"crime_type": "murder",
-"time_period": "1970s",
-"celebrity_involvement": "no"
-}
-},
-{
-"dossier": 135,
-"title": "The Disappearance of Johnny Gosch",
-"filters": {
-"location": "Iowa, USA",
-"crime_type": "missing person",
-"time_period": "1980s",
-"celebrity_involvement": "no"
-}
-},
-{
-"dossier": 136,
-"title": "The Murder of Lisa McVey’s Abductor, Bobby Joe Long",
-"filters": {
-"location": "Florida, USA",
-"crime_type": "serial killing",
-"time_period": "1980s",
-"celebrity_involvement": "no"
-}
-},
-{
-"dossier": 137,
-"title": "The Disappearance of Tiffany Whitton",
-"filters": {
-"location": "Georgia, USA",
-"crime_type": "missing person",
-"time_period": "2010s",
-"celebrity_involvement": "no"
-}
-},
-{
-"dossier": 138,
-"title": "The Murder of Anjelica Castillo, The Baby Hope Case",
-"filters": {
-"location": "New York, USA",
-"crime_type": "murder",
-"time_period": "1990s",
-"celebrity_involvement": "no"
-}
-},
-{
-"dossier": 139,
-"title": "The Disappearance of the Jamison Family",
-"filters": {
-"location": "Oklahoma, USA",
-"crime_type": "missing person",
-"time_period": "2000s",
-"celebrity_involvement": "no"
-}
-},
-{
-"dossier": 140,
-"title": "The Murder of Elizabeth Short, The Black Dahlia",
-"filters": {
-"location": "California, USA",
-"crime_type": "murder",
-"time_period": "1940s",
-"celebrity_involvement": "no"
-}
-},
-{
-"dossier": 141,
-"title": "The Disappearance of the Sodder Children",
-"filters": {
-"location": "West Virginia, USA",
-"crime_type": "missing person",
-"time_period": "1940s",
-"celebrity_involvement": "no"
-}
-},
-{
-"dossier": 142,
-"title": "The Murder of Heather Rich",
-"filters": {
-"location": "Oklahoma, USA",
-"crime_type": "murder",
-"time_period": "1990s",
-"celebrity_involvement": "no"
-}
-},
-{
-"dossier": 143,
-"title": "The Disappearance of Amy Wroe Bechtel",
-"filters": {
-"location": "Wyoming, USA",
-"crime_type": "missing person",
-"time_period": "1990s",
-"celebrity_involvement": "no"
-}
-},
-{
-"dossier": 144,
-"title": "The Murder of Kristin O’Connell",
-"filters": {
-"location": "New York, USA",
-"crime_type": "murder",
-"time_period": "1980s",
-"celebrity_involvement": "no"
-}
-},
-{
-"dossier": 145,
-"title": "The Disappearance of Diane Schuler",
-"filters": {
-"location": "New York, USA",
-"crime_type": "unsolved death",
-"time_period": "2000s",
-"celebrity_involvement": "no"
-}
-},
-{
-"dossier": 146,
-"title": "The Murder of Debbie Wolfe",
-"filters": {
-"location": "North Carolina, USA",
-"crime_type": "murder",
-"time_period": "1980s",
-"celebrity_involvement": "no"
-}
-},
-{
-"dossier": 147,
-"title": "The Disappearance of Morgan Harrington",
-"filters": {
-"location": "Virginia, USA",
-"crime_type": "missing person/murder",
-"time_period": "2000s",
-"celebrity_involvement": "no"
-}
-},
-{
-"dossier": 148,
-"title": "The Murder of Mary Pinchot Meyer",
-"filters": {
-"location": "Washington, D.C., USA",
-"crime_type": "murder",
-"time_period": "1960s",
-"celebrity_involvement": "yes"
-}
-},
-{
-"dossier": 149,
-"title": "The Disappearance of Bethany Decker",
-"filters": {
-"location": "Virginia, USA",
-"crime_type": "missing person",
-"time_period": "2010s",
-"celebrity_involvement": "no"
-}
-},
-{
-"dossier": 150,
-"title": "The Murder of Cheri Jo Bates",
-"filters": {
-"location": "California, USA",
-"crime_type": "murder",
-"time_period": "1960s",
-"celebrity_involvement": "no"
-}
-},
-{
-"dossier": 151,
-"title": "The Disappearance of Zebb Quinn",
-"filters": {
-"location": "North Carolina, USA",
-"crime_type": "missing person",
-"time_period": "2000s",
-"celebrity_involvement": "no"
-}
-},
-{
-"dossier": 152,
-"title": "The Murder of Taman Shud, The Somerton Man",
-"filters": {
-"location": "Adelaide, Australia",
-"crime_type": "unsolved death",
-"time_period": "1940s",
-"celebrity_involvement": "no"
-}
-},
-{
-"dossier": 153,
-"title": "The Disappearance of Annie McCarrick",
-"filters": {
-"location": "Ireland",
-"crime_type": "missing person",
-"time_period": "1990s",
-"celebrity_involvement": "no"
-}
-},
-{
-"dossier": 154,
-"title": "The Murder of Banaz Mahmod",
-"filters": {
-"location": "London, UK",
-"crime_type": "murder",
-"time_period": "2000s",
-"celebrity_involvement": "no"
-}
-},
-{
-"dossier": 155,
-"title": "The Disappearance of Claudia Lawrence",
-"filters": {
-"location": "York, UK",
-"crime_type": "missing person",
-"time_period": "2000s",
-"celebrity_involvement": "no"
-}
-},
-{
-"dossier": 156,
-"title": "The Murder of Jo Cox",
-"filters": {
-"location": "Yorkshire, UK",
-"crime_type": "assassination",
-"time_period": "2010s",
-"celebrity_involvement": "yes"
-}
-},
-{
-"dossier": 157,
-"title": "The Disappearance of Leah Roberts",
-"filters": {
-"location": "Washington, USA",
-"crime_type": "missing person",
-"time_period": "2000s",
-"celebrity_involvement": "no"
-}
-},
-{
-"dossier": 158,
-"title": "The Murder of Sarah Everard",
-"filters": {
-"location": "London, UK",
-"crime_type": "murder",
-"time_period": "2020s",
-"celebrity_involvement": "no"
-}
-},
-{
-"dossier": 159,
-"title": "The Disappearance of Daniel Robinson",
-"filters": {
-"location": "Arizona, USA",
-"crime_type": "missing person",
-"time_period": "2020s",
-"celebrity_involvement": "no"
-}
-},
-{
-"dossier": 160,
-"title": "The Murder of Brianna Ghey",
-"filters": {
-"location": "Cheshire, UK",
-"crime_type": "murder",
-"time_period": "2020s",
-"celebrity_involvement": "no"
-}
-},
-{
-"dossier": 161,
-"title": "The Disappearance of Lisa Marie Young",
-"filters": {
-"location": "British Columbia, Canada",
-"crime_type": "missing person",
-"time_period": "2000s",
-"celebrity_involvement": "no"
-}
-},
-{
-"dossier": 162,
-"title": "The Murder of Sabina Nessa",
-"filters": {
-"location": "London, UK",
-"crime_type": "murder",
-"time_period": "2020s",
-"celebrity_involvement": "no"
-}
-},
-{
-"dossier": 163,
-"title": "The Disappearance of Phoenix Coldon",
-"filters": {
-"location": "Missouri, USA",
-"crime_type": "missing person",
-"time_period": "2010s",
-"celebrity_involvement": "no"
-}
-},
-{
-"dossier": 164,
-"title": "The Murder of Liliana Resinovich",
-"filters": {
-"location": "Trieste, Italy",
-"crime_type": "murder",
-"time_period": "2020s",
-"celebrity_involvement": "no"
-}
-},
-{
-"dossier": 165,
-"title": "The Disappearance of Tiffany Valiante",
-"filters": {
-"location": "New Jersey, USA",
-"crime_type": "missing person/unsolved death",
-"time_period": "2010s",
-"celebrity_involvement": "no"
-}
-},
-{
-"dossier": 166,
-"title": "The Murder of Lauren McCluskey",
-"filters": {
-"location": "Utah, USA",
-"crime_type": "murder",
-"time_period": "2010s",
-"celebrity_involvement": "no"
-}
-},
-{
-"dossier": 167,
-"title": "The Disappearance of Katrice Lee",
-"filters": {
-"location": "Germany",
-"crime_type": "missing person",
-"time_period": "1980s",
-"celebrity_involvement": "no"
-}
-},
-{
-"dossier": 168,
-"title": "The Murder of Holly Bobo",
-"filters": {
-"location": "Tennessee, USA",
-"crime_type": "murder",
-"time_period": "2010s",
-"celebrity_involvement": "no"
-}
-},
-{
-"dossier": 169,
-"title": "The Disappearance of Karlie Gusé",
-"filters": {
-"location": "California, USA",
-"crime_type": "missing person",
-"time_period": "2010s",
-"celebrity_involvement": "no"
-}
-},
-{
-"dossier": 170,
-"title": "The Murder of Zahra Baker",
-"filters": {
-"location": "North Carolina, USA",
-"crime_type": "murder",
-"time_period": "2010s",
-"celebrity_involvement": "no"
-}
-},
-{
-"dossier": 171,
-"title": "The Disappearance of Summer Wells",
-"filters": {
-"location": "Tennessee, USA",
-"crime_type": "missing person",
-"time_period": "2020s",
-"celebrity_involvement": "no"
-}
-},
-{
-"dossier": 172,
-"title": "The Murder of Cassie Jo Stoddart",
-"filters": {
-"location": "Idaho, USA",
-"crime_type": "murder",
-"time_period": "2000s",
-"celebrity_involvement": "no"
-}
-},
-{
-"dossier": 173,
-"title": "The Disappearance of Alexis Patterson",
-"filters": {
-"location": "Wisconsin, USA",
-"crime_type": "missing person",
-"time_period": "2000s",
-"celebrity_involvement": "no"
-}
-},
-{
-"dossier": 174,
-"title": "The Murder of Shanda Sharer",
-"filters": {
-"location": "Indiana, USA",
-"crime_type": "murder",
-"time_period": "1990s",
-"celebrity_involvement": "no"
-}
-},
-{
-"dossier": 175,
-"title": "The Disappearance of Relisha Rudd",
-"filters": {
-"location": "Washington, D.C., USA",
-"crime_type": "missing person",
-"time_period": "2010s",
-"celebrity_involvement": "no"
-}
-},
-{
-"dossier": 176,
-"title": "The Murder of Anni Dewani",
-"filters": {
-"location": "South Africa",
-"crime_type": "murder",
-"time_period": "2010s",
-"celebrity_involvement": "no"
-}
-},
-{
-"dossier": 177,
-"title": "The Disappearance of Lisa Stebic",
-"filters": {
-"location": "Illinois, USA",
-"crime_type": "missing person",
-"time_period": "2000s",
-"celebrity_involvement": "no"
-}
-},
-{
-"dossier": 178,
-"title": "The Murder of Yingying Zhang",
-"filters": {
-"location": "Illinois, USA",
-"crime_type": "murder",
-"time_period": "2010s",
-"celebrity_involvement": "no"
-}
-},
-{
-"dossier": 179,
-"title": "The Disappearance of Deorr Kunz",
-"filters": {
-"location": "Idaho, USA",
-"crime_type": "missing person",
-"time_period": "2010s",
-"celebrity_involvement": "no"
-}
-},
-{
-"dossier": 180,
-"title": "The Murder of Sarah Stern",
-"filters": {
-"location": "New Jersey, USA",
-"crime_type": "murder",
-"time_period": "2010s",
-"celebrity_involvement": "no"
-}
-},
-{
-"dossier": 181,
-"title": "The Disappearance of Paige Johnson",
-"filters": {
-"location": "Kentucky, USA",
-"crime_type": "missing person",
-"time_period": "2010s",
-"celebrity_involvement": "no"
-}
-},
-{
-"dossier": 182,
-"title": "The Murder of Travis Alexander",
-"filters": {
-"location": "Arizona, USA",
-"crime_type": "murder",
-"time_period": "2000s",
-"celebrity_involvement": "no"
-}
-},
-{
-"dossier": 183,
-"title": "The Disappearance of William Tyrrell",
-"filters": {
-"location": "New South Wales, Australia",
-"crime_type": "missing person",
-"time_period": "2010s",
-"celebrity_involvement": "no"
-}
-},
-{
-"dossier": 184,
-"title": "The Murder of Meredith Emerson",
-"filters": {
-"location": "Georgia, USA",
-"crime_type": "murder",
-"time_period": "2000s",
-"celebrity_involvement": "no"
-}
-},
-{
-"dossier": 185,
-"title": "The Disappearance of Aeryn Gillern",
-"filters": {
-"location": "Vienna, Austria",
-"crime_type": "missing person",
-"time_period": "2000s",
-"celebrity_involvement": "no"
-}
-},
-{
-"dossier": 186,
-"title": "The Murder of Skylar Neese",
-"filters": {
-"location": "West Virginia, USA",
-"crime_type": "murder",
-"time_period": "2010s",
-"celebrity_involvement": "no"
-}
-},
-{
-"dossier": 187,
-"title": "The Disappearance of Timmothy Pitzen",
-"filters": {
-"location": "Illinois, USA",
-"crime_type": "missing person",
-"time_period": "2010s",
-"celebrity_involvement": "no"
-}
-},
-{
-"dossier": 188,
-"title": "The Murder of Holly Piirainen",
-"filters": {
-"location": "Massachusetts, USA",
-"crime_type": "murder",
-"time_period": "1990s",
-"celebrity_involvement": "no"
-}
-},
-{
-"dossier": 189,
-"title": "The Disappearance of Suzanne Lyall",
-"filters": {
-"location": "New York, USA",
-"crime_type": "missing person",
-"time_period": "1990s",
-"celebrity_involvement": "no"
-}
-},
-{
-"dossier": 190,
-"title": "The Murder of Jodi Huisentruit",
-"filters": {
-"location": "Iowa, USA",
-"crime_type": "murder",
-"time_period": "1990s",
-"celebrity_involvement": "yes"
-}
-},
-{
-"dossier": 191,
-"title": "The Disappearance of Crystal Rogers",
-"filters": {
-"location": "Kentucky, USA",
-"crime_type": "missing person",
-"time_period": "2010s",
-"celebrity_involvement": "no"
-}
-},
-{
-"dossier": 192,
-"title": "The Murder of Jessica Dishon",
-"filters": {
-"location": "Kentucky, USA",
-"crime_type": "murder",
-"time_period": "1990s",
-"celebrity_involvement": "no"
-}
-},
-{
-"dossier": 193,
-"title": "The Disappearance of Brittanee Drexel",
-"filters": {
-"location": "South Carolina, USA",
-"crime_type": "missing person/murder",
-"time_period": "2000s",
-"celebrity_involvement": "no"
-}
-},
-{
-"dossier": 194,
-"title": "The Murder of Sierra Lamar",
-"filters": {
-"location": "California, USA",
-"crime_type": "murder",
-"time_period": "2010s",
-"celebrity_involvement": "no"
-}
-},
-{
-"dossier": 195,
-"title": "The Disappearance of Hannah Upp",
-"filters": {
-"location": "New York, USA",
-"crime_type": "missing person",
-"time_period": "2000s",
-"celebrity_involvement": "no"
-}
-},
-{
-"dossier": 196,
-"title": "The Murder of Amy Mihaljevic",
-"filters": {
-"location": "Ohio, USA",
-"crime_type": "murder",
-"time_period": "1980s",
-"celebrity_involvement": "no"
-}
-},
-{
-"dossier": 197,
-"title": "The Disappearance of Sarah Ann Norfleet",
-"filters": {
-"location": "North Carolina, USA",
-"crime_type": "missing person",
-"time_period": "2000s",
-"celebrity_involvement": "no"
-}
-},
-{
-"dossier": 198,
-"title": "The Murder of Morgan Dana Harrington",
-"filters": {
-"location": "Virginia, USA",
-"crime_type": "murder",
-"time_period": "2000s",
-"celebrity_involvement": "no"
-}
-},
-{
-"dossier": 199,
-"title": "The Disappearance of Danielle Imbo and Richard Petrone",
-"filters": {
-"location": "Pennsylvania, USA",
-"crime_type": "missing person",
-"time_period": "2000s",
-"celebrity_involvement": "no"
-}
-},
-{
-"dossier": 200,
-"title": "The Murder of Rachel Hoffman",
-"filters": {
-"location": "Florida, USA",
-"crime_type": "murder",
-"time_period": "2000s",
-"celebrity_involvement": "no"
-}
-}
+  {
+    "dossier": 1,
+    "title": "The Zodiac Killer, The Cipher Slayer",
+    "filters": {
+      "location": "California, USA",
+      "crime_type": "serial killing",
+      "time_period": "1960s-1970s",
+      "celebrity_involvement": "no"
+    }
+  },
+  {
+    "dossier": 2,
+    "title": "MKUltra Project, The Mind Control Conspiracy",
+    "filters": {
+      "location": "USA/Canada",
+      "crime_type": "conspiracy",
+      "time_period": "1950s-1970s",
+      "celebrity_involvement": "no"
+    }
+  },
+  {
+    "dossier": 3,
+    "title": "Jack the Ripper, The Whitechapel Terror",
+    "filters": {
+      "location": "London, UK",
+      "crime_type": "serial killing",
+      "time_period": "1880s",
+      "celebrity_involvement": "no"
+    }
+  },
+  {
+    "dossier": 4,
+    "title": "The Black Dahlia Murder, Hollywood’s Unsolved Mystery",
+    "filters": {
+      "location": "California, USA",
+      "crime_type": "murder",
+      "time_period": "1940s",
+      "celebrity_involvement": "yes"
+    }
+  },
+  {
+    "dossier": 5,
+    "title": "The Manson Family Murders, Cult of Chaos",
+    "filters": {
+      "location": "California, USA",
+      "crime_type": "cult-related murder",
+      "time_period": "1960s",
+      "celebrity_involvement": "yes"
+    }
+  },
+  {
+    "dossier": 6,
+    "title": "O.J. Simpson Trial, The Chase That Gripped America",
+    "filters": {
+      "location": "California, USA",
+      "crime_type": "murder",
+      "time_period": "1990s",
+      "celebrity_involvement": "yes"
+    }
+  },
+  {
+    "dossier": 7,
+    "title": "The Backpacker Murders, Australia’s Outback Horror",
+    "filters": {
+      "location": "New South Wales, Australia",
+      "crime_type": "serial killing",
+      "time_period": "1990s",
+      "celebrity_involvement": "no"
+    }
+  },
+  {
+    "dossier": 8,
+    "title": "The Monster of Florence, Italy’s Unsolved Nightmare",
+    "filters": {
+      "location": "Florence, Italy",
+      "crime_type": "serial killing",
+      "time_period": "1960s-1980s",
+      "celebrity_involvement": "no"
+    }
+  },
+  {
+    "dossier": 9,
+    "title": "Issei Sagawa, The Cannibal Celebrity",
+    "filters": {
+      "location": "Paris, France",
+      "crime_type": "murder/cannibalism",
+      "time_period": "1980s",
+      "celebrity_involvement": "yes"
+    }
+  },
+  {
+    "dossier": 10,
+    "title": "The Green River Killer, Washington’s Silent Predator",
+    "filters": {
+      "location": "Washington, USA",
+      "crime_type": "serial killing",
+      "time_period": "1980s-1990s",
+      "celebrity_involvement": "no"
+    }
+  },
+  {
+    "dossier": 11,
+    "title": "The Night Stalker, Richard Ramirez’s Reign of Terror",
+    "filters": {
+      "location": "California, USA",
+      "crime_type": "serial killing",
+      "time_period": "1980s",
+      "celebrity_involvement": "no"
+    }
+  },
+  {
+    "dossier": 12,
+    "title": "The Yorkshire Ripper, England’s Brutal Predator",
+    "filters": {
+      "location": "Yorkshire, UK",
+      "crime_type": "serial killing",
+      "time_period": "1970s-1980s",
+      "celebrity_involvement": "no"
+    }
+  },
+  {
+    "dossier": 13,
+    "title": "The D.B. Cooper Hijacking, The Skyborne Mystery",
+    "filters": {
+      "location": "Washington, USA",
+      "crime_type": "hijacking",
+      "time_period": "1970s",
+      "celebrity_involvement": "no"
+    }
+  },
+  {
+    "dossier": 14,
+    "title": "The Chikatilo Murders, Russia’s Red Ripper",
+    "filters": {
+      "location": "Rostov, Russia",
+      "crime_type": "serial killing",
+      "time_period": "1970s-1990s",
+      "celebrity_involvement": "no"
+    }
+  },
+  {
+    "dossier": 15,
+    "title": "The Jonestown Massacre, Cult Tragedy in Guyana",
+    "filters": {
+      "location": "Jonestown, Guyana",
+      "crime_type": "cult-related murder",
+      "time_period": "1970s",
+      "celebrity_involvement": "yes"
+    }
+  },
+  {
+    "dossier": 16,
+    "title": "The West Memphis Three, A Controversial Conviction",
+    "filters": {
+      "location": "Arkansas, USA",
+      "crime_type": "murder",
+      "time_period": "1990s",
+      "celebrity_involvement": "yes"
+    }
+  },
+  {
+    "dossier": 17,
+    "title": "The Tylenol Murders, Poison in the Pills",
+    "filters": {
+      "location": "Illinois, USA",
+      "crime_type": "serial killing",
+      "time_period": "1980s",
+      "celebrity_involvement": "no"
+    }
+  },
+  {
+    "dossier": 18,
+    "title": "The Disappearance of Madeleine McCann",
+    "filters": {
+      "location": "Portugal",
+      "crime_type": "missing person",
+      "time_period": "2000s",
+      "celebrity_involvement": "yes"
+    }
+  },
+  {
+    "dossier": 19,
+    "title": "The Enron Scandal, Corporate Greed Exposed",
+    "filters": {
+      "location": "Texas, USA",
+      "crime_type": "financial fraud",
+      "time_period": "2000s",
+      "celebrity_involvement": "yes"
+    }
+  },
+  {
+    "dossier": 20,
+    "title": "The Hillside Stranglers, Los Angeles’ Deadly Duo",
+    "filters": {
+      "location": "California, USA",
+      "crime_type": "serial killing",
+      "time_period": "1970s",
+      "celebrity_involvement": "no"
+    }
+  },
+  {
+    "dossier": 21,
+    "title": "The Lockerbie Bombing, Terror in the Skies",
+    "filters": {
+      "location": "Scotland, UK",
+      "crime_type": "terrorism",
+      "time_period": "1980s",
+      "celebrity_involvement": "no"
+    }
+  },
+  {
+    "dossier": 22,
+    "title": "The Candy Man, Dean Corll’s House of Horrors",
+    "filters": {
+      "location": "Texas, USA",
+      "crime_type": "serial killing",
+      "time_period": "1970s",
+      "celebrity_involvement": "no"
+    }
+  },
+  {
+    "dossier": 23,
+    "title": "The Disappearance of Emanuela Orlandi, Vatican Mystery",
+    "filters": {
+      "location": "Vatican City",
+      "crime_type": "missing person",
+      "time_period": "1980s",
+      "celebrity_involvement": "no"
+    }
+  },
+  {
+    "dossier": 24,
+    "title": "The Cleveland Kidnappings, Ariel Castro’s Captives",
+    "filters": {
+      "location": "Ohio, USA",
+      "crime_type": "kidnapping",
+      "time_period": "2000s-2010s",
+      "celebrity_involvement": "no"
+    }
+  },
+  {
+    "dossier": 25,
+    "title": "The BTK Killer, Dennis Rader’s Hidden Life",
+    "filters": {
+      "location": "Kansas, USA",
+      "crime_type": "serial killing",
+      "time_period": "1970s-1990s",
+      "celebrity_involvement": "no"
+    }
+  },
+  {
+    "dossier": 26,
+    "title": "The Great Train Robbery, Britain’s Daring Heist",
+    "filters": {
+      "location": "Buckinghamshire, UK",
+      "crime_type": "heist",
+      "time_period": "1960s",
+      "celebrity_involvement": "no"
+    }
+  },
+  {
+    "dossier": 27,
+    "title": "The Assassination of Gianni Versace",
+    "filters": {
+      "location": "Florida, USA",
+      "crime_type": "murder",
+      "time_period": "1990s",
+      "celebrity_involvement": "yes"
+    }
+  },
+  {
+    "dossier": 28,
+    "title": "The Brabant Killers, Belgium’s Unsolved Terror",
+    "filters": {
+      "location": "Brabant, Belgium",
+      "crime_type": "serial killing",
+      "time_period": "1980s",
+      "celebrity_involvement": "no"
+    }
+  },
+  {
+    "dossier": 29,
+    "title": "The Tokyo Sarin Attack, Aum Shinrikyo’s Deadly Cult",
+    "filters": {
+      "location": "Tokyo, Japan",
+      "crime_type": "terrorism",
+      "time_period": "1990s",
+      "celebrity_involvement": "no"
+    }
+  },
+  {
+    "dossier": 30,
+    "title": "The Moors Murders, Britain’s Child Killers",
+    "filters": {
+      "location": "Manchester, UK",
+      "crime_type": "serial killing",
+      "time_period": "1960s",
+      "celebrity_involvement": "no"
+    }
+  },
+  {
+    "dossier": 31,
+    "title": "The Unabomber, Ted Kaczynski’s Anti-Tech Crusade",
+    "filters": {
+      "location": "USA",
+      "crime_type": "terrorism",
+      "time_period": "1970s-1990s",
+      "celebrity_involvement": "no"
+    }
+  },
+  {
+    "dossier": 32,
+    "title": "The Disappearance of Azaria Chamberlain, Dingo or Murder?",
+    "filters": {
+      "location": "Northern Territory, Australia",
+      "crime_type": "missing person",
+      "time_period": "1980s",
+      "celebrity_involvement": "yes"
+    }
+  },
+  {
+    "dossier": 33,
+    "title": "The Silk Road, Ross Ulbricht’s Dark Web Empire",
+    "filters": {
+      "location": "USA",
+      "crime_type": "cybercrime",
+      "time_period": "2010s",
+      "celebrity_involvement": "no"
+    }
+  },
+  {
+    "dossier": 34,
+    "title": "The Golden State Killer, The Original Night Stalker",
+    "filters": {
+      "location": "California, USA",
+      "crime_type": "serial killing",
+      "time_period": "1970s-1980s",
+      "celebrity_involvement": "no"
+    }
+  },
+  {
+    "dossier": 35,
+    "title": "The Kidnapping of Aldo Moro, Italy’s Political Tragedy",
+    "filters": {
+      "location": "Rome, Italy",
+      "crime_type": "kidnapping/murder",
+      "time_period": "1970s",
+      "celebrity_involvement": "yes"
+    }
+  },
+  {
+    "dossier": 36,
+    "title": "The Boston Strangler, Albert DeSalvo’s Reign of Fear",
+    "filters": {
+      "location": "Massachusetts, USA",
+      "crime_type": "serial killing",
+      "time_period": "1960s",
+      "celebrity_involvement": "no"
+    }
+  },
+  {
+    "dossier": 37,
+    "title": "The Disappearance of the Beaumont Children",
+    "filters": {
+      "location": "Adelaide, Australia",
+      "crime_type": "missing person",
+      "time_period": "1960s",
+      "celebrity_involvement": "no"
+    }
+  },
+  {
+    "dossier": 38,
+    "title": "The Craigslist Killer, Philip Markoff’s Double Life",
+    "filters": {
+      "location": "Massachusetts, USA",
+      "crime_type": "murder",
+      "time_period": "2000s",
+      "celebrity_involvement": "no"
+    }
+  },
+  {
+    "dossier": 39,
+    "title": "The Assassination of John Lennon",
+    "filters": {
+      "location": "New York, USA",
+      "crime_type": "murder",
+      "time_period": "1980s",
+      "celebrity_involvement": "yes"
+    }
+  },
+  {
+    "dossier": 40,
+    "title": "The Monster of the Andes, Pedro López’s Unpunished Crimes",
+    "filters": {
+      "location": "Colombia/Peru/Ecuador",
+      "crime_type": "serial killing",
+      "time_period": "1970s",
+      "celebrity_involvement": "no"
+    }
+  },
+  {
+    "dossier": 41,
+    "title": "The Watergate Scandal, Nixon’s Downfall",
+    "filters": {
+      "location": "Washington, D.C., USA",
+      "crime_type": "political conspiracy",
+      "time_period": "1970s",
+      "celebrity_involvement": "yes"
+    }
+  },
+  {
+    "dossier": 42,
+    "title": "The Disappearance of Jimmy Hoffa",
+    "filters": {
+      "location": "Michigan, USA",
+      "crime_type": "missing person",
+      "time_period": "1970s",
+      "celebrity_involvement": "yes"
+    }
+  },
+  {
+    "dossier": 43,
+    "title": "The Vampire of Düsseldorf, Peter Kürten’s Bloodlust",
+    "filters": {
+      "location": "Düsseldorf, Germany",
+      "crime_type": "serial killing",
+      "time_period": "1920s",
+      "celebrity_involvement": "no"
+    }
+  },
+  {
+    "dossier": 44,
+    "title": "The Enigma of the Somerton Man, Australia’s Unknown Corpse",
+    "filters": {
+      "location": "Adelaide, Australia",
+      "crime_type": "unsolved death",
+      "time_period": "1940s",
+      "celebrity_involvement": "no"
+    }
+  },
+  {
+    "dossier": 45,
+    "title": "The Rajneesh Bioterror Attack, Cult Poisoning in Oregon",
+    "filters": {
+      "location": "Oregon, USA",
+      "crime_type": "bioterrorism",
+      "time_period": "1980s",
+      "celebrity_involvement": "no"
+    }
+  },
+  {
+    "dossier": 46,
+    "title": "The Murder of Tupac Shakur",
+    "filters": {
+      "location": "Nevada, USA",
+      "crime_type": "murder",
+      "time_period": "1990s",
+      "celebrity_involvement": "yes"
+    }
+  },
+  {
+    "dossier": 47,
+    "title": "The Disappearance of Flight MH370",
+    "filters": {
+      "location": "Indian Ocean",
+      "crime_type": "missing person",
+      "time_period": "2010s",
+      "celebrity_involvement": "no"
+    }
+  },
+  {
+    "dossier": 48,
+    "title": "The Lufthansa Heist, Goodfellas’ Real-Life Robbery",
+    "filters": {
+      "location": "New York, USA",
+      "crime_type": "heist",
+      "time_period": "1970s",
+      "celebrity_involvement": "no"
+    }
+  },
+  {
+    "dossier": 49,
+    "title": "The Death of Elisa Lam, The Cecil Hotel Mystery",
+    "filters": {
+      "location": "California, USA",
+      "crime_type": "unsolved death",
+      "time_period": "2010s",
+      "celebrity_involvement": "no"
+    }
+  },
+  {
+    "dossier": 50,
+    "title": "The Narcosatánicos, Mexico’s Cult Killings",
+    "filters": {
+      "location": "Matamoros, Mexico",
+      "crime_type": "cult-related murder",
+      "time_period": "1980s",
+      "celebrity_involvement": "no"
+    }
+  },
+  {
+    "dossier": 51,
+    "title": "The Assassination of Martin Luther King Jr.",
+    "filters": {
+      "location": "Tennessee, USA",
+      "crime_type": "assassination",
+      "time_period": "1960s",
+      "celebrity_involvement": "yes"
+    }
+  },
+  {
+    "dossier": 52,
+    "title": "The Disappearance of Natalee Holloway",
+    "filters": {
+      "location": "Aruba",
+      "crime_type": "missing person",
+      "time_period": "2000s",
+      "celebrity_involvement": "no"
+    }
+  },
+  {
+    "dossier": 53,
+    "title": "The Acid Bath Murderer, John Haigh’s Grisly Crimes",
+    "filters": {
+      "location": "London, UK",
+      "crime_type": "serial killing",
+      "time_period": "1940s",
+      "celebrity_involvement": "no"
+    }
+  },
+  {
+    "dossier": 54,
+    "title": "The Oklahoma City Bombing, Timothy McVeigh’s Terror",
+    "filters": {
+      "location": "Oklahoma, USA",
+      "crime_type": "terrorism",
+      "time_period": "1990s",
+      "celebrity_involvement": "no"
+    }
+  },
+  {
+    "dossier": 55,
+    "title": "The Murder of JonBenét Ramsey",
+    "filters": {
+      "location": "Colorado, USA",
+      "crime_type": "murder",
+      "time_period": "1990s",
+      "celebrity_involvement": "yes"
+    }
+  },
+  {
+    "dossier": 56,
+    "title": "The Port Arthur Massacre, Australia’s Gun Tragedy",
+    "filters": {
+      "location": "Tasmania, Australia",
+      "crime_type": "mass shooting",
+      "time_period": "1990s",
+      "celebrity_involvement": "no"
+    }
+  },
+  {
+    "dossier": 57,
+    "title": "The Enfield Haunting, The Poltergeist Case",
+    "filters": {
+      "location": "London, UK",
+      "crime_type": "fraud/investigation",
+      "time_period": "1970s",
+      "celebrity_involvement": "no"
+    }
+  },
+  {
+    "dossier": 58,
+    "title": "The Kidnapping of Patty Hearst",
+    "filters": {
+      "location": "California, USA",
+      "crime_type": "kidnapping",
+      "time_period": "1970s",
+      "celebrity_involvement": "yes"
+    }
+  },
+  {
+    "dossier": 59,
+    "title": "The Cannibal of Rotenburg, Armin Meiwes",
+    "filters": {
+      "location": "Rotenburg, Germany",
+      "crime_type": "murder/cannibalism",
+      "time_period": "2000s",
+      "celebrity_involvement": "no"
+    }
+  },
+  {
+    "dossier": 60,
+    "title": "The Murder of Meredith Kercher, Amanda Knox’s Trial",
+    "filters": {
+      "location": "Perugia, Italy",
+      "crime_type": "murder",
+      "time_period": "2000s",
+      "celebrity_involvement": "yes"
+    }
+  },
+  {
+    "dossier": 61,
+    "title": "The Columbine High School Shooting",
+    "filters": {
+      "location": "Colorado, USA",
+      "crime_type": "mass shooting",
+      "time_period": "1990s",
+      "celebrity_involvement": "no"
+    }
+  },
+  {
+    "dossier": 62,
+    "title": "The Disappearance of the Springfield Three",
+    "filters": {
+      "location": "Missouri, USA",
+      "crime_type": "missing person",
+      "time_period": "1990s",
+      "celebrity_involvement": "no"
+    }
+  },
+  {
+    "dossier": 63,
+    "title": "The Assassination of Robert F. Kennedy",
+    "filters": {
+      "location": "California, USA",
+      "crime_type": "assassination",
+      "time_period": "1960s",
+      "celebrity_involvement": "yes"
+    }
+  },
+  {
+    "dossier": 64,
+    "title": "The Monster of Belgium, Marc Dutroux’s Horrors",
+    "filters": {
+      "location": "Belgium",
+      "crime_type": "serial killing/kidnapping",
+      "time_period": "1990s",
+      "celebrity_involvement": "no"
+    }
+  },
+  {
+    "dossier": 65,
+    "title": "The Isabella Stewart Gardner Museum Heist",
+    "filters": {
+      "location": "Massachusetts, USA",
+      "crime_type": "art theft",
+      "time_period": "1990s",
+      "celebrity_involvement": "no"
+    }
+  },
+  {
+    "dossier": 66,
+    "title": "The Murder of Notorious B.I.G.",
+    "filters": {
+      "location": "California, USA",
+      "crime_type": "murder",
+      "time_period": "1990s",
+      "celebrity_involvement": "yes"
+    }
+  },
+  {
+    "dossier": 67,
+    "title": "The Disappearance of Cleo Smith",
+    "filters": {
+      "location": "Western Australia, Australia",
+      "crime_type": "kidnapping",
+      "time_period": "2020s",
+      "celebrity_involvement": "no"
+    }
+  },
+  {
+    "dossier": 68,
+    "title": "The Heaven’s Gate Cult, Mass Suicide in California",
+    "filters": {
+      "location": "California, USA",
+      "crime_type": "cult-related suicide",
+      "time_period": "1990s",
+      "celebrity_involvement": "no"
+    }
+  },
+  {
+    "dossier": 69,
+    "title": "The Murder of Polly Klaas",
+    "filters": {
+      "location": "California, USA",
+      "crime_type": "murder",
+      "time_period": "1990s",
+      "celebrity_involvement": "no"
+    }
+  },
+  {
+    "dossier": 70,
+    "title": "The Atlanta Child Murders, Wayne Williams’ Conviction",
+    "filters": {
+      "location": "Georgia, USA",
+      "crime_type": "serial killing",
+      "time_period": "1970s-1980s",
+      "celebrity_involvement": "no"
+    }
+  },
+  {
+    "dossier": 71,
+    "title": "The Disappearance of Amy Lynn Bradley",
+    "filters": {
+      "location": "Caribbean",
+      "crime_type": "missing person",
+      "time_period": "1990s",
+      "celebrity_involvement": "no"
+    }
+  },
+  {
+    "dossier": 72,
+    "title": "The Murder of Reeva Steenkamp, Oscar Pistorius’ Fall",
+    "filters": {
+      "location": "South Africa",
+      "crime_type": "murder",
+      "time_period": "2010s",
+      "celebrity_involvement": "yes"
+    }
+  },
+  {
+    "dossier": 73,
+    "title": "The Disappearance of the Flannan Isles Lighthouse Keepers",
+    "filters": {
+      "location": "Scotland, UK",
+      "crime_type": "missing person",
+      "time_period": "1900s",
+      "celebrity_involvement": "no"
+    }
+  },
+  {
+    "dossier": 74,
+    "title": "The Chappaquiddick Incident, Ted Kennedy’s Scandal",
+    "filters": {
+      "location": "Massachusetts, USA",
+      "crime_type": "manslaughter",
+      "time_period": "1960s",
+      "celebrity_involvement": "yes"
+    }
+  },
+  {
+    "dossier": 75,
+    "title": "The Smiley Face Killings, A Serial Killer Theory",
+    "filters": {
+      "location": "USA",
+      "crime_type": "serial killing",
+      "time_period": "1990s-2000s",
+      "celebrity_involvement": "no"
+    }
+  },
+  {
+    "dossier": 76,
+    "title": "The Murder of Laci Peterson",
+    "filters": {
+      "location": "California, USA",
+      "crime_type": "murder",
+      "time_period": "2000s",
+      "celebrity_involvement": "no"
+    }
+  },
+  {
+    "dossier": 77,
+    "title": "The Kidnapping of Elizabeth Smart",
+    "filters": {
+      "location": "Utah, USA",
+      "crime_type": "kidnapping",
+      "time_period": "2000s",
+      "celebrity_involvement": "no"
+    }
+  },
+  {
+    "dossier": 78,
+    "title": "The Murder of Adam Walsh",
+    "filters": {
+      "location": "Florida, USA",
+      "crime_type": "murder",
+      "time_period": "1980s",
+      "celebrity_involvement": "no"
+    }
+  },
+  {
+    "dossier": 79,
+    "title": "The Disappearance of Maura Murray",
+    "filters": {
+      "location": "New Hampshire, USA",
+      "crime_type": "missing person",
+      "time_period": "2000s",
+      "celebrity_involvement": "no"
+    }
+  },
+  {
+    "dossier": 80,
+    "title": "The Murder of Sharon Tate",
+    "filters": {
+      "location": "California, USA",
+      "crime_type": "murder",
+      "time_period": "1960s",
+      "celebrity_involvement": "yes"
+    }
+  },
+  {
+    "dossier": 81,
+    "title": "The Dnepropetrovsk Maniacs, Ukraine’s Video Killers",
+    "filters": {
+      "location": "Ukraine",
+      "crime_type": "serial killing",
+      "time_period": "2000s",
+      "celebrity_involvement": "no"
+    }
+  },
+  {
+    "dossier": 82,
+    "title": "The Murder of Kitty Genovese",
+    "filters": {
+      "location": "New York, USA",
+      "crime_type": "murder",
+      "time_period": "1960s",
+      "celebrity_involvement": "no"
+    }
+  },
+  {
+    "dossier": 83,
+    "title": "The Great Diamond Heist, Antwerp’s Perfect Crime",
+    "filters": {
+      "location": "Antwerp, Belgium",
+      "crime_type": "heist",
+      "time_period": "2000s",
+      "celebrity_involvement": "no"
+    }
+  },
+  {
+    "dossier": 84,
+    "title": "The Murder of Sophie Toscan du Plantier",
+    "filters": {
+      "location": "Ireland",
+      "crime_type": "murder",
+      "time_period": "1990s",
+      "celebrity_involvement": "yes"
+    }
+  },
+  {
+    "dossier": 85,
+    "title": "The Chessboard Killer, Alexander Pichushkin’s Deadly Game",
+    "filters": {
+      "location": "Moscow, Russia",
+      "crime_type": "serial killing",
+      "time_period": "1990s-2000s",
+      "celebrity_involvement": "no"
+    }
+  },
+  {
+    "dossier": 86,
+    "title": "The Murder of Daniel Morcombe",
+    "filters": {
+      "location": "Queensland, Australia",
+      "crime_type": "murder",
+      "time_period": "2000s",
+      "celebrity_involvement": "no"
+    }
+  },
+  {
+    "dossier": 87,
+    "title": "The Disappearance of Tammy Kingery",
+    "filters": {
+      "location": "South Carolina, USA",
+      "crime_type": "missing person",
+      "time_period": "2010s",
+      "celebrity_involvement": "no"
+    }
+  },
+  {
+    "dossier": 88,
+    "title": "The Murder of Lee Harvey Oswald",
+    "filters": {
+      "location": "Texas, USA",
+      "crime_type": "murder",
+      "time_period": "1960s",
+      "celebrity_involvement": "yes"
+    }
+  },
+  {
+    "dossier": 89,
+    "title": "The Snowtown Murders, Australia’s Bodies in Barrels",
+    "filters": {
+      "location": "South Australia, Australia",
+      "crime_type": "serial killing",
+      "time_period": "1990s",
+      "celebrity_involvement": "no"
+    }
+  },
+  {
+    "dossier": 90,
+    "title": "The Murder of Hae Min Lee, The Serial Podcast Case",
+    "filters": {
+      "location": "Maryland, USA",
+      "crime_type": "murder",
+      "time_period": "1990s",
+      "celebrity_involvement": "no"
+    }
+  },
+  {
+    "dossier": 91,
+    "title": "The Disappearance of Lars Mittank",
+    "filters": {
+      "location": "Bulgaria",
+      "crime_type": "missing person",
+      "time_period": "2010s",
+      "celebrity_involvement": "no"
+    }
+  },
+  {
+    "dossier": 92,
+    "title": "The Murder of Phil Hartman",
+    "filters": {
+      "location": "California, USA",
+      "crime_type": "murder",
+      "time_period": "1990s",
+      "celebrity_involvement": "yes"
+    }
+  },
+  {
+    "dossier": 93,
+    "title": "The Disappearance of Andrew Gosden",
+    "filters": {
+      "location": "London, UK",
+      "crime_type": "missing person",
+      "time_period": "2000s",
+      "celebrity_involvement": "no"
+    }
+  },
+  {
+    "dossier": 94,
+    "title": "The Murder of Selena Quintanilla",
+    "filters": {
+      "location": "Texas, USA",
+      "crime_type": "murder",
+      "time_period": "1990s",
+      "celebrity_involvement": "yes"
+    }
+  },
+  {
+    "dossier": 95,
+    "title": "The Disappearance of Sneha Philip",
+    "filters": {
+      "location": "New York, USA",
+      "crime_type": "missing person",
+      "time_period": "2000s",
+      "celebrity_involvement": "no"
+    }
+  },
+  {
+    "dossier": 96,
+    "title": "The Murder of Gabriel Kuhn",
+    "filters": {
+      "location": "Brazil",
+      "crime_type": "murder",
+      "time_period": "2000s",
+      "celebrity_involvement": "no"
+    }
+  },
+  {
+    "dossier": 97,
+    "title": "The Disappearance of Kyron Horman",
+    "filters": {
+      "location": "Oregon, USA",
+      "crime_type": "missing person",
+      "time_period": "2010s",
+      "celebrity_involvement": "no"
+    }
+  },
+  {
+    "dossier": 98,
+    "title": "The Murder of Jam Master Jay",
+    "filters": {
+      "location": "New York, USA",
+      "crime_type": "murder",
+      "time_period": "2000s",
+      "celebrity_involvement": "yes"
+    }
+  },
+  {
+    "dossier": 99,
+    "title": "The Disappearance of Yingying Zhang",
+    "filters": {
+      "location": "Illinois, USA",
+      "crime_type": "missing person/murder",
+      "time_period": "2010s",
+      "celebrity_involvement": "no"
+    }
+  },
+  {
+    "dossier": 100,
+    "title": "The Murder of Anna Politkovskaya",
+    "filters": {
+      "location": "Moscow, Russia",
+      "crime_type": "assassination",
+      "time_period": "2000s",
+      "celebrity_involvement": "yes"
+    }
+  },
+  {
+    "dossier": 101,
+    "title": "The Disappearance of Lisa Irwin",
+    "filters": {
+      "location": "Missouri, USA",
+      "crime_type": "missing person",
+      "time_period": "2010s",
+      "celebrity_involvement": "no"
+    }
+  },
+  {
+    "dossier": 102,
+    "title": "The Murder of Rebecca Schaeffer",
+    "filters": {
+      "location": "California, USA",
+      "crime_type": "murder",
+      "time_period": "1980s",
+      "celebrity_involvement": "yes"
+    }
+  },
+  {
+    "dossier": 103,
+    "title": "The Disappearance of Brian Shaffer",
+    "filters": {
+      "location": "Ohio, USA",
+      "crime_type": "missing person",
+      "time_period": "2000s",
+      "celebrity_involvement": "no"
+    }
+  },
+  {
+    "dossier": 104,
+    "title": "The Murder of Matthew Shepard",
+    "filters": {
+      "location": "Wyoming, USA",
+      "crime_type": "murder",
+      "time_period": "1990s",
+      "celebrity_involvement": "no"
+    }
+  },
+  {
+    "dossier": 105,
+    "title": "The Disappearance of Jennifer Kesse",
+    "filters": {
+      "location": "Florida, USA",
+      "crime_type": "missing person",
+      "time_period": "2000s",
+      "celebrity_involvement": "no"
+    }
+  },
+  {
+    "dossier": 106,
+    "title": "The Murder of XXXTentacion",
+    "filters": {
+      "location": "Florida, USA",
+      "crime_type": "murder",
+      "time_period": "2010s",
+      "celebrity_involvement": "yes"
+    }
+  },
+  {
+    "dossier": 107,
+    "title": "The Disappearance of Lauren Spierer",
+    "filters": {
+      "location": "Indiana, USA",
+      "crime_type": "missing person",
+      "time_period": "2010s",
+      "celebrity_involvement": "no"
+    }
+  },
+  {
+    "dossier": 108,
+    "title": "The Murder of Nicole Brown Simpson",
+    "filters": {
+      "location": "California, USA",
+      "crime_type": "murder",
+      "time_period": "1990s",
+      "celebrity_involvement": "yes"
+    }
+  },
+  {
+    "dossier": 109,
+    "title": "The Disappearance of Ray Gricar",
+    "filters": {
+      "location": "Pennsylvania, USA",
+      "crime_type": "missing person",
+      "time_period": "2000s",
+      "celebrity_involvement": "no"
+    }
+  },
+  {
+    "dossier": 110,
+    "title": "The Murder of Marvin Gaye",
+    "filters": {
+      "location": "California, USA",
+      "crime_type": "murder",
+      "time_period": "1980s",
+      "celebrity_involvement": "yes"
+    }
+  },
+  {
+    "dossier": 111,
+    "title": "The Disappearance of Etan Patz",
+    "filters": {
+      "location": "New York, USA",
+      "crime_type": "missing person",
+      "time_period": "1970s",
+      "celebrity_involvement": "no"
+    }
+  },
+  {
+    "dossier": 112,
+    "title": "The Murder of Sam Cooke",
+    "filters": {
+      "location": "California, USA",
+      "crime_type": "murder",
+      "time_period": "1960s",
+      "celebrity_involvement": "yes"
+    }
+  },
+  {
+    "dossier": 113,
+    "title": "The Disappearance of Brandon Lawson",
+    "filters": {
+      "location": "Texas, USA",
+      "crime_type": "missing person",
+      "time_period": "2010s",
+      "celebrity_involvement": "no"
+    }
+  },
+  {
+    "dossier": 114,
+    "title": "The Murder of Dorothy Stratten",
+    "filters": {
+      "location": "California, USA",
+      "crime_type": "murder",
+      "time_period": "1980s",
+      "celebrity_involvement": "yes"
+    }
+  },
+  {
+    "dossier": 115,
+    "title": "The Disappearance of Asha Degree",
+    "filters": {
+      "location": "North Carolina, USA",
+      "crime_type": "missing person",
+      "time_period": "2000s",
+      "celebrity_involvement": "no"
+    }
+  },
+  {
+    "dossier": 116,
+    "title": "The Murder of Lisa Marie Kimmell",
+    "filters": {
+      "location": "Wyoming, USA",
+      "crime_type": "murder",
+      "time_period": "1980s",
+      "celebrity_involvement": "no"
+    }
+  },
+  {
+    "dossier": 117,
+    "title": "The Disappearance of Tara Calico",
+    "filters": {
+      "location": "New Mexico, USA",
+      "crime_type": "missing person",
+      "time_period": "1980s",
+      "celebrity_involvement": "no"
+    }
+  },
+  {
+    "dossier": 118,
+    "title": "The Murder of Griselda Blanco",
+    "filters": {
+      "location": "Colombia",
+      "crime_type": "murder",
+      "time_period": "2010s",
+      "celebrity_involvement": "yes"
+    }
+  },
+  {
+    "dossier": 119,
+    "title": "The Disappearance of Morgan Nick",
+    "filters": {
+      "location": "Arkansas, USA",
+      "crime_type": "missing person",
+      "time_period": "1990s",
+      "celebrity_involvement": "no"
+    }
+  },
+  {
+    "dossier": 120,
+    "title": "The Murder of Chandra Levy",
+    "filters": {
+      "location": "Washington, D.C., USA",
+      "crime_type": "murder",
+      "time_period": "2000s",
+      "celebrity_involvement": "yes"
+    }
+  },
+  {
+    "dossier": 121,
+    "title": "The Disappearance of Kristin Smart",
+    "filters": {
+      "location": "California, USA",
+      "crime_type": "missing person/murder",
+      "time_period": "1990s",
+      "celebrity_involvement": "no"
+    }
+  },
+  {
+    "dossier": 122,
+    "title": "The Murder of James Bulger",
+    "filters": {
+      "location": "Liverpool, UK",
+      "crime_type": "murder",
+      "time_period": "1990s",
+      "celebrity_involvement": "no"
+    }
+  },
+  {
+    "dossier": 123,
+    "title": "The Disappearance of Sarah MacDiarmid",
+    "filters": {
+      "location": "Melbourne, Australia",
+      "crime_type": "missing person",
+      "time_period": "1990s",
+      "celebrity_involvement": "no"
+    }
+  },
+  {
+    "dossier": 124,
+    "title": "The Murder of Rachel Nickell",
+    "filters": {
+      "location": "London, UK",
+      "crime_type": "murder",
+      "time_period": "1990s",
+      "celebrity_involvement": "no"
+    }
+  },
+  {
+    "dossier": 125,
+    "title": "The Disappearance of Julie Ward",
+    "filters": {
+      "location": "Kenya",
+      "crime_type": "missing person/murder",
+      "time_period": "1980s",
+      "celebrity_involvement": "no"
+    }
+  },
+  {
+    "dossier": 126,
+    "title": "The Murder of Jill Dando",
+    "filters": {
+      "location": "London, UK",
+      "crime_type": "murder",
+      "time_period": "1990s",
+      "celebrity_involvement": "yes"
+    }
+  },
+  {
+    "dossier": 127,
+    "title": "The Disappearance of Ben Needham",
+    "filters": {
+      "location": "Kos, Greece",
+      "crime_type": "missing person",
+      "time_period": "1990s",
+      "celebrity_involvement": "no"
+    }
+  },
+  {
+    "dossier": 128,
+    "title": "The Murder of Stephen Lawrence",
+    "filters": {
+      "location": "London, UK",
+      "crime_type": "murder",
+      "time_period": "1990s",
+      "celebrity_involvement": "no"
+    }
+  },
+  {
+    "dossier": 129,
+    "title": "The Disappearance of Michael Dunahee",
+    "filters": {
+      "location": "British Columbia, Canada",
+      "crime_type": "missing person",
+      "time_period": "1990s",
+      "celebrity_involvement": "no"
+    }
+  },
+  {
+    "dossier": 130,
+    "title": "The Murder of Versace’s Killer, Andrew Cunanan’s Spree",
+    "filters": {
+      "location": "USA",
+      "crime_type": "serial killing",
+      "time_period": "1990s",
+      "celebrity_involvement": "yes"
+    }
+  },
+  {
+    "dossier": 131,
+    "title": "The Disappearance of Richey Edwards",
+    "filters": {
+      "location": "London, UK",
+      "crime_type": "missing person",
+      "time_period": "1990s",
+      "celebrity_involvement": "yes"
+    }
+  },
+  {
+    "dossier": 132,
+    "title": "The Murder of Mia Zapata",
+    "filters": {
+      "location": "Washington, USA",
+      "crime_type": "murder",
+      "time_period": "1990s",
+      "celebrity_involvement": "yes"
+    }
+  },
+  {
+    "dossier": 133,
+    "title": "The Disappearance of Brandon Swanson",
+    "filters": {
+      "location": "Minnesota, USA",
+      "crime_type": "missing person",
+      "time_period": "2000s",
+      "celebrity_involvement": "no"
+    }
+  },
+  {
+    "dossier": 134,
+    "title": "The Murder of Holly Maddux",
+    "filters": {
+      "location": "Pennsylvania, USA",
+      "crime_type": "murder",
+      "time_period": "1970s",
+      "celebrity_involvement": "no"
+    }
+  },
+  {
+    "dossier": 135,
+    "title": "The Disappearance of Johnny Gosch",
+    "filters": {
+      "location": "Iowa, USA",
+      "crime_type": "missing person",
+      "time_period": "1980s",
+      "celebrity_involvement": "no"
+    }
+  },
+  {
+    "dossier": 136,
+    "title": "The Murder of Lisa McVey’s Abductor, Bobby Joe Long",
+    "filters": {
+      "location": "Florida, USA",
+      "crime_type": "serial killing",
+      "time_period": "1980s",
+      "celebrity_involvement": "no"
+    }
+  },
+  {
+    "dossier": 137,
+    "title": "The Disappearance of Tiffany Whitton",
+    "filters": {
+      "location": "Georgia, USA",
+      "crime_type": "missing person",
+      "time_period": "2010s",
+      "celebrity_involvement": "no"
+    }
+  },
+  {
+    "dossier": 138,
+    "title": "The Murder of Anjelica Castillo, The Baby Hope Case",
+    "filters": {
+      "location": "New York, USA",
+      "crime_type": "murder",
+      "time_period": "1990s",
+      "celebrity_involvement": "no"
+    }
+  },
+  {
+    "dossier": 139,
+    "title": "The Disappearance of the Jamison Family",
+    "filters": {
+      "location": "Oklahoma, USA",
+      "crime_type": "missing person",
+      "time_period": "2000s",
+      "celebrity_involvement": "no"
+    }
+  },
+  {
+    "dossier": 140,
+    "title": "The Murder of Elizabeth Short, The Black Dahlia",
+    "filters": {
+      "location": "California, USA",
+      "crime_type": "murder",
+      "time_period": "1940s",
+      "celebrity_involvement": "no"
+    }
+  },
+  {
+    "dossier": 141,
+    "title": "The Disappearance of the Sodder Children",
+    "filters": {
+      "location": "West Virginia, USA",
+      "crime_type": "missing person",
+      "time_period": "1940s",
+      "celebrity_involvement": "no"
+    }
+  },
+  {
+    "dossier": 142,
+    "title": "The Murder of Heather Rich",
+    "filters": {
+      "location": "Oklahoma, USA",
+      "crime_type": "murder",
+      "time_period": "1990s",
+      "celebrity_involvement": "no"
+    }
+  },
+  {
+    "dossier": 143,
+    "title": "The Disappearance of Amy Wroe Bechtel",
+    "filters": {
+      "location": "Wyoming, USA",
+      "crime_type": "missing person",
+      "time_period": "1990s",
+      "celebrity_involvement": "no"
+    }
+  },
+  {
+    "dossier": 144,
+    "title": "The Murder of Kristin O’Connell",
+    "filters": {
+      "location": "New York, USA",
+      "crime_type": "murder",
+      "time_period": "1980s",
+      "celebrity_involvement": "no"
+    }
+  },
+  {
+    "dossier": 145,
+    "title": "The Disappearance of Diane Schuler",
+    "filters": {
+      "location": "New York, USA",
+      "crime_type": "unsolved death",
+      "time_period": "2000s",
+      "celebrity_involvement": "no"
+    }
+  },
+  {
+    "dossier": 146,
+    "title": "The Murder of Debbie Wolfe",
+    "filters": {
+      "location": "North Carolina, USA",
+      "crime_type": "murder",
+      "time_period": "1980s",
+      "celebrity_involvement": "no"
+    }
+  },
+  {
+    "dossier": 147,
+    "title": "The Disappearance of Morgan Harrington",
+    "filters": {
+      "location": "Virginia, USA",
+      "crime_type": "missing person/murder",
+      "time_period": "2000s",
+      "celebrity_involvement": "no"
+    }
+  },
+  {
+    "dossier": 148,
+    "title": "The Murder of Mary Pinchot Meyer",
+    "filters": {
+      "location": "Washington, D.C., USA",
+      "crime_type": "murder",
+      "time_period": "1960s",
+      "celebrity_involvement": "yes"
+    }
+  },
+  {
+    "dossier": 149,
+    "title": "The Disappearance of Bethany Decker",
+    "filters": {
+      "location": "Virginia, USA",
+      "crime_type": "missing person",
+      "time_period": "2010s",
+      "celebrity_involvement": "no"
+    }
+  },
+  {
+    "dossier": 150,
+    "title": "The Murder of Cheri Jo Bates",
+    "filters": {
+      "location": "California, USA",
+      "crime_type": "murder",
+      "time_period": "1960s",
+      "celebrity_involvement": "no"
+    }
+  },
+  {
+    "dossier": 151,
+    "title": "The Disappearance of Zebb Quinn",
+    "filters": {
+      "location": "North Carolina, USA",
+      "crime_type": "missing person",
+      "time_period": "2000s",
+      "celebrity_involvement": "no"
+    }
+  },
+  {
+    "dossier": 152,
+    "title": "The Murder of Taman Shud, The Somerton Man",
+    "filters": {
+      "location": "Adelaide, Australia",
+      "crime_type": "unsolved death",
+      "time_period": "1940s",
+      "celebrity_involvement": "no"
+    }
+  },
+  {
+    "dossier": 153,
+    "title": "The Disappearance of Annie McCarrick",
+    "filters": {
+      "location": "Ireland",
+      "crime_type": "missing person",
+      "time_period": "1990s",
+      "celebrity_involvement": "no"
+    }
+  },
+  {
+    "dossier": 154,
+    "title": "The Murder of Banaz Mahmod",
+    "filters": {
+      "location": "London, UK",
+      "crime_type": "murder",
+      "time_period": "2000s",
+      "celebrity_involvement": "no"
+    }
+  },
+  {
+    "dossier": 155,
+    "title": "The Disappearance of Claudia Lawrence",
+    "filters": {
+      "location": "York, UK",
+      "crime_type": "missing person",
+      "time_period": "2000s",
+      "celebrity_involvement": "no"
+    }
+  },
+  {
+    "dossier": 156,
+    "title": "The Murder of Jo Cox",
+    "filters": {
+      "location": "Yorkshire, UK",
+      "crime_type": "assassination",
+      "time_period": "2010s",
+      "celebrity_involvement": "yes"
+    }
+  },
+  {
+    "dossier": 157,
+    "title": "The Disappearance of Leah Roberts",
+    "filters": {
+      "location": "Washington, USA",
+      "crime_type": "missing person",
+      "time_period": "2000s",
+      "celebrity_involvement": "no"
+    }
+  },
+  {
+    "dossier": 158,
+    "title": "The Murder of Sarah Everard",
+    "filters": {
+      "location": "London, UK",
+      "crime_type": "murder",
+      "time_period": "2020s",
+      "celebrity_involvement": "no"
+    }
+  },
+  {
+    "dossier": 159,
+    "title": "The Disappearance of Daniel Robinson",
+    "filters": {
+      "location": "Arizona, USA",
+      "crime_type": "missing person",
+      "time_period": "2020s",
+      "celebrity_involvement": "no"
+    }
+  },
+  {
+    "dossier": 160,
+    "title": "The Murder of Brianna Ghey",
+    "filters": {
+      "location": "Cheshire, UK",
+      "crime_type": "murder",
+      "time_period": "2020s",
+      "celebrity_involvement": "no"
+    }
+  },
+  {
+    "dossier": 161,
+    "title": "The Disappearance of Lisa Marie Young",
+    "filters": {
+      "location": "British Columbia, Canada",
+      "crime_type": "missing person",
+      "time_period": "2000s",
+      "celebrity_involvement": "no"
+    }
+  },
+  {
+    "dossier": 162,
+    "title": "The Murder of Sabina Nessa",
+    "filters": {
+      "location": "London, UK",
+      "crime_type": "murder",
+      "time_period": "2020s",
+      "celebrity_involvement": "no"
+    }
+  },
+  {
+    "dossier": 163,
+    "title": "The Disappearance of Phoenix Coldon",
+    "filters": {
+      "location": "Missouri, USA",
+      "crime_type": "missing person",
+      "time_period": "2010s",
+      "celebrity_involvement": "no"
+    }
+  },
+  {
+    "dossier": 164,
+    "title": "The Murder of Liliana Resinovich",
+    "filters": {
+      "location": "Trieste, Italy",
+      "crime_type": "murder",
+      "time_period": "2020s",
+      "celebrity_involvement": "no"
+    }
+  },
+  {
+    "dossier": 165,
+    "title": "The Disappearance of Tiffany Valiante",
+    "filters": {
+      "location": "New Jersey, USA",
+      "crime_type": "missing person/unsolved death",
+      "time_period": "2010s",
+      "celebrity_involvement": "no"
+    }
+  },
+  {
+    "dossier": 166,
+    "title": "The Murder of Lauren McCluskey",
+    "filters": {
+      "location": "Utah, USA",
+      "crime_type": "murder",
+      "time_period": "2010s",
+      "celebrity_involvement": "no"
+    }
+  },
+  {
+    "dossier": 167,
+    "title": "The Disappearance of Katrice Lee",
+    "filters": {
+      "location": "Germany",
+      "crime_type": "missing person",
+      "time_period": "1980s",
+      "celebrity_involvement": "no"
+    }
+  },
+  {
+    "dossier": 168,
+    "title": "The Murder of Holly Bobo",
+    "filters": {
+      "location": "Tennessee, USA",
+      "crime_type": "murder",
+      "time_period": "2010s",
+      "celebrity_involvement": "no"
+    }
+  },
+  {
+    "dossier": 169,
+    "title": "The Disappearance of Karlie Gusé",
+    "filters": {
+      "location": "California, USA",
+      "crime_type": "missing person",
+      "time_period": "2010s",
+      "celebrity_involvement": "no"
+    }
+  },
+  {
+    "dossier": 170,
+    "title": "The Murder of Zahra Baker",
+    "filters": {
+      "location": "North Carolina, USA",
+      "crime_type": "murder",
+      "time_period": "2010s",
+      "celebrity_involvement": "no"
+    }
+  },
+  {
+    "dossier": 171,
+    "title": "The Disappearance of Summer Wells",
+    "filters": {
+      "location": "Tennessee, USA",
+      "crime_type": "missing person",
+      "time_period": "2020s",
+      "celebrity_involvement": "no"
+    }
+  },
+  {
+    "dossier": 172,
+    "title": "The Murder of Cassie Jo Stoddart",
+    "filters": {
+      "location": "Idaho, USA",
+      "crime_type": "murder",
+      "time_period": "2000s",
+      "celebrity_involvement": "no"
+    }
+  },
+  {
+    "dossier": 173,
+    "title": "The Disappearance of Alexis Patterson",
+    "filters": {
+      "location": "Wisconsin, USA",
+      "crime_type": "missing person",
+      "time_period": "2000s",
+      "celebrity_involvement": "no"
+    }
+  },
+  {
+    "dossier": 174,
+    "title": "The Murder of Shanda Sharer",
+    "filters": {
+      "location": "Indiana, USA",
+      "crime_type": "murder",
+      "time_period": "1990s",
+      "celebrity_involvement": "no"
+    }
+  },
+  {
+    "dossier": 175,
+    "title": "The Disappearance of Relisha Rudd",
+    "filters": {
+      "location": "Washington, D.C., USA",
+      "crime_type": "missing person",
+      "time_period": "2010s",
+      "celebrity_involvement": "no"
+    }
+  },
+  {
+    "dossier": 176,
+    "title": "The Murder of Anni Dewani",
+    "filters": {
+      "location": "South Africa",
+      "crime_type": "murder",
+      "time_period": "2010s",
+      "celebrity_involvement": "no"
+    }
+  },
+  {
+    "dossier": 177,
+    "title": "The Disappearance of Lisa Stebic",
+    "filters": {
+      "location": "Illinois, USA",
+      "crime_type": "missing person",
+      "time_period": "2000s",
+      "celebrity_involvement": "no"
+    }
+  },
+  {
+    "dossier": 178,
+    "title": "The Murder of Yingying Zhang",
+    "filters": {
+      "location": "Illinois, USA",
+      "crime_type": "murder",
+      "time_period": "2010s",
+      "celebrity_involvement": "no"
+    }
+  },
+  {
+    "dossier": 179,
+    "title": "The Disappearance of Deorr Kunz",
+    "filters": {
+      "location": "Idaho, USA",
+      "crime_type": "missing person",
+      "time_period": "2010s",
+      "celebrity_involvement": "no"
+    }
+  },
+  {
+    "dossier": 180,
+    "title": "The Murder of Sarah Stern",
+    "filters": {
+      "location": "New Jersey, USA",
+      "crime_type": "murder",
+      "time_period": "2010s",
+      "celebrity_involvement": "no"
+    }
+  },
+  {
+    "dossier": 181,
+    "title": "The Disappearance of Paige Johnson",
+    "filters": {
+      "location": "Kentucky, USA",
+      "crime_type": "missing person",
+      "time_period": "2010s",
+      "celebrity_involvement": "no"
+    }
+  },
+  {
+    "dossier": 182,
+    "title": "The Murder of Travis Alexander",
+    "filters": {
+      "location": "Arizona, USA",
+      "crime_type": "murder",
+      "time_period": "2000s",
+      "celebrity_involvement": "no"
+    }
+  },
+  {
+    "dossier": 183,
+    "title": "The Disappearance of William Tyrrell",
+    "filters": {
+      "location": "New South Wales, Australia",
+      "crime_type": "missing person",
+      "time_period": "2010s",
+      "celebrity_involvement": "no"
+    }
+  },
+  {
+    "dossier": 184,
+    "title": "The Murder of Meredith Emerson",
+    "filters": {
+      "location": "Georgia, USA",
+      "crime_type": "murder",
+      "time_period": "2000s",
+      "celebrity_involvement": "no"
+    }
+  },
+  {
+    "dossier": 185,
+    "title": "The Disappearance of Aeryn Gillern",
+    "filters": {
+      "location": "Vienna, Austria",
+      "crime_type": "missing person",
+      "time_period": "2000s",
+      "celebrity_involvement": "no"
+    }
+  },
+  {
+    "dossier": 186,
+    "title": "The Murder of Skylar Neese",
+    "filters": {
+      "location": "West Virginia, USA",
+      "crime_type": "murder",
+      "time_period": "2010s",
+      "celebrity_involvement": "no"
+    }
+  },
+  {
+    "dossier": 187,
+    "title": "The Disappearance of Timmothy Pitzen",
+    "filters": {
+      "location": "Illinois, USA",
+      "crime_type": "missing person",
+      "time_period": "2010s",
+      "celebrity_involvement": "no"
+    }
+  },
+  {
+    "dossier": 188,
+    "title": "The Murder of Holly Piirainen",
+    "filters": {
+      "location": "Massachusetts, USA",
+      "crime_type": "murder",
+      "time_period": "1990s",
+      "celebrity_involvement": "no"
+    }
+  },
+  {
+    "dossier": 189,
+    "title": "The Disappearance of Suzanne Lyall",
+    "filters": {
+      "location": "New York, USA",
+      "crime_type": "missing person",
+      "time_period": "1990s",
+      "celebrity_involvement": "no"
+    }
+  },
+  {
+    "dossier": 190,
+    "title": "The Murder of Jodi Huisentruit",
+    "filters": {
+      "location": "Iowa, USA",
+      "crime_type": "murder",
+      "time_period": "1990s",
+      "celebrity_involvement": "yes"
+    }
+  },
+  {
+    "dossier": 191,
+    "title": "The Disappearance of Crystal Rogers",
+    "filters": {
+      "location": "Kentucky, USA",
+      "crime_type": "missing person",
+      "time_period": "2010s",
+      "celebrity_involvement": "no"
+    }
+  },
+  {
+    "dossier": 192,
+    "title": "The Murder of Jessica Dishon",
+    "filters": {
+      "location": "Kentucky, USA",
+      "crime_type": "murder",
+      "time_period": "1990s",
+      "celebrity_involvement": "no"
+    }
+  },
+  {
+    "dossier": 193,
+    "title": "The Disappearance of Brittanee Drexel",
+    "filters": {
+      "location": "South Carolina, USA",
+      "crime_type": "missing person/murder",
+      "time_period": "2000s",
+      "celebrity_involvement": "no"
+    }
+  },
+  {
+    "dossier": 194,
+    "title": "The Murder of Sierra Lamar",
+    "filters": {
+      "location": "California, USA",
+      "crime_type": "murder",
+      "time_period": "2010s",
+      "celebrity_involvement": "no"
+    }
+  },
+  {
+    "dossier": 195,
+    "title": "The Disappearance of Hannah Upp",
+    "filters": {
+      "location": "New York, USA",
+      "crime_type": "missing person",
+      "time_period": "2000s",
+      "celebrity_involvement": "no"
+    }
+  },
+  {
+    "dossier": 196,
+    "title": "The Murder of Amy Mihaljevic",
+    "filters": {
+      "location": "Ohio, USA",
+      "crime_type": "murder",
+      "time_period": "1980s",
+      "celebrity_involvement": "no"
+    }
+  },
+  {
+    "dossier": 197,
+    "title": "The Disappearance of Sarah Ann Norfleet",
+    "filters": {
+      "location": "North Carolina, USA",
+      "crime_type": "missing person",
+      "time_period": "2000s",
+      "celebrity_involvement": "no"
+    }
+  },
+  {
+    "dossier": 198,
+    "title": "The Murder of Morgan Dana Harrington",
+    "filters": {
+      "location": "Virginia, USA",
+      "crime_type": "murder",
+      "time_period": "2000s",
+      "celebrity_involvement": "no"
+    }
+  },
+  {
+    "dossier": 199,
+    "title": "The Disappearance of Danielle Imbo and Richard Petrone",
+    "filters": {
+      "location": "Pennsylvania, USA",
+      "crime_type": "missing person",
+      "time_period": "2000s",
+      "celebrity_involvement": "no"
+    }
+  },
+  {
+    "dossier": 200,
+    "title": "The Murder of Rachel Hoffman",
+    "filters": {
+      "location": "Florida, USA",
+      "crime_type": "murder",
+      "time_period": "2000s",
+      "celebrity_involvement": "no"
+    }
+  }
 ]
